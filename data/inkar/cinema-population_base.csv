@@ -1,0 +1,2516 @@
+Kennziffer,Raumeinheit,Aggregat,Bevölkerung,Kinos,Kinosäle,Kinositzplätze,Einwohnerdichte,Siedlungs- und Verkehrsfläche,ÖV-Haltestellen,ÖV-Abfahrten
+,,,2022,2021,2021,2021,2022,2022,2020,2020
+1051001,Albersdorf,Grundzentrum,3774,0,0,0,220.44,19.68,10,260
+1051013,Büsum,Grundzentrum,4970,1,2,463,586.08,41.39,7,193
+1051016,Burg (Dithmarschen),Grundzentrum,4206,0,0,0,373.87,23.02,6,219
+1051049,Hennstedt,Grundzentrum,2042,0,0,0,93.11,15.28,11,432
+1051071,Lunden,Grundzentrum,1677,0,0,0,360.65,22.8,3,134
+1051072,Marne,Grundzentrum,6037,0,0,0,1249.9,62.32,8,246
+1051074,Meldorf,Grundzentrum,7355,1,1,98,345.95,23.61,17,669
+1051097,Sankt Michaelisdonn,Grundzentrum,3541,0,0,0,153.56,20.16,6,219
+1051114,Tellingstedt,Grundzentrum,2717,0,0,0,128.77,12.46,7,166
+1051127,Wesselburen,Grundzentrum,3564,0,0,0,694.74,35.67,6,218
+1053009,Berkenthin,Grundzentrum,2212,0,0,0,213.93,16.05,7,426
+1053020,Büchen,Grundzentrum,6617,0,0,0,392.7,27.24,11,453
+1053083,Lauenburg,Grundzentrum,11855,0,0,0,1240.06,48.95,35,1515
+1053100,Ratzeburg,Grundzentrum,14553,2,5,1461,480.46,21.16,41,3423
+1053108,Sandesneben,Grundzentrum,1886,0,0,0,307.67,17.13,6,459
+1053116,Schwarzenbek,Grundzentrum,17317,1,3,204,1486.44,49.79,15,944
+1054019,Bredstedt,Grundzentrum,5736,0,0,0,588.31,34.56,12,393
+1054033,Friedrichstadt,Grundzentrum,2555,0,0,0,635.57,39.8,9,173
+1054036,Garding,Grundzentrum,2823,0,0,0,922.55,52.29,6,94
+1054065,Klanxbüll,Grundzentrum,1042,0,0,0,98.02,15.52,6,115
+1054076,Leck,Grundzentrum,7860,1,2,226,263.85,26.05,22,559
+1054085,Nebel,Grundzentrum,984,0,0,0,82.34,13.89,6,168
+1054086,Neukirchen,Grundzentrum,1107,0,0,0,35.05,8.2,22,363
+1054088,Niebüll,Grundzentrum,10192,0,0,0,332.75,23.73,25,850
+1054113,Sankt Peter-Ording,Grundzentrum,3934,1,1,102,138.77,19.82,32,931
+1054131,Süderlügum,Grundzentrum,2424,0,0,0,91.16,13.43,10,208
+1054138,Tönning,Grundzentrum,4895,0,0,0,110.17,10.33,26,440
+1054144,Viöl,Grundzentrum,2225,0,0,0,117.35,12.03,9,212
+1054164,Wyk auf Föhr,Grundzentrum,4380,1,2,333,542.08,39.85,15,359
+1054168,Sylt,Grundzentrum,13924,1,4,557,242.96,30.41,80,2834
+1055001,Ahrensbök,Grundzentrum,8469,0,0,0,88.8,7.73,56,985
+1055004,Bad Schwartau,Grundzentrum,20255,1,4,597,1101.41,38.06,32,4634
+1055016,Grömitz,Grundzentrum,7286,1,2,169,142.61,15.76,37,941
+1055018,Grube,Grundzentrum,1049,0,0,0,51.9,9.25,8,176
+1055021,Heiligenhafen,Grundzentrum,9330,0,0,0,509.28,28.82,36,593
+1055027,Lensahn,Grundzentrum,5101,0,0,0,184.15,13.65,18,557
+1055028,Malente,Grundzentrum,10929,0,0,0,158.23,12.06,43,978
+1055032,Neustadt in Holstein,Grundzentrum,15464,1,3,262,783.78,41.71,33,1441
+1055033,Oldenburg in Holstein,Grundzentrum,9922,1,2,202,249.99,20.41,24,861
+1055035,Ratekau,Grundzentrum,15330,0,0,0,257.13,17.53,41,1703
+1055038,Schönwalde am Bungsberg,Grundzentrum,2573,0,0,0,65.77,6.98,22,327
+1055040,Stockelsdorf,Grundzentrum,17087,0,0,0,301.36,16.46,50,2119
+1055042,Timmendorfer Strand,Grundzentrum,8646,0,0,0,429.51,25.29,22,974
+1055044,Scharbeutz,Grundzentrum,11739,1,1,145,223.43,18.42,49,1127
+1055046,Fehmarn,Grundzentrum,13247,1,1,171,71.41,9.91,75,1152
+1056002,Barmstedt,Grundzentrum,10630,1,2,107,619.1,24.46,14,453
+1056018,Halstenbek,Grundzentrum,17978,0,0,0,1429.09,44.83,18,2386
+1056041,Quickborn,Grundzentrum,22165,1,5,370,513.55,27.04,33,2259
+1056044,Schenefeld,Grundzentrum,19707,0,0,0,1972.67,53.95,17,4543
+1056048,Tornesch,Grundzentrum,14350,0,0,0,696.26,33.19,23,873
+1056049,Uetersen,Grundzentrum,18618,1,5,397,1628.87,53.11,33,2181
+1057025,Heikendorf,Grundzentrum,8688,0,0,0,590.22,34.38,14,1806
+1057048,Lütjenburg,Grundzentrum,5443,0,0,0,885.04,46.18,8,559
+1057057,Plön,Grundzentrum,8941,1,1,151,243.23,11.53,34,1843
+1057062,Preetz,Grundzentrum,16024,1,6,513,1112.78,41.18,53,1905
+1057073,Schönberg (Holstein),Grundzentrum,6356,1,1,97,546.52,35,17,1118
+1057077,Selent,Grundzentrum,1781,0,0,0,418.08,26.29,3,153
+1057085,Wankendorf,Grundzentrum,2918,0,0,0,218.74,14.84,9,347
+1057091,Schwentinental,Grundzentrum,13993,0,0,0,785.68,36.5,32,3027
+1058005,Altenholz,Grundzentrum,9965,0,0,0,523.37,23.06,13,992
+1058022,Bordesholm,Grundzentrum,7914,1,1,130,778.17,35.99,12,127
+1058034,Büdelsdorf,Grundzentrum,10546,0,0,0,1627.47,70.37,26,1144
+1058050,Felde,Grundzentrum,2077,0,0,0,149.64,16.57,9,302
+1058053,Flintbek,Grundzentrum,7562,0,0,0,430.39,21.8,25,1037
+1058058,Gettorf,Grundzentrum,7708,0,0,0,824.39,40.11,9,320
+1058072,Hanerau-Hademarschen,Grundzentrum,3048,0,0,0,210.21,17.45,7,175
+1058077,Hohenwestedt,Grundzentrum,5396,0,0,0,296.81,22.88,6,233
+1058078,Hohn,Grundzentrum,2629,0,0,0,82.28,15.37,10,167
+1058092,Kronshagen,Grundzentrum,11908,0,0,0,2229.96,72.1,13,1744
+1058117,Nortorf,Grundzentrum,7090,0,0,0,555.21,34.3,11,273
+1058127,Owschlag,Grundzentrum,3749,0,0,0,95.37,10.43,8,195
+1059008,Böklund,Grundzentrum,1697,0,0,0,215.36,16.88,8,218
+1059024,Erfde,Grundzentrum,2090,0,0,0,61.54,8.51,11,192
+1059045,Kappeln,Grundzentrum,8607,1,1,120,198.64,16.36,30,676
+1059053,Kropp,Grundzentrum,6692,0,0,0,209.52,18,21,500
+1059079,Silberstedt,Grundzentrum,2435,0,0,0,64.23,10.16,20,170
+1059083,Süderbrarup,Grundzentrum,5339,0,0,0,266.15,18.84,19,349
+1059112,Gelting,Grundzentrum,2152,0,0,0,107.49,10.64,12,161
+1059113,Glücksburg (Ostsee),Grundzentrum,6377,0,0,0,160.71,11.77,30,679
+1059120,Harrislee,Grundzentrum,11910,0,0,0,629.49,32.45,33,1787
+1059158,Schafflund,Grundzentrum,2862,0,0,0,149.92,14.3,12,320
+1059161,Sörup,Grundzentrum,4306,0,0,0,97.16,10.2,44,478
+1059171,Tarp,Grundzentrum,6088,0,0,0,372.13,24.51,20,456
+1059185,Mittelangeln,Grundzentrum,5401,0,0,0,120.13,10.65,40,758
+1059186,Steinbergkirche,Grundzentrum,2803,0,0,0,78.47,9.24,22,377
+1060004,Bad Bramstedt,Grundzentrum,15331,0,0,0,635.09,33.18,13,591
+1060012,Bornhöved,Grundzentrum,3377,0,0,0,239.16,21.81,9,313
+1060039,Henstedt-Ulzburg,Grundzentrum,28323,0,0,0,717.76,31.5,33,1934
+1060043,Itzstedt,Grundzentrum,2549,0,0,0,357.5,16.83,4,169
+1060053,Leezen,Grundzentrum,1801,0,0,0,120.23,11.42,5,256
+1060058,Nahe,Grundzentrum,2602,0,0,0,250.92,16.97,6,269
+1060089,Trappenkamp,Grundzentrum,5300,0,0,0,1536.23,67.83,5,226
+1061029,Glückstadt,Grundzentrum,10885,0,0,0,478.46,22.99,33,886
+1061042,Hohenlockstedt,Grundzentrum,5977,0,0,0,131.07,14.54,14,273
+1061044,Horst (Holstein),Grundzentrum,5837,0,0,0,200.86,16.55,17,663
+1061049,Kellinghusen,Grundzentrum,8313,0,0,0,441.95,25.62,19,474
+1061055,Krempe,Grundzentrum,2411,0,0,0,713.31,32.54,3,71
+1061097,Schenefeld,Grundzentrum,2734,0,0,0,291.47,20.79,7,98
+1061107,Wacken,Grundzentrum,2025,0,0,0,285.21,20.56,7,76
+1061113,Wilster,Grundzentrum,4369,0,0,0,1612.18,65.68,6,235
+1062006,Bargteheide,Grundzentrum,16301,0,0,0,1030.4,40.58,18,930
+1062009,Barsbüttel,Grundzentrum,13096,0,0,0,530.63,28.69,25,2231
+1062023,Großhansdorf,Grundzentrum,9498,0,0,0,848.04,37.95,11,921
+1062061,Reinfeld (Holstein),Grundzentrum,9110,1,1,140,524.47,25.73,18,619
+1062082,Trittau,Grundzentrum,9170,0,0,0,320.85,18.47,22,2050
+1062091,Steinburg,Grundzentrum,2795,0,0,0,116.95,9.87,9,277
+3151005,Brome,Grundzentrum,3304,0,0,0,89.71,10.21,8,431
+3151006,Calberlah,Grundzentrum,5394,0,0,0,194.24,13.76,13,945
+3151010,Groß Oesingen,Grundzentrum,2037,0,0,0,35.36,7.1,18,241
+3151011,Hankensbüttel,Grundzentrum,4562,0,0,0,130.49,14.42,8,509
+3151013,Isenbüttel,Grundzentrum,6397,0,0,0,340.63,23.48,18,1146
+3151015,Leiferde,Grundzentrum,4445,0,0,0,158.24,12.5,16,645
+3151016,Meine,Grundzentrum,8667,0,0,0,222,13.88,26,1275
+3151017,Meinersen,Grundzentrum,8340,0,0,0,154.59,14.11,28,687
+3151018,Müden (Aller),Grundzentrum,5344,0,0,0,79.32,9.63,30,682
+3151024,Rühen,Grundzentrum,6071,0,0,0,196.22,12.06,13,770
+3151025,Sassenburg,Grundzentrum,12092,0,0,0,136.57,12.79,33,1664
+3151027,Schwülper,Grundzentrum,7395,0,0,0,353.15,23.64,26,1257
+3151029,Steinhorst,Grundzentrum,1259,0,0,0,21.72,6.02,10,124
+3151036,Wahrenholz,Grundzentrum,3696,0,0,0,63.72,8.4,14,420
+3151038,Wesendorf,Grundzentrum,5667,0,0,0,181.11,17.03,18,883
+3151039,Weyhausen,Grundzentrum,2742,0,0,0,343.18,25.41,4,403
+3153008,Liebenburg,Grundzentrum,7658,0,0,0,97.54,10.48,24,850
+3153016,Braunlage,Grundzentrum,5585,0,0,0,176.46,18.36,30,924
+3153019,Langelsheim,Grundzentrum,15043,0,0,0,138.31,13.41,61,2068
+3154008,Grasleben,Grundzentrum,2469,0,0,0,219.08,20.76,6,194
+3154012,Jerxheim,Grundzentrum,1101,0,0,0,62.88,8.11,6,287
+3154013,Königslutter am Elm,Grundzentrum,15933,1,1,132,121.51,12.08,53,1677
+3154014,Lehre,Grundzentrum,12097,0,0,0,168.11,13.2,24,1186
+3154019,Schöningen,Grundzentrum,11209,0,0,0,316.01,20.64,16,621
+3154021,Süpplingen,Grundzentrum,1805,0,0,0,173.39,14.6,7,136
+3154024,Velpke,Grundzentrum,4961,0,0,0,250.68,14.91,16,474
+3155002,Bodenfelde,Grundzentrum,3061,0,0,0,154.83,17.55,12,390
+3155003,Dassel,Grundzentrum,9698,0,0,0,85.64,10.97,34,822
+3155005,Hardegsen,Grundzentrum,7715,0,0,0,91.81,11.25,36,1062
+3155006,Kalefeld,Grundzentrum,6089,0,0,0,72.31,10.75,29,559
+3155007,Katlenburg-Lindau,Grundzentrum,7144,0,0,0,99.9,11.69,23,449
+3155009,Moringen,Grundzentrum,6988,0,0,0,84.82,10.88,22,478
+3155010,Nörten-Hardenberg,Grundzentrum,8669,0,0,0,160.15,14.93,23,605
+3157001,Edemissen,Grundzentrum,12506,0,0,0,120.11,12.66,43,1425
+3157002,Hohenhameln,Grundzentrum,9539,0,0,0,137.07,15.12,29,1040
+3157005,Lengede,Grundzentrum,14308,0,0,0,416.66,27.02,25,1203
+3157007,Vechelde,Grundzentrum,18419,0,0,0,241.59,15.32,48,2403
+3157008,Wendeburg,Grundzentrum,10542,0,0,0,175.26,14.61,26,1254
+3157009,Ilsede,Grundzentrum,22206,0,0,0,307.48,19.75,39,1956
+3158002,Baddeckenstedt,Grundzentrum,3140,0,0,0,153.55,14.62,13,401
+3158004,Burgdorf,Grundzentrum,2228,0,0,0,92.03,9.71,12,290
+3158006,Cremlingen,Grundzentrum,13289,0,0,0,223.38,16.78,39,1808
+3158027,Schöppenstedt,Grundzentrum,5653,0,0,0,142.25,10.19,13,414
+3158030,Sickte,Grundzentrum,6092,0,0,0,240.32,15.31,15,765
+3158038,Börßum,Grundzentrum,2896,0,0,0,94.21,11.84,8,411
+3158039,Schladen-Werla,Grundzentrum,8666,0,0,0,117.25,14.02,23,866
+3158040,Remlingen-Semmenstedt,Grundzentrum,2396,0,0,0,71.67,8.67,7,212
+3159001,Adelebsen,Grundzentrum,6224,0,0,0,81.8,9.15,20,825
+3159002,Bad Grund (Harz),Grundzentrum,8114,0,0,0,196.42,19.73,26,693
+3159003,Bad Lauterberg im Harz,Grundzentrum,10297,0,0,0,247.76,22.33,26,1258
+3159004,Bad Sachsa,Grundzentrum,7406,0,0,0,223.07,17.44,19,531
+3159007,Bovenden,Grundzentrum,14124,0,0,0,221.73,16.23,32,1442
+3159009,Dransfeld,Grundzentrum,4378,0,0,0,151.44,12.28,10,537
+3159011,Ebergötzen,Grundzentrum,1969,0,0,0,99.85,11.92,5,238
+3159013,Friedland,Grundzentrum,14744,0,0,0,194.33,11.08,29,720
+3159014,Gieboldehausen,Grundzentrum,3987,0,0,0,200.86,16.02,6,244
+3159015,Gleichen,Grundzentrum,8807,0,0,0,68.14,8.15,49,902
+3159018,Hattorf am Harz,Grundzentrum,3998,0,0,0,136.96,15.79,6,119
+3159019,Herzberg am Harz,Grundzentrum,12829,1,3,424,178.48,18.42,38,1210
+3159029,Rosdorf,Grundzentrum,12047,0,0,0,181.32,15.14,41,1141
+3159034,Staufenberg,Grundzentrum,7811,0,0,0,100.68,12.9,33,1280
+3159036,Walkenried,Grundzentrum,4499,0,0,0,213.73,21.43,18,468
+3241006,Gehrden,Grundzentrum,15426,0,0,0,356.51,16.82,29,3846
+3241007,Hemmingen,Grundzentrum,18870,0,0,0,594.71,23.92,26,2964
+3241008,Isernhagen,Grundzentrum,24563,0,0,0,410.41,25.13,56,5411
+3241013,Pattensen,Grundzentrum,14790,0,0,0,220.35,13.69,29,2035
+3241014,Ronnenberg,Grundzentrum,24570,0,0,0,649.66,24.7,34,3581
+3241015,Seelze,Grundzentrum,34742,0,0,0,642.42,25.11,52,5386
+3241016,Sehnde,Grundzentrum,24157,0,0,0,233.22,17.12,47,3913
+3241018,Uetze,Grundzentrum,20471,0,0,0,145.34,12.9,50,2555
+3241019,Wedemark,Grundzentrum,29814,0,0,0,171.08,14.98,74,3665
+3241020,Wennigsen (Deister),Grundzentrum,14216,0,0,0,263.65,14.5,24,1435
+3251005,Barnstorf,Grundzentrum,6708,0,0,0,128.09,12.76,17,241
+3251007,Bassum,Grundzentrum,16658,0,0,0,98.66,12.43,94,1691
+3251021,Kirchdorf,Grundzentrum,2343,0,0,0,49.03,10.82,12,214
+3251023,Lemförde,Grundzentrum,3415,0,0,0,491.37,33.67,7,198
+3251030,Rehden,Grundzentrum,2390,0,0,0,71.66,12.05,3,126
+3251032,Schwaförden,Grundzentrum,1499,0,0,0,57.65,10.46,3,156
+3251034,Siedenburg,Grundzentrum,1287,0,0,0,90.44,12.3,11,254
+3251042,Twistringen,Grundzentrum,12779,1,1,110,111.72,11.78,44,439
+3251044,Wagenfeld,Grundzentrum,7366,0,0,0,62.65,11.3,74,787
+3251047,Weyhe,Grundzentrum,31672,0,0,0,524.72,27.4,83,2473
+3251049,Bruchhausen-Vilsen,Grundzentrum,9325,0,0,0,84.98,11.26,65,962
+3252001,Aerzen,Grundzentrum,10570,0,0,0,100.42,11.89,84,2602
+3252002,Bad Münder am Deister,Grundzentrum,17728,0,0,0,164.19,14.27,61,1531
+3252004,Coppenbrügge,Grundzentrum,7142,0,0,0,79.29,10.26,48,1165
+3252005,Emmerthal,Grundzentrum,9855,0,0,0,85.74,10.49,51,1596
+3252007,Hessisch Oldendorf,Grundzentrum,18458,0,0,0,153.41,14.3,78,2092
+3252008,Salzhemmendorf,Grundzentrum,9378,0,0,0,99.29,11.85,33,788
+3254003,Algermissen,Grundzentrum,8256,0,0,0,231.2,15.09,13,407
+3254005,Bad Salzdetfurth,Grundzentrum,13520,0,0,0,201.25,16.91,27,589
+3254008,Bockenem,Grundzentrum,9830,0,0,0,89.4,10.92,30,822
+3254011,Diekholzen,Grundzentrum,6283,0,0,0,207.91,12.94,9,419
+3254014,Elze,Grundzentrum,9176,0,0,0,191.93,15.56,18,482
+3254017,Giesen,Grundzentrum,9732,0,0,0,286.24,17.74,18,1013
+3254020,Harsum,Grundzentrum,11438,0,0,0,228.76,14.96,18,485
+3254022,Holle,Grundzentrum,7114,0,0,0,116.11,13.37,25,1082
+3254026,Nordstemmen,Grundzentrum,12238,0,0,0,203.26,16.58,32,1126
+3254029,Schellerten,Grundzentrum,7995,0,0,0,99.43,10.01,17,469
+3254032,Söhlde,Grundzentrum,7988,0,0,0,139.04,12.74,19,488
+3254041,Duingen,Grundzentrum,4957,0,0,0,83.12,9.67,23,478
+3254042,Freden (Leine),Grundzentrum,4669,0,0,0,87.29,10.45,16,433
+3254043,Gronau (Leine),Grundzentrum,10832,1,1,126,122.55,12.73,32,956
+3254044,Lamspringe,Grundzentrum,5637,0,0,0,79.96,10.5,14,388
+3254045,Sibbesse,Grundzentrum,5810,0,0,0,80.74,9.82,18,318
+3255002,Bevern,Grundzentrum,3864,0,0,0,115.97,12,14,513
+3255003,Bodenwerder,Grundzentrum,5634,0,0,0,193.94,16.25,20,796
+3255004,Boffzen,Grundzentrum,2663,0,0,0,329.58,25.74,6,140
+3255008,Delligsen,Grundzentrum,7673,0,0,0,211.9,17.62,23,613
+3255013,Eschershausen,Grundzentrum,3644,0,0,0,152.34,14.26,10,352
+3255026,Lauenförde,Grundzentrum,2390,0,0,0,138.95,15.41,6,254
+3255033,Polle,Grundzentrum,1137,0,0,0,53.53,9.84,3,70
+3255034,Stadtoldendorf,Grundzentrum,5726,0,0,0,229.78,17.9,10,465
+3256004,Diepenau,Grundzentrum,4012,0,0,0,57.27,11.01,25,309
+3256005,Drakenburg,Grundzentrum,1844,0,0,0,157.34,16.21,5,323
+3256007,Eystrup,Grundzentrum,3582,0,0,0,148.51,14.55,13,598
+3256012,Heemsen,Grundzentrum,1757,0,0,0,44.36,8.66,8,265
+3256014,Hoya,Grundzentrum,3972,1,3,293,470.06,40,7,617
+3256017,Landesbergen,Grundzentrum,2738,0,0,0,65.14,10.64,11,243
+3256019,Liebenau,Grundzentrum,3930,0,0,0,170.28,14.86,8,187
+3256021,Marklohe,Grundzentrum,4731,0,0,0,143.67,15.67,19,588
+3256025,Rehburg-Loccum,Grundzentrum,10199,0,0,0,102.02,12.57,42,1548
+3256027,Rohrsen,Grundzentrum,1112,0,0,0,216.76,19.88,4,286
+3256029,Steimbke,Grundzentrum,2416,0,0,0,38.18,7.95,20,453
+3256030,Steyerberg,Grundzentrum,5263,0,0,0,51.6,9.65,39,808
+3256032,Stolzenau,Grundzentrum,7641,0,0,0,117.72,12.57,42,942
+3256033,Uchte,Grundzentrum,5053,0,0,0,55.72,10.48,39,531
+3257003,Auetal,Grundzentrum,6346,0,0,0,102.11,12.78,41,709
+3257005,Bad Eilsen,Grundzentrum,2580,0,0,0,1048.78,46.34,3,113
+3257010,Hagenburg,Grundzentrum,4584,0,0,0,282.44,18.36,10,368
+3257013,Helpsen,Grundzentrum,1993,0,0,0,256.5,20.33,7,162
+3257014,Hespe,Grundzentrum,2060,0,0,0,317.41,23.73,10,188
+3257018,Lauenau,Grundzentrum,4367,0,0,0,268.74,17.78,7,206
+3257020,Lindhorst,Grundzentrum,4482,0,0,0,568.78,27.66,11,255
+3257023,Meerbeck,Grundzentrum,1875,0,0,0,143.24,14.9,8,154
+3257025,Niedernwöhren,Grundzentrum,2008,0,0,0,181.56,15.01,6,111
+3257026,Nienstädt,Grundzentrum,4476,0,0,0,538.63,39.59,16,340
+3257028,Obernkirchen,Grundzentrum,9360,0,0,0,288.44,21.88,40,931
+3257032,Rodenberg,Grundzentrum,6612,0,0,0,423.57,22.04,11,385
+3257033,Sachsenhagen,Grundzentrum,2005,0,0,0,129.61,16.61,7,85
+3257034,Seggebruch,Grundzentrum,1749,0,0,0,233.51,19.36,9,160
+3351004,Bergen,Grundzentrum,13532,0,0,0,82.32,9.75,57,1110
+3351007,Eicklingen,Grundzentrum,3389,0,0,0,148.06,14.46,12,235
+3351010,Faßberg,Grundzentrum,6278,0,0,0,61.36,13.77,26,638
+3351012,Hambühren,Grundzentrum,10855,0,0,0,191.08,14.19,25,1001
+3351016,Lachendorf,Grundzentrum,6577,0,0,0,171.1,15.24,19,358
+3351018,Nienhagen,Grundzentrum,6848,0,0,0,389.09,26.19,11,404
+3351021,Wathlingen,Grundzentrum,6511,1,1,55,365.58,21.22,16,544
+3351022,Wienhausen,Grundzentrum,4107,0,0,0,101.28,11.96,26,505
+3351023,Wietze,Grundzentrum,8691,0,0,0,137.39,14.12,35,668
+3351024,Winsen (Aller),Grundzentrum,13405,0,0,0,86.01,9.96,47,721
+3351025,Eschede,Grundzentrum,5792,0,0,0,29.43,5.76,29,470
+3351026,Südheide,Grundzentrum,11604,0,0,0,59.05,8.69,53,1069
+3352025,Ihlienworth,Grundzentrum,1525,0,0,0,37.86,6.65,11,108
+3352029,Lamstedt,Grundzentrum,3412,0,0,0,64.54,10.89,28,290
+3352032,Loxstedt,Grundzentrum,16651,0,0,0,117.48,12.33,58,783
+3352046,Otterndorf,Grundzentrum,7458,0,0,0,222.3,19.79,22,257
+3352050,Schiffdorf,Grundzentrum,14935,0,0,0,131.5,13.57,43,1344
+3352059,Beverstedt,Grundzentrum,13738,0,0,0,69.37,10.43,79,935
+3352060,Hagen im Bremischen,Grundzentrum,11233,0,0,0,56.9,10.35,68,667
+3352061,Wurster Nordseeküste,Grundzentrum,17461,0,0,0,96.08,13.47,95,1369
+3352062,Geestland,Grundzentrum,31507,0,0,0,88.36,11.11,116,2650
+3352063,Cadenberge,Grundzentrum,4193,0,0,0,135.35,12.43,17,149
+3353016,Hanstedt,Grundzentrum,6193,0,0,0,104.28,10.79,30,923
+3353019,Hollenstedt,Grundzentrum,3824,0,0,0,174.13,17.12,22,516
+3353020,Jesteburg,Grundzentrum,8141,0,0,0,290.23,22.6,20,1149
+3353023,Marschacht,Grundzentrum,3989,0,0,0,152.78,15.01,17,998
+3353026,Neu Wulmstorf,Grundzentrum,22450,1,1,198,398.47,21.42,65,3147
+3353029,Rosengarten,Grundzentrum,13836,0,0,0,216.9,18.76,66,2619
+3353030,Salzhausen,Grundzentrum,4934,0,0,0,141.33,13.43,15,652
+3353032,Stelle,Grundzentrum,11523,0,0,0,297.29,23.27,31,848
+3353035,Tostedt,Grundzentrum,14578,0,0,0,300.89,18,41,828
+3354002,Clenze,Grundzentrum,2301,0,0,0,31.8,7.48,0,0
+3354004,Dannenberg (Elbe),Grundzentrum,8253,0,0,0,107.71,14.19,7,11
+3354005,Gartow,Grundzentrum,1533,0,0,0,53.94,9.57,0,0
+3354009,Hitzacker (Elbe),Grundzentrum,5107,0,0,0,87.05,11.74,11,40
+3354026,Wustrow (Wendland),Grundzentrum,2779,0,0,0,92.05,11.63,0,0
+3355001,Adendorf,Grundzentrum,10956,0,0,0,681.34,37.25,32,1558
+3355002,Amelinghausen,Grundzentrum,4118,0,0,0,150.57,13.97,7,232
+3355004,Bardowick,Grundzentrum,7095,0,0,0,304.11,24.95,20,834
+3355005,Barendorf,Grundzentrum,2546,0,0,0,273.47,17.08,3,196
+3355009,Bleckede,Grundzentrum,9694,0,0,0,68.92,8.81,65,1807
+3355013,Dahlenburg,Grundzentrum,3419,0,0,0,68.3,10.55,24,861
+3355016,Embsen,Grundzentrum,2793,0,0,0,122.39,12.97,9,338
+3355024,Melbeck,Grundzentrum,3563,0,0,0,217.92,16.82,9,331
+3355026,Neetze,Grundzentrum,2793,0,0,0,103.98,11.84,13,331
+3355031,Reppenstedt,Grundzentrum,7634,0,0,0,513.38,20.98,17,830
+3355033,Scharnebeck,Grundzentrum,3446,0,0,0,128.1,13.68,12,418
+3355049,Amt Neuhaus,Grundzentrum,5320,0,0,0,22.35,6.03,59,459
+3356002,Grasberg,Grundzentrum,8004,0,0,0,143.52,15.69,81,744
+3356003,Hambergen,Grundzentrum,5697,0,0,0,187.83,17.51,27,519
+3356005,Lilienthal,Grundzentrum,20293,0,0,0,279.79,17.76,53,2752
+3356008,Ritterhude,Grundzentrum,15033,1,2,85,456.24,26.43,52,761
+3356009,Schwanewede,Grundzentrum,20661,1,4,374,155.85,13.95,87,2771
+3356011,Worpswede,Grundzentrum,9820,0,0,0,128.57,16.12,92,1300
+3357006,Bothel,Grundzentrum,2448,0,0,0,146.5,16.04,5,138
+3357016,Gnarrenburg,Grundzentrum,9205,0,0,0,74.7,10.67,67,1011
+3357021,Heeslingen,Grundzentrum,4896,0,0,0,59.37,9.97,31,555
+3357033,Lauenbrück,Grundzentrum,2590,1,1,0,117.62,13.49,15,269
+3357035,Oerel,Grundzentrum,1926,0,0,0,56.9,10.87,13,359
+3357041,Scheeßel,Grundzentrum,13065,0,0,0,87.09,11.43,49,856
+3357043,Selsingen,Grundzentrum,3654,0,0,0,86.71,11.11,13,231
+3357044,Sittensen,Grundzentrum,6102,0,0,0,329.3,28.66,7,292
+3357045,Sottrum,Grundzentrum,6692,0,0,0,233.9,25.03,21,476
+3357047,Tarmstedt,Grundzentrum,4167,0,0,0,157.01,14.88,10,305
+3357051,Visselhövede,Grundzentrum,9792,0,0,0,61.51,10.01,66,1126
+3358002,Bispingen,Grundzentrum,6494,0,0,0,50.54,9.53,33,569
+3358008,Bad Fallingbostel,Grundzentrum,12340,0,0,0,192.75,17.98,38,507
+3358014,Hodenhagen,Grundzentrum,3114,0,0,0,154.93,25.07,7,166
+3358017,Neuenkirchen,Grundzentrum,5749,0,0,0,59.21,9.49,23,299
+3358018,Rethem (Aller),Grundzentrum,2382,0,0,0,69.89,10.27,24,322
+3358019,Schneverdingen,Grundzentrum,19140,1,1,53,81.47,9.74,92,1212
+3358020,Schwarmstedt,Grundzentrum,5994,0,0,0,198.28,14.85,8,235
+3358023,Wietzendorf,Grundzentrum,4169,0,0,0,38.75,8.05,31,417
+3359002,Ahlerstedt,Grundzentrum,5595,0,0,0,89.43,11.46,31,437
+3359003,Apensen,Grundzentrum,4535,0,0,0,218.24,14.73,8,139
+3359013,Drochtersen,Grundzentrum,11290,0,0,0,89.04,8.27,69,1032
+3359017,Fredenbeck,Grundzentrum,6525,0,0,0,134.2,12.09,29,575
+3359018,Freiburg (Elbe),Grundzentrum,1830,0,0,0,53.54,5.97,7,225
+3359020,Grünendeich,Grundzentrum,1879,0,0,0,479.34,25.51,11,270
+3359023,Harsefeld,Grundzentrum,14696,1,1,150,283.27,16.46,43,933
+3359025,Himmelpforten,Grundzentrum,5717,0,0,0,312.75,17.61,17,330
+3359027,Horneburg,Grundzentrum,6936,0,0,0,404.9,18.74,19,448
+3359028,Jork,Grundzentrum,12344,0,0,0,198.33,11.81,61,1505
+3359036,Oldendorf,Grundzentrum,3143,0,0,0,131.18,12.98,8,161
+3359039,Steinkirchen,Grundzentrum,1822,0,0,0,190.79,11.52,10,222
+3359040,Wischhafen,Grundzentrum,3066,0,0,0,90.82,11.11,20,449
+3360002,Bad Bevensen,Grundzentrum,9943,0,0,0,205.56,16.44,33,874
+3360004,Bienenbüttel,Grundzentrum,6941,0,0,0,69.73,9.03,29,641
+3360005,Bad Bodenteich,Grundzentrum,3877,0,0,0,77.32,11.45,16,275
+3360006,Ebstorf,Grundzentrum,5429,0,0,0,198.94,16.89,13,345
+3360018,Rosche,Grundzentrum,2034,0,0,0,28.19,7.1,22,356
+3360023,Suderburg,Grundzentrum,4703,0,0,0,36.34,7.07,24,484
+3360030,Wrestedt,Grundzentrum,6450,0,0,0,45.62,8.23,31,687
+3361003,Dörverden,Grundzentrum,9170,0,0,0,109.81,12.75,36,851
+3361005,Kirchlinteln,Grundzentrum,10295,0,0,0,58.94,9.54,99,1701
+3361006,Langwedel,Grundzentrum,14654,0,0,0,192.21,15.1,30,878
+3361008,Ottersberg,Grundzentrum,13496,0,0,0,136.17,13.17,45,1458
+3361009,Oyten,Grundzentrum,16258,0,0,0,256.31,20.76,102,2728
+3361013,Thedinghausen,Grundzentrum,8292,0,0,0,126.04,13.36,49,1186
+3451001,Apen,Grundzentrum,12226,0,0,0,158.74,16.96,55,1223
+3451004,Edewecht,Grundzentrum,22908,0,0,0,201.18,18.28,84,2545
+3451008,Wiefelstede,Grundzentrum,16282,0,0,0,152.88,17.24,74,3301
+3452002,Baltrum,Grundzentrum,599,1,1,0,92.15,11.85,0,0
+3452006,Großefehn,Grundzentrum,14210,0,0,0,111.71,13.95,77,1502
+3452007,Großheide,Grundzentrum,8725,0,0,0,125.85,14.32,43,626
+3452008,Hage,Grundzentrum,6424,0,0,0,386.52,26.23,12,384
+3452011,Hinte,Grundzentrum,7272,0,0,0,151.34,12.78,24,583
+3452012,Ihlow,Grundzentrum,12608,0,0,0,102.42,12.8,75,1284
+3452013,Juist,Grundzentrum,1552,0,0,0,94.58,6.52,1,9
+3452014,Krummhörn,Grundzentrum,11838,0,0,0,74.35,9.53,67,1650
+3452017,Marienhafe,Grundzentrum,2456,0,0,0,604.93,35.22,4,233
+3452020,Norderney,Grundzentrum,5992,1,1,341,227.75,14.1,43,989
+3452023,Südbrookmerland,Grundzentrum,18523,0,0,0,191.31,18.26,75,1629
+3452024,Upgant-Schott,Grundzentrum,3809,0,0,0,153.71,13.32,9,217
+3452025,Wiesmoor,Grundzentrum,13502,0,0,0,162.79,19.89,60,781
+3452027,Dornum,Grundzentrum,4527,0,0,0,58.97,9.63,44,685
+3453001,Barßel,Grundzentrum,13601,0,0,0,161.24,15.92,44,1280
+3453002,Bösel,Grundzentrum,8895,0,0,0,88.76,11.42,10,192
+3453003,Cappeln (Oldenburg),Grundzentrum,7535,0,0,0,98.47,12.21,39,418
+3453005,Emstek,Grundzentrum,12535,0,0,0,115.64,16.49,69,1090
+3453006,Essen (Oldenburg),Grundzentrum,9101,0,0,0,92.76,13.26,64,926
+3453008,Garrel,Grundzentrum,15762,0,0,0,139.01,14.33,39,732
+3453009,Lastrup,Grundzentrum,7614,0,0,0,89.02,13.38,45,568
+3453010,Lindern (Oldenburg),Grundzentrum,5098,0,0,0,77.48,12.81,29,157
+3453011,Löningen,Grundzentrum,13796,1,1,180,96.13,12.37,74,1090
+3453012,Molbergen,Grundzentrum,9469,0,0,0,92.33,11.86,29,404
+3453013,Saterland,Grundzentrum,14294,0,0,0,115.65,14.64,40,893
+3454008,Dörpen,Grundzentrum,5660,0,0,0,171.1,20.41,12,399
+3454010,Emsbüren,Grundzentrum,10626,0,0,0,76.13,12.61,69,783
+3454011,Esterwegen,Grundzentrum,5546,0,0,0,111.84,11.15,21,95
+3454012,Freren,Grundzentrum,5196,0,0,0,106.11,13.5,29,398
+3454014,Geeste,Grundzentrum,12027,0,0,0,90.35,12.7,63,1854
+3454018,Haren (Ems),Grundzentrum,24498,1,1,145,117.33,14.2,96,1143
+3454019,Haselünne,Grundzentrum,13552,1,1,116,85,10.98,75,1073
+3454021,Herzlake,Grundzentrum,4886,0,0,0,98.15,14.32,19,253
+3454029,Lathen,Grundzentrum,7041,0,0,0,185.05,15.61,13,257
+3454031,Lengerich,Grundzentrum,2822,0,0,0,88.97,12.14,18,160
+3454044,Rhede (Ems),Grundzentrum,4547,0,0,0,60.64,12.83,40,361
+3454045,Salzbergen,Grundzentrum,7951,0,0,0,148.95,16.64,31,266
+3454047,Sögel,Grundzentrum,8446,0,0,0,152.84,13.64,16,544
+3454049,Spelle,Grundzentrum,10238,0,0,0,299.18,23.09,23,418
+3454054,Twist,Grundzentrum,9738,0,0,0,92.15,12.43,48,710
+3454057,Werlte,Grundzentrum,10539,0,0,0,165.16,17.77,14,291
+3455014,Sande,Grundzentrum,8622,0,0,0,191.94,19.32,35,959
+3455015,Schortens,Grundzentrum,20797,0,0,0,302.33,26.08,61,2281
+3455020,Wangerland,Grundzentrum,9149,0,0,0,51.93,9.91,85,1646
+3455021,Wangerooge,Grundzentrum,1197,1,1,174,240.85,47.48,1,9
+3455025,Bockhorn,Grundzentrum,9035,0,0,0,116.93,13.27,40,587
+3455027,Zetel,Grundzentrum,12233,1,1,126,150.26,15.01,46,769
+3456001,Bad Bentheim,Grundzentrum,16251,0,0,0,162.51,17.63,66,715
+3456002,Emlichheim,Grundzentrum,7606,0,0,0,156.34,17.33,30,177
+3456014,Neuenhaus,Grundzentrum,10561,0,0,0,336.66,24.99,34,695
+3456023,Uelsen,Grundzentrum,5815,0,0,0,298.66,24.6,13,353
+3456025,Wietmarschen,Grundzentrum,12742,0,0,0,106.99,13.14,19,347
+3456027,Schüttorf,Grundzentrum,13273,0,0,0,682.42,43.14,31,636
+3457002,Borkum,Grundzentrum,5171,1,2,482,166.91,15.53,25,401
+3457008,Filsum,Grundzentrum,2221,0,0,0,93.52,16.08,15,181
+3457010,Hesel,Grundzentrum,4726,0,0,0,107.43,12.37,25,493
+3457012,Jemgum,Grundzentrum,3675,0,0,0,46.79,7.96,32,505
+3457014,Moormerland,Grundzentrum,24055,0,0,0,196.95,16.34,78,2815
+3457017,Ostrhauderfehn,Grundzentrum,11622,0,0,0,227.84,21.11,48,614
+3457018,Rhauderfehn,Grundzentrum,18495,0,0,0,179.69,16.93,76,1247
+3457020,Uplengen,Grundzentrum,12091,0,0,0,81.25,11.59,92,1065
+3457021,Weener,Grundzentrum,15997,0,0,0,196.93,18.01,66,1174
+3457022,Westoverledingen,Grundzentrum,21678,0,0,0,193.38,18.53,58,1155
+3457024,Bunde,Grundzentrum,7760,0,0,0,64.16,7.74,54,537
+3458003,Dötlingen,Grundzentrum,6483,0,0,0,63.55,12.51,59,1160
+3458005,Ganderkesee,Grundzentrum,31939,0,0,0,230.71,20.07,157,2945
+3458007,Großenkneten,Grundzentrum,16079,0,0,0,91.13,13.09,77,1262
+3458008,Harpstedt,Grundzentrum,4780,0,0,0,203.58,16.82,10,183
+3458009,Hatten,Grundzentrum,14608,0,0,0,140.76,16.01,78,2452
+3458010,Hude (Oldb),Grundzentrum,16372,0,0,0,131.2,15.27,85,928
+3458013,Wardenburg,Grundzentrum,16449,0,0,0,138.46,14.76,82,3254
+3459002,Ankum,Grundzentrum,8035,1,4,423,121.19,12.58,43,796
+3459003,Bad Essen,Grundzentrum,16339,0,0,0,158.12,15.03,76,1571
+3459004,Bad Iburg,Grundzentrum,10559,0,0,0,289.53,18.67,36,1195
+3459005,Bad Laer,Grundzentrum,9221,0,0,0,196.99,16.24,58,1192
+3459006,Bad Rothenfelde,Grundzentrum,8597,1,1,228,472.1,23.89,35,1430
+3459008,Belm,Grundzentrum,14095,0,0,0,302.21,17.9,45,2919
+3459010,Bersenbrück,Grundzentrum,8850,0,0,0,208.04,17.98,32,746
+3459012,Bissendorf,Grundzentrum,14942,0,0,0,154.98,15.2,109,2582
+3459013,Bohmte,Grundzentrum,13013,0,0,0,117.52,13.81,79,1608
+3459015,Dissen am Teutoburger Wald,Grundzentrum,10638,0,0,0,333.48,21.35,35,1257
+3459017,Fürstenau,Grundzentrum,9736,0,0,0,123.8,13.38,44,1141
+3459020,Hagen am Teutoburger Wald,Grundzentrum,13500,0,0,0,391.42,22.5,44,1561
+3459021,Hasbergen,Grundzentrum,11119,0,0,0,511.92,26.89,26,1824
+3459022,Hilter am Teutoburger Wald,Grundzentrum,10511,0,0,0,199.87,15.92,59,2044
+3459027,Neuenkirchen,Grundzentrum,4652,0,0,0,80.72,10.39,44,618
+3459029,Ostercappeln,Grundzentrum,10251,0,0,0,102.35,12.6,64,1026
+3459033,Wallenhorst,Grundzentrum,22989,0,0,0,487.36,27.6,96,4551
+3459034,Glandorf,Grundzentrum,6678,0,0,0,111.54,13.18,64,677
+3460001,Bakum,Grundzentrum,6734,0,0,0,85.37,13.63,56,910
+3460002,Damme,Grundzentrum,17639,1,5,516,168.97,15.82,57,817
+3460003,Dinklage,Grundzentrum,13410,0,0,0,184.18,15.95,67,1667
+3460004,Goldenstedt,Grundzentrum,10263,0,0,0,115.43,13.78,44,897
+3460005,Holdorf,Grundzentrum,7547,0,0,0,137.22,16.62,22,251
+3460007,Neuenkirchen-Vörden,Grundzentrum,9230,0,0,0,101.5,12.69,16,229
+3460008,Steinfeld (Oldenburg),Grundzentrum,10377,0,0,0,172.81,17.42,27,468
+3460010,Visbek,Grundzentrum,10141,0,0,0,120.38,16.08,49,749
+3461001,Berne,Grundzentrum,6864,0,0,0,80.66,10.21,59,948
+3461003,Butjadingen,Grundzentrum,6121,0,0,0,47.24,8.82,58,1002
+3461004,Elsfleth,Grundzentrum,9204,0,0,0,79.9,9.95,54,1087
+3461005,Jade,Grundzentrum,5897,0,0,0,62.7,10.6,75,886
+3461006,Lemwerder,Grundzentrum,7147,0,0,0,196.35,16.65,34,761
+3461008,Ovelgönne,Grundzentrum,5405,0,0,0,43.49,8.52,92,1403
+3461009,Stadland,Grundzentrum,7528,0,0,0,65.95,10.03,66,1033
+3462003,Esens,Grundzentrum,7427,0,0,0,342.73,24.23,20,826
+3462005,Friedeburg,Grundzentrum,10458,0,0,0,63.87,10.55,70,1073
+3462007,Langeoog,Grundzentrum,1747,1,2,208,88.55,9.98,0,0
+3462014,Spiekeroog,Grundzentrum,841,0,0,0,46.34,4.24,0,0
+3462018,Westerholt,Grundzentrum,2692,0,0,0,184.13,18.81,4,112
+5154004,Bedburg-Hau,Grundzentrum,13341,0,0,0,217.6,18.27,39,1375
+5154020,Issum,Grundzentrum,12364,0,0,0,225.87,17.23,26,1032
+5154024,Kalkar,Grundzentrum,14191,0,0,0,160.9,14.44,70,1436
+5154028,Kerken,Grundzentrum,12750,0,0,0,219.19,14.56,30,839
+5154040,Kranenburg,Grundzentrum,11181,0,0,0,145.42,10.87,86,1720
+5154044,Rees,Grundzentrum,21475,0,0,0,195.48,13.15,62,1966
+5154048,Rheurdt,Grundzentrum,6566,0,0,0,218.65,15.72,17,530
+5154052,Straelen,Grundzentrum,16365,0,0,0,221.15,21.65,83,1325
+5154056,Uedem,Grundzentrum,8513,0,0,0,139.72,11,43,437
+5154060,Wachtendonk,Grundzentrum,8225,0,0,0,170.75,15.32,27,440
+5154064,Weeze,Grundzentrum,11587,0,0,0,145.77,16.12,16,619
+5162012,Jüchen,Grundzentrum,23940,0,0,0,332.32,17.32,49,2454
+5162028,Rommerskirchen,Grundzentrum,13580,0,0,0,226.03,15.35,39,2107
+5166004,Brüggen,Grundzentrum,16082,0,0,0,262.78,17.04,38,1769
+5166008,Grefrath,Grundzentrum,14880,0,0,0,480.31,25.37,26,1930
+5166020,Niederkrüchten,Grundzentrum,15170,0,0,0,226.18,23.53,39,2421
+5170004,Alpen,Grundzentrum,12649,0,0,0,212.23,16.48,62,1288
+5170016,Hünxe,Grundzentrum,13787,0,0,0,129.03,15.01,42,786
+5170036,Schermbeck,Grundzentrum,13479,0,0,0,121.75,11.36,40,1250
+5170040,Sonsbeck,Grundzentrum,8747,0,0,0,157.86,14.35,30,660
+5334024,Roetgen,Grundzentrum,8727,0,0,0,223.6,13.63,31,2200
+5334028,Simmerath,Grundzentrum,15841,0,0,0,142.81,13.56,73,2499
+5358004,Aldenhoven,Grundzentrum,14081,0,0,0,318.21,18.17,31,1595
+5358012,Heimbach,Grundzentrum,4365,0,0,0,67.2,9.28,23,479
+5358016,Hürtgenwald,Grundzentrum,8929,0,0,0,101.41,10.56,36,1435
+5358020,Inden,Grundzentrum,7507,0,0,0,208.99,13.08,21,1263
+5358028,Kreuzau,Grundzentrum,17687,0,0,0,423.84,22.5,41,1906
+5358032,Langerwehe,Grundzentrum,14257,0,0,0,343.87,17.92,40,2023
+5358036,Linnich,Grundzentrum,13015,0,0,0,198.91,13.62,38,1802
+5358040,Merzenich,Grundzentrum,10302,0,0,0,271.61,15.63,26,1277
+5358044,Nideggen,Grundzentrum,10419,0,0,0,160.19,14.84,37,1065
+5358048,Niederzier,Grundzentrum,14345,0,0,0,226.05,13.82,27,1392
+5358052,Nörvenich,Grundzentrum,11064,0,0,0,167.1,14.41,33,1501
+5358056,Titz,Grundzentrum,8686,0,0,0,126.62,11.9,31,1199
+5358060,Vettweiß,Grundzentrum,9811,0,0,0,117.99,9.86,24,1072
+5362016,Elsdorf,Grundzentrum,22021,1,2,279,332.79,15.73,33,1936
+5366004,Bad Münstereifel,Grundzentrum,17282,0,0,0,114.58,12.8,99,1345
+5366008,Blankenheim,Grundzentrum,8433,0,0,0,56.74,10.34,63,1354
+5366012,Dahlem,Grundzentrum,4400,0,0,0,46.21,9.11,28,463
+5366020,Hellenthal,Grundzentrum,7925,0,0,0,57.5,9.88,91,1376
+5366024,Kall,Grundzentrum,11112,0,0,0,168.19,15.94,55,1074
+5366032,Nettersheim,Grundzentrum,7991,0,0,0,84.7,11.55,37,791
+5366040,Weilerswist,Grundzentrum,17763,0,0,0,310.7,17.75,44,1283
+5366044,Zülpich,Grundzentrum,21025,0,0,0,208.15,15.19,61,2302
+5370008,Gangelt,Grundzentrum,13240,0,0,0,271.76,21.18,48,1502
+5370024,Selfkant,Grundzentrum,10557,0,0,0,250.82,18.03,39,1326
+5370032,Waldfeucht,Grundzentrum,9164,0,0,0,302.74,21.04,29,899
+5370036,Wassenberg,Grundzentrum,19339,0,0,0,455.79,24.72,37,1909
+5374004,Bergneustadt,Grundzentrum,18633,0,0,0,491.77,25.89,51,2602
+5374016,Hückeswagen,Grundzentrum,14825,0,0,0,293.45,17.62,28,956
+5374020,Lindlar,Grundzentrum,21665,0,0,0,252.27,17.8,91,2916
+5374024,Marienheide,Grundzentrum,13710,0,0,0,249.41,18.41,57,1521
+5374028,Morsbach,Grundzentrum,10293,0,0,0,183.93,18.46,56,1422
+5374032,Nümbrecht,Grundzentrum,17486,0,0,0,243.61,19.94,77,1852
+5374040,Reichshof,Grundzentrum,18610,0,0,0,162.31,18.37,61,2037
+5374048,Wiehl,Grundzentrum,25314,0,0,0,475.29,31.15,69,2398
+5378008,Burscheid,Grundzentrum,18968,0,0,0,694.04,30.22,40,2745
+5378012,Kürten,Grundzentrum,20128,0,0,0,299.12,17.67,103,3899
+5378020,Odenthal,Grundzentrum,15324,0,0,0,384.35,17.73,55,3024
+5378024,Overath,Grundzentrum,27405,0,0,0,397.87,22.07,73,2742
+5378028,Rösrath,Grundzentrum,28889,0,0,0,744.56,26.7,68,2521
+5382004,Alfter,Grundzentrum,23904,0,0,0,687.49,23.5,39,3616
+5382032,Meckenheim,Grundzentrum,24877,0,0,0,714.04,27.15,33,4302
+5382036,Much,Grundzentrum,14758,0,0,0,189.06,17.61,49,1451
+5382040,Neunkirchen-Seelscheid,Grundzentrum,20109,0,0,0,397.25,22.52,27,1290
+5382052,Ruppichteroth,Grundzentrum,10637,0,0,0,171.68,13.62,31,1304
+5382064,Swisttal,Grundzentrum,18653,0,0,0,299.79,17.5,55,3123
+5382072,Wachtberg,Grundzentrum,20581,1,1,45,414.27,20.29,49,3753
+5382076,Windeck,Grundzentrum,19203,0,0,0,179.1,18.34,66,2011
+5554016,Gescher,Grundzentrum,17361,0,0,0,214.76,16.85,27,918
+5554024,Heek,Grundzentrum,8830,0,0,0,127.18,12.8,78,1095
+5554028,Heiden,Grundzentrum,8317,0,0,0,155.78,13.71,26,618
+5554032,Isselburg,Grundzentrum,11208,0,0,0,261.87,20.05,11,429
+5554036,Legden,Grundzentrum,7564,0,0,0,134.4,13.38,25,501
+5554040,Raesfeld,Grundzentrum,11832,0,0,0,204.18,14.36,20,663
+5554044,Reken,Grundzentrum,15336,0,0,0,194.77,15.93,40,1339
+5554048,Rhede,Grundzentrum,19595,0,0,0,248.35,15.18,54,736
+5554052,Schöppingen,Grundzentrum,6651,0,0,0,96.66,11.44,29,405
+5554060,Südlohn,Grundzentrum,9616,0,0,0,212.32,15.94,26,812
+5554064,Velen,Grundzentrum,13304,0,0,0,188.04,13.99,27,530
+5558004,Ascheberg,Grundzentrum,15822,0,0,0,148.81,12.85,127,1384
+5558008,Billerbeck,Grundzentrum,11681,1,1,400,127.86,12.18,113,799
+5558020,Havixbeck,Grundzentrum,12141,0,0,0,228.34,13.33,64,1390
+5558028,Nordkirchen,Grundzentrum,10402,0,0,0,198.47,14.35,61,1123
+5558032,Nottuln,Grundzentrum,19901,0,0,0,232.3,14.93,117,2574
+5558036,Olfen,Grundzentrum,13253,0,0,0,252.78,15.72,81,860
+5558040,Rosendahl,Grundzentrum,10840,0,0,0,114.72,11.38,75,1317
+5558044,Senden,Grundzentrum,20895,0,0,0,190.91,13.04,186,2702
+5566004,Altenberge,Grundzentrum,10415,0,0,0,165.42,14.15,31,1764
+5566016,Hörstel,Grundzentrum,20766,0,0,0,193.1,17.81,83,1060
+5566020,Hopsten,Grundzentrum,7789,0,0,0,78.02,9.96,97,1474
+5566024,Horstmar der Burgmannshöfe,Grundzentrum,7382,0,0,0,164.92,12.13,49,918
+5566032,Ladbergen,Grundzentrum,7007,0,0,0,133.85,15.47,68,742
+5566036,Laer,Grundzentrum,6805,0,0,0,192.99,12.65,51,864
+5566044,Lienen,Grundzentrum,8783,0,0,0,119.59,12.19,46,767
+5566048,Lotte,Grundzentrum,14314,0,0,0,379.78,25.52,75,4146
+5566052,Metelen,Grundzentrum,6552,0,0,0,162.66,13.16,14,656
+5566056,Mettingen,Grundzentrum,12000,0,0,0,295.57,21.75,71,1774
+5566060,Neuenkirchen,Grundzentrum,14072,0,0,0,290.5,18.89,19,702
+5566064,Nordwalde,Grundzentrum,9807,0,0,0,190.06,12.69,33,1126
+5566072,Recke,Grundzentrum,11370,0,0,0,211.77,16.5,61,1331
+5566080,Saerbeck,Grundzentrum,7128,0,0,0,120.75,11.47,55,966
+5566088,Tecklenburg,Grundzentrum,9288,0,0,0,131.76,13.63,69,1050
+5566092,Westerkappeln,Grundzentrum,11485,0,0,0,133.81,14.4,69,1942
+5566096,Wettringen,Grundzentrum,8314,0,0,0,144.12,13.14,51,894
+5570012,Beelen,Grundzentrum,6247,0,0,0,199.27,16.91,6,156
+5570016,Drensteinfurt,Grundzentrum,15874,0,0,0,148.91,11.67,36,739
+5570020,Ennigerloh,Grundzentrum,19757,1,2,80,157.35,13.53,133,2016
+5570024,Everswinkel,Grundzentrum,9733,0,0,0,140.94,11.54,51,1526
+5570032,Ostbevern,Grundzentrum,11500,0,0,0,128.28,11.47,57,1002
+5570036,Sassenberg,Grundzentrum,14455,0,0,0,185.13,15.42,26,775
+5570040,Sendenhorst,Grundzentrum,13671,0,0,0,141.01,10.43,62,1806
+5570044,Telgte,Grundzentrum,20222,0,0,0,222.46,16.04,94,1701
+5570048,Wadersloh,Grundzentrum,12863,0,0,0,109.91,11.2,127,1426
+5754004,Borgholzhausen,Grundzentrum,9253,0,0,0,165.26,15.02,44,1167
+5754016,Harsewinkel,Grundzentrum,25999,0,0,0,258.47,15.77,127,1958
+5754020,Herzebrock-Clarholz,Grundzentrum,16379,0,0,0,206.6,14.51,94,1775
+5754024,Langenberg,Grundzentrum,8747,0,0,0,228.32,15.11,12,532
+5754036,Schloß Holte-Stukenbrock,Grundzentrum,27467,1,1,195,406.8,24.53,67,2338
+5754040,Steinhagen,Grundzentrum,20671,0,0,0,366.44,21.98,71,1914
+5754044,Verl,Grundzentrum,25522,0,0,0,357.6,22.45,81,2075
+5754048,Versmold,Grundzentrum,22274,0,0,0,260.3,18.36,100,1694
+5754052,Werther (Westf.),Grundzentrum,11229,0,0,0,317.02,18.89,36,1324
+5758008,Enger,Grundzentrum,20705,0,0,0,502.06,28.35,53,2540
+5758016,Hiddenhausen,Grundzentrum,19924,0,0,0,834.69,43.61,54,2343
+5758020,Kirchlengern,Grundzentrum,16366,1,1,50,484.49,31.53,60,1486
+5758028,Rödinghausen,Grundzentrum,9891,0,0,0,272.7,23.93,35,432
+5758032,Spenge,Grundzentrum,14416,1,1,202,357.27,21.19,54,2127
+5762012,Borgentreich,Grundzentrum,8761,1,3,330,63.06,8.41,57,1575
+5762024,Marienmünster,Grundzentrum,4970,0,0,0,77.22,10.46,27,570
+5762028,Nieheim,Grundzentrum,6157,0,0,0,77.24,10.11,35,1203
+5762040,Willebadessen,Grundzentrum,8288,0,0,0,64.54,8.11,48,1013
+5766004,Augustdorf,Grundzentrum,10365,0,0,0,245.73,16.31,20,582
+5766024,Dörentrup,Grundzentrum,7660,0,0,0,153.85,13.34,30,1030
+5766028,Extertal,Grundzentrum,11004,0,0,0,118.98,12.51,83,1769
+5766036,Kalletal,Grundzentrum,13401,0,0,0,119.2,11.85,101,2135
+5766048,Leopoldshöhe,Grundzentrum,16614,0,0,0,449.88,24.83,57,3192
+5766052,Lügde der Osterräder,Grundzentrum,9364,0,0,0,105.64,11.41,60,1172
+5766056,Oerlinghausen,Grundzentrum,17238,0,0,0,527.32,27.35,58,3383
+5766060,Schieder-Schwalenberg,Grundzentrum,8363,0,0,0,139.29,12.26,45,1830
+5766064,Schlangen,Grundzentrum,9357,0,0,0,123.17,9.73,20,1083
+5770012,Hille,Grundzentrum,15728,0,0,0,152.71,16.99,94,1658
+5770016,Hüllhorst,Grundzentrum,13281,0,0,0,297.11,22.35,47,1266
+5770036,Preußisch Oldendorf,Grundzentrum,12531,0,0,0,182.24,16.06,53,1289
+5770040,Rahden,Grundzentrum,15773,1,5,561,114.73,14.37,67,1270
+5770044,Stemwede,Grundzentrum,13311,0,0,0,80.12,12.42,78,1443
+5774004,Altenbeken,Grundzentrum,9212,0,0,0,120.86,10.64,28,1261
+5774008,Bad Lippspringe,Grundzentrum,16808,1,1,100,329.5,16.47,14,1310
+5774012,Borchen,Grundzentrum,13685,0,0,0,177.08,13.13,43,2320
+5774024,Hövelhof,Grundzentrum,16522,0,0,0,233.56,16.64,76,1999
+5774028,Lichtenau,Grundzentrum,10867,0,0,0,56.43,7.91,61,1743
+5774036,Salzkotten,Grundzentrum,25311,0,0,0,230.52,17.27,94,2781
+5774040,Bad Wünnenberg,Grundzentrum,12341,0,0,0,76.51,9.97,53,1303
+5954004,Breckerfeld,Grundzentrum,9041,0,0,0,153,9.05,69,2120
+5958008,Bestwig,Grundzentrum,10695,0,0,0,153.97,14.34,49,1716
+5958016,Eslohe (Sauerland),Grundzentrum,8920,0,0,0,78.69,11.12,90,1833
+5958020,Hallenberg,Grundzentrum,4537,0,0,0,69.43,11.37,20,693
+5958028,Medebach,Grundzentrum,8101,0,0,0,64.27,9.73,42,1769
+5958036,Olsberg,Grundzentrum,14509,0,0,0,122.96,12.02,60,2776
+5962008,Balve,Grundzentrum,11143,0,0,0,148.95,11.24,71,853
+5962012,Halver,Grundzentrum,16347,0,0,0,211.67,12.72,139,2704
+5962020,Herscheid,Grundzentrum,6954,0,0,0,117.07,9.12,80,1478
+5962028,Kierspe,Grundzentrum,16422,0,0,0,228.37,11.43,117,2742
+5962044,Nachrodt-Wiblingwerde,Grundzentrum,6466,0,0,0,222.74,12.26,59,1409
+5962048,Neuenrade,Grundzentrum,11793,0,0,0,217.99,12.66,91,2194
+5962056,Schalksmühle,Grundzentrum,10284,0,0,0,269.99,17.33,94,2781
+5966008,Drolshagen,Grundzentrum,11763,0,0,0,175.28,16.64,72,1403
+5966012,Finnentrop,Grundzentrum,16851,1,1,192,161.38,14.89,66,1864
+5966016,Kirchhundem,Grundzentrum,11445,0,0,0,77,9.41,66,1979
+5966028,Wenden,Grundzentrum,19565,0,0,0,269.64,20.69,60,2738
+5970008,Burbach,Grundzentrum,15315,0,0,0,192.11,17.11,46,1772
+5970012,Erndtebrück,Grundzentrum,6970,0,0,0,98.2,12,40,952
+5970016,Freudenberg,Grundzentrum,17773,0,0,0,325.51,23.1,84,3879
+5970020,Hilchenbach,Grundzentrum,14775,1,1,364,182.14,14.73,50,1768
+5970032,Netphen,Grundzentrum,23363,0,0,0,170.05,13.63,103,4390
+5970044,Wilnsdorf,Grundzentrum,19793,0,0,0,274.75,20.31,65,4222
+5974004,Anröchte,Grundzentrum,10359,0,0,0,140.38,14.2,35,492
+5974008,Bad Sassendorf,Grundzentrum,12451,0,0,0,196.2,15.3,61,1687
+5974012,Ense,Grundzentrum,12326,0,0,0,241.31,17.17,50,1176
+5974016,Erwitte,Grundzentrum,16333,0,0,0,182.68,15.41,68,933
+5974024,Lippetal,Grundzentrum,11966,0,0,0,94.51,10.39,77,651
+5974032,Möhnesee,Grundzentrum,11869,0,0,0,96.11,10.77,82,1451
+5974036,Rüthen,Grundzentrum,10957,0,0,0,69.28,9.33,56,1671
+5974048,Welver,Grundzentrum,11966,0,0,0,139.76,12.28,89,750
+5974056,Wickede (Ruhr),Grundzentrum,12967,0,0,0,513.75,24.84,40,1092
+5978008,Bönen,Grundzentrum,18438,0,0,0,484.7,26.92,83,2076
+5978012,Fröndenberg/Ruhr,Grundzentrum,20548,0,0,0,365.43,23.53,99,2810
+5978016,Holzwickede,Grundzentrum,17298,0,0,0,773.61,44.54,53,1939
+6431001,Abtsteinach,Grundzentrum,2476,0,0,0,224.68,12.34,5,255
+6431003,Biblis,Grundzentrum,9170,1,1,132,226.59,20.09,11,548
+6431004,Birkenau,Grundzentrum,9926,0,0,0,404.48,16.71,27,853
+6431006,Einhausen,Grundzentrum,6596,0,0,0,247.32,10.54,8,484
+6431007,Fürth,Grundzentrum,10751,0,0,0,279.9,13.72,26,1252
+6431008,Gorxheimertal,Grundzentrum,4156,0,0,0,397.7,13.97,13,826
+6431009,Grasellenbach,Grundzentrum,4137,0,0,0,180.81,10.75,15,544
+6431010,Groß-Rohrheim,Grundzentrum,3698,0,0,0,189.06,13.65,6,143
+6431012,Hirschhorn (Neckar),Grundzentrum,3449,0,0,0,111.8,7.36,15,569
+6431014,Lautertal (Odenwald),Grundzentrum,7214,0,0,0,234.6,12.94,28,1201
+6431015,Lindenfels,Grundzentrum,5411,0,0,0,256.57,14.13,20,893
+6431017,Mörlenbach,Grundzentrum,10166,0,0,0,373.48,17.6,20,252
+6431018,Neckarsteinach,Grundzentrum,4016,0,0,0,232.95,13.17,13,511
+6431019,Rimbach,Grundzentrum,8883,0,0,0,383.55,15.8,12,343
+6431021,Wald-Michelbach,Grundzentrum,10791,0,0,0,145.22,8.69,36,1537
+6431022,Zwingenberg,Grundzentrum,7203,0,0,0,1272.61,39.4,10,453
+6432001,Alsbach-Hähnlein,Grundzentrum,9178,0,0,0,581.99,24.48,10,893
+6432002,Babenhausen,Grundzentrum,17409,0,0,0,260.42,14.17,25,1349
+6432003,Bickenbach,Grundzentrum,6148,0,0,0,663.93,27.97,6,428
+6432005,Eppertshausen,Grundzentrum,6340,0,0,0,483.6,17.54,4,249
+6432006,Erzhausen,Grundzentrum,8153,0,0,0,1101.76,27.97,5,324
+6432007,Fischbachtal,Grundzentrum,2759,0,0,0,207.91,13.72,10,375
+6432009,Groß-Bieberau,Grundzentrum,4782,0,0,0,261.74,13.96,11,905
+6432011,Groß-Zimmern,Grundzentrum,14687,0,0,0,690.83,22.77,13,710
+6432012,Messel,Grundzentrum,4194,0,0,0,283,21.19,6,472
+6432013,Modautal,Grundzentrum,5137,0,0,0,161.59,12.96,21,1470
+6432014,Mühltal,Grundzentrum,13922,0,0,0,549.41,21.43,32,2592
+6432015,Münster (Hessen),Grundzentrum,14566,1,1,194,700.96,21.99,9,555
+6432016,Ober-Ramstadt,Grundzentrum,15252,0,0,0,364.18,15.69,47,2951
+6432017,Otzberg,Grundzentrum,6540,0,0,0,155.94,10.78,21,791
+6432019,Reinheim,Grundzentrum,16603,0,0,0,599.39,25.27,13,1900
+6432020,Roßdorf,Grundzentrum,12898,0,0,0,626.12,24.42,15,1560
+6432021,Schaafheim,Grundzentrum,9346,0,0,0,290.61,13.99,19,1706
+6432022,Seeheim-Jugenheim,Grundzentrum,16627,0,0,0,593.82,20.89,25,1361
+6433001,Biebesheim am Rhein,Grundzentrum,6675,0,0,0,357.33,24.68,4,434
+6433002,Bischofsheim,Grundzentrum,13176,0,0,0,1459.14,53.71,13,1785
+6433003,Büttelborn,Grundzentrum,14992,0,0,0,499.57,23.49,19,1595
+6433004,Gernsheim,Grundzentrum,11024,0,0,0,274.84,19.35,20,985
+6433005,Ginsheim-Gustavsburg,Grundzentrum,16960,1,1,100,1216.64,39.74,12,1443
+6433007,Kelsterbach,Grundzentrum,17375,0,0,0,1127.51,55.74,26,1813
+6433009,Nauheim,Grundzentrum,10840,0,0,0,787.22,22.29,13,992
+6433010,Raunheim,Grundzentrum,16542,0,0,0,1312.86,40.48,27,1886
+6433011,Riedstadt,Grundzentrum,24209,0,0,0,328.35,15.31,31,2957
+6433013,Stockstadt am Rhein,Grundzentrum,6333,0,0,0,338.12,15.59,5,483
+6433014,Trebur,Grundzentrum,13196,0,0,0,263.24,13.48,33,1803
+6434003,Glashütten,Grundzentrum,5437,0,0,0,200.63,11.44,18,963
+6434004,Grävenwiesbach,Grundzentrum,5352,0,0,0,124.03,12.61,18,743
+6434007,Neu-Anspach,Grundzentrum,14512,1,1,150,401.77,21.68,21,1090
+6434009,Schmitten im Taunus,Grundzentrum,9563,0,0,0,269.3,15.15,25,1244
+6434010,Steinbach (Taunus),Grundzentrum,10846,0,0,0,2465,41.82,11,869
+6434012,Wehrheim,Grundzentrum,9340,0,0,0,243.61,18.94,18,671
+6434013,Weilrod,Grundzentrum,6652,0,0,0,93.47,12.04,42,2133
+6435003,Biebergemünd,Grundzentrum,8394,0,0,0,107,8.87,26,860
+6435004,Birstein,Grundzentrum,6203,0,0,0,71.62,10.05,29,554
+6435005,Brachttal,Grundzentrum,5089,0,0,0,165.01,12.91,12,417
+6435007,Erlensee,Grundzentrum,15969,0,0,0,859.47,32.19,37,1971
+6435008,Flörsbachtal,Grundzentrum,2370,0,0,0,45.48,7.22,14,192
+6435009,Freigericht,Grundzentrum,14641,0,0,0,437.44,19.21,28,1166
+6435011,Großkrotzenburg,Grundzentrum,7505,0,0,0,1004.69,46.18,7,608
+6435012,Gründau,Grundzentrum,14780,0,0,0,218.64,14.44,21,798
+6435013,Hammersbach,Grundzentrum,4913,0,0,0,243.94,15.69,9,766
+6435015,Hasselroth,Grundzentrum,7409,0,0,0,391.39,17.86,16,964
+6435016,Jossgrund,Grundzentrum,3453,0,0,0,68.12,9.45,18,400
+6435017,Langenselbold,Grundzentrum,14608,0,0,0,556.92,25.09,25,2126
+6435018,Linsengericht,Grundzentrum,9883,0,0,0,331.64,18.09,16,727
+6435020,Neuberg,Grundzentrum,5505,0,0,0,521.8,23.51,8,525
+6435021,Nidderau,Grundzentrum,20700,1,5,715,442.97,18.04,37,2773
+6435022,Niederdorfelden,Grundzentrum,4034,0,0,0,618.71,20.55,4,292
+6435023,Rodenbach,Grundzentrum,11351,0,0,0,678.08,24.73,14,1234
+6435024,Ronneburg,Grundzentrum,3504,0,0,0,245.89,16.35,8,260
+6435026,Schöneck,Grundzentrum,11986,0,0,0,557.49,22.19,10,651
+6435027,Sinntal,Grundzentrum,8840,0,0,0,79.06,11.36,28,728
+6435028,Steinau an der Straße,Grundzentrum,10371,0,0,0,98.9,12.67,28,701
+6436002,Eppstein,Grundzentrum,13758,0,0,0,568.75,20.42,23,1130
+6436009,Kriftel,Grundzentrum,11151,0,0,0,1649.56,47.34,9,704
+6436010,Liederbach am Taunus,Grundzentrum,9062,0,0,0,1461.61,36.61,14,1013
+6436012,Sulzbach (Taunus),Grundzentrum,9298,1,12,3269,1184.46,36.43,14,855
+6437001,Bad König,Grundzentrum,9951,0,0,0,212.95,11.83,40,878
+6437003,Brensbach,Grundzentrum,5013,0,0,0,216.26,16.7,15,606
+6437004,Breuberg,Grundzentrum,7577,0,0,0,246.33,13.46,18,805
+6437005,Brombachtal,Grundzentrum,3493,0,0,0,170.89,17.51,10,229
+6437007,Fränkisch-Crumbach,Grundzentrum,3078,0,0,0,190.94,9.55,6,295
+6437009,Höchst i.Odw.,Grundzentrum,10319,1,2,220,338.22,18.81,22,764
+6437010,Lützelbach,Grundzentrum,6800,0,0,0,191.87,12.81,21,556
+6437012,Mossautal,Grundzentrum,2475,0,0,0,51.04,6.06,26,428
+6437013,Reichelsheim (Odenwald),Grundzentrum,8517,0,0,0,146.32,11.37,54,1776
+6437016,Oberzent,Grundzentrum,10280,0,0,0,62.07,7.29,73,1560
+6438003,Egelsbach,Grundzentrum,11452,0,0,0,773.26,31.74,24,1791
+6438004,Hainburg,Grundzentrum,14403,0,0,0,903.58,29.36,9,904
+6438007,Mainhausen,Grundzentrum,9897,0,0,0,552.29,31.25,10,542
+6439001,Aarbergen,Grundzentrum,6374,0,0,0,187.64,15.45,12,514
+6439005,Heidenrod,Grundzentrum,7927,0,0,0,82.63,10.18,35,1136
+6439006,Hohenstein,Grundzentrum,6235,0,0,0,97.64,9.97,19,742
+6439007,Hünstetten,Grundzentrum,10496,0,0,0,207.51,14.53,18,777
+6439009,Kiedrich,Grundzentrum,4074,0,0,0,330.15,10.45,5,285
+6439010,Lorch,Grundzentrum,4017,0,0,0,73.8,9.77,21,280
+6439011,Niedernhausen,Grundzentrum,14845,0,0,0,420.66,18.76,31,1541
+6439012,Oestrich-Winkel,Grundzentrum,11823,0,0,0,198.67,9.76,23,1056
+6439014,Schlangenbad,Grundzentrum,6481,0,0,0,177.51,13.2,17,892
+6439016,Waldems,Grundzentrum,5160,0,0,0,140.68,11.4,13,406
+6439017,Walluf,Grundzentrum,5523,0,0,0,819.44,29.08,11,573
+6440001,Altenstadt,Grundzentrum,12689,0,0,0,421.7,23.89,17,906
+6440006,Echzell,Grundzentrum,5852,0,0,0,155.43,10.73,8,468
+6440007,Florstadt,Grundzentrum,8901,0,0,0,224.77,14.09,16,901
+6440009,Gedern,Grundzentrum,7271,0,0,0,96.64,10.47,15,493
+6440010,Glauburg,Grundzentrum,3090,0,0,0,243.88,16.42,7,276
+6440011,Hirzenhain,Grundzentrum,2950,0,0,0,183.12,15.08,6,181
+6440012,Karben,Grundzentrum,23172,1,2,309,527.36,20.16,38,2157
+6440013,Kefenrod,Grundzentrum,2707,0,0,0,88.26,9.91,12,427
+6440014,Limeshain,Grundzentrum,5856,0,0,0,468.48,21.76,7,376
+6440015,Münzenberg,Grundzentrum,5832,0,0,0,184.38,16.47,10,430
+6440017,Niddatal,Grundzentrum,9988,0,0,0,248.15,13.04,14,764
+6440018,Ober-Mörlen,Grundzentrum,5847,0,0,0,155.3,13.31,8,243
+6440019,Ortenberg,Grundzentrum,8962,0,0,0,163.84,13.33,23,902
+6440020,Ranstadt,Grundzentrum,5374,0,0,0,156.86,13.22,12,415
+6440021,Reichelsheim (Wetterau),Grundzentrum,6955,0,0,0,252.36,14.51,10,460
+6440022,Rockenberg,Grundzentrum,4545,0,0,0,281.6,15.61,8,324
+6440023,Rosbach v.d.Höhe,Grundzentrum,13110,0,0,0,289.21,17.65,13,529
+6440024,Wölfersheim,Grundzentrum,9762,0,0,0,226.44,16.59,17,763
+6440025,Wöllstadt,Grundzentrum,6740,0,0,0,438.23,17.49,8,650
+6531001,Allendorf (Lumda),Grundzentrum,4065,0,0,0,184.35,13.29,9,303
+6531002,Biebertal,Grundzentrum,10070,0,0,0,229.18,14.54,26,1394
+6531003,Buseck,Grundzentrum,13246,0,0,0,343.07,23.05,22,843
+6531004,Fernwald,Grundzentrum,7150,0,0,0,331.48,21.23,9,485
+6531007,Heuchelheim a.d.Lahn,Grundzentrum,8052,0,0,0,761.06,36.48,12,1134
+6531009,Langgöns,Grundzentrum,11813,0,0,0,224.88,17.55,19,515
+6531012,Linden,Grundzentrum,13583,0,0,0,596.53,27.76,16,685
+6531013,Lollar,Grundzentrum,10454,0,0,0,488.73,24.54,16,851
+6531014,Pohlheim,Grundzentrum,18003,0,0,0,473.76,24.61,28,1248
+6531015,Rabenau,Grundzentrum,5154,0,0,0,118.76,10.97,11,335
+6531016,Reiskirchen,Grundzentrum,10527,0,0,0,233.99,18.8,21,858
+6531017,Staufenberg,Grundzentrum,8551,0,0,0,299.2,15.64,10,486
+6531018,Wettenberg,Grundzentrum,12828,0,0,0,298.88,16.78,38,1597
+6532001,Aßlar,Grundzentrum,13924,0,0,0,319.58,18.94,23,1005
+6532002,Bischoffen,Grundzentrum,3311,0,0,0,93.61,11.14,8,283
+6532003,Braunfels,Grundzentrum,11131,0,0,0,235.43,16.26,26,726
+6532004,Breitscheid,Grundzentrum,4780,0,0,0,150.74,13.02,15,435
+6532005,Dietzhölztal,Grundzentrum,5611,0,0,0,149.75,10.78,17,798
+6532007,Driedorf,Grundzentrum,5135,0,0,0,107.97,13.12,20,580
+6532008,Ehringshausen,Grundzentrum,9540,0,0,0,209.99,15.1,25,829
+6532009,Eschenburg,Grundzentrum,10079,0,0,0,220.16,18.02,22,695
+6532010,Greifenstein,Grundzentrum,6584,0,0,0,97.69,12.21,22,679
+6532013,Hohenahr,Grundzentrum,4900,0,0,0,107.2,10.89,15,568
+6532014,Hüttenberg,Grundzentrum,10909,0,0,0,267.77,17.11,18,566
+6532015,Lahnau,Grundzentrum,8284,0,0,0,346.03,18.88,10,655
+6532016,Leun,Grundzentrum,5813,0,0,0,202.83,15.98,13,642
+6532017,Mittenaar,Grundzentrum,4833,0,0,0,137.54,10.02,9,327
+6532018,Schöffengrund,Grundzentrum,6524,0,0,0,191.26,15.24,18,407
+6532019,Siegbach,Grundzentrum,2518,0,0,0,86.74,9.75,12,319
+6532020,Sinn,Grundzentrum,6511,0,0,0,347.62,22.1,9,310
+6532021,Solms,Grundzentrum,13862,0,0,0,407.47,22.84,17,999
+6532022,Waldsolms,Grundzentrum,4856,0,0,0,108.51,12.8,13,325
+6533001,Beselich,Grundzentrum,5789,0,0,0,183.54,17.82,14,478
+6533002,Brechen,Grundzentrum,6475,0,0,0,260.46,18.99,6,252
+6533003,Bad Camberg,Grundzentrum,14294,0,0,0,261.79,15.7,39,1449
+6533004,Dornburg,Grundzentrum,8739,0,0,0,262.99,18.69,18,467
+6533005,Elbtal,Grundzentrum,2441,0,0,0,219.71,20.25,6,190
+6533006,Elz,Grundzentrum,7949,0,0,0,471.47,26.04,10,442
+6533007,Hadamar,Grundzentrum,13042,0,0,0,318.18,19.15,24,1282
+6533008,Hünfelden,Grundzentrum,9790,0,0,0,156.17,12.84,17,727
+6533010,Löhnberg,Grundzentrum,4645,0,0,0,137.26,13.68,15,387
+6533011,Mengerskirchen,Grundzentrum,5764,0,0,0,187.02,17,18,566
+6533012,Merenberg,Grundzentrum,3219,0,0,0,139.41,15.59,11,299
+6533013,Runkel,Grundzentrum,9457,0,0,0,216.36,17.39,28,865
+6533014,Selters (Taunus),Grundzentrum,8092,0,0,0,199.95,13.79,22,520
+6533015,Villmar,Grundzentrum,6775,0,0,0,157.19,13.6,26,492
+6533016,Waldbrunn (Westerwald),Grundzentrum,5877,0,0,0,197.41,15.89,10,364
+6533018,Weilmünster,Grundzentrum,8916,1,1,99,115.16,13.48,32,1008
+6533019,Weinbach,Grundzentrum,4233,0,0,0,112.37,12.85,17,549
+6534001,Amöneburg,Grundzentrum,4963,0,0,0,113.05,10.59,11,390
+6534002,Angelburg,Grundzentrum,3428,0,0,0,204.9,16.5,9,264
+6534003,Bad Endbach,Grundzentrum,7950,0,0,0,199.5,15.83,23,735
+6534005,Breidenbach,Grundzentrum,6802,0,0,0,151.73,17.4,17,473
+6534006,Cölbe,Grundzentrum,6532,0,0,0,244.83,19.42,18,668
+6534007,Dautphetal,Grundzentrum,11418,0,0,0,158.54,13.84,24,771
+6534008,Ebsdorfergrund,Grundzentrum,9033,0,0,0,123.96,11.34,25,612
+6534009,Fronhausen,Grundzentrum,4139,0,0,0,148.51,14.64,13,222
+6534012,Lahntal,Grundzentrum,7102,0,0,0,175.36,13.23,19,549
+6534013,Lohra,Grundzentrum,5597,0,0,0,113.85,11.86,24,985
+6534015,Münchhausen,Grundzentrum,3315,0,0,0,79.8,11.72,16,394
+6534016,Neustadt (Hessen),Grundzentrum,10393,0,0,0,182.78,12.86,16,283
+6534017,Rauschenberg,Grundzentrum,4488,0,0,0,66.67,8.36,18,572
+6534019,Steffenberg,Grundzentrum,4052,0,0,0,166.75,17.12,9,249
+6534020,Weimar (Lahn),Grundzentrum,7231,0,0,0,153.69,13.84,24,864
+6534021,Wetter (Hessen),Grundzentrum,9010,0,0,0,86.2,7.96,18,542
+6534022,Wohratal,Grundzentrum,2156,0,0,0,70.3,10.86,10,327
+6535002,Antrifttal,Grundzentrum,1822,0,0,0,68.52,9.63,9,165
+6535003,Feldatal,Grundzentrum,2410,0,0,0,43.28,9.1,13,182
+6535004,Freiensteinau,Grundzentrum,3187,0,0,0,48.54,11.12,22,239
+6535005,Gemünden (Felda),Grundzentrum,2760,0,0,0,50.18,9.87,16,258
+6535006,Grebenau,Grundzentrum,2394,0,0,0,43.26,7.1,14,203
+6535007,Grebenhain,Grundzentrum,4585,0,0,0,50.04,10.87,25,369
+6535008,Herbstein,Grundzentrum,4685,0,0,0,58.58,10.54,16,297
+6535009,Homberg (Ohm),Grundzentrum,7521,0,0,0,85.43,10.22,28,761
+6535010,Kirtorf,Grundzentrum,3199,0,0,0,40.03,6.67,13,249
+6535012,Lautertal (Vogelsberg),Grundzentrum,2274,0,0,0,42.43,9.07,12,194
+6535013,Mücke,Grundzentrum,9485,0,0,0,110,13.6,29,492
+6535014,Romrod,Grundzentrum,2710,0,0,0,49.79,7.79,7,143
+6535015,Schlitz,Grundzentrum,9892,0,0,0,69.63,8.17,32,678
+6535016,Schotten,Grundzentrum,10045,0,0,0,75.21,12.2,32,726
+6535017,Schwalmtal,Grundzentrum,2903,0,0,0,53.4,9.35,13,292
+6535018,Ulrichstein,Grundzentrum,3028,0,0,0,46.15,10.93,15,329
+6535019,Wartenberg,Grundzentrum,3876,0,0,0,98.03,10.12,8,238
+6631001,Bad Salzschlirf,Grundzentrum,3568,0,0,0,273.2,14.55,6,113
+6631002,Burghaun,Grundzentrum,6436,0,0,0,98.95,13.01,18,425
+6631003,Dipperz,Grundzentrum,3625,0,0,0,120.67,13.45,13,301
+6631004,Ebersburg,Grundzentrum,4704,0,0,0,126.96,14.74,13,313
+6631005,Ehrenberg (Rhön),Grundzentrum,2549,0,0,0,62.41,9.48,8,208
+6631006,Eichenzell,Grundzentrum,11277,0,0,0,201.41,20,21,518
+6631007,Eiterfeld,Grundzentrum,7110,0,0,0,79.15,11.61,29,451
+6631008,Flieden,Grundzentrum,8673,0,0,0,174.68,17.36,33,691
+6631010,Gersfeld (Rhön),Grundzentrum,5516,0,0,0,61.74,10.33,18,249
+6631011,Großenlüder,Grundzentrum,8765,0,0,0,118.56,11.36,18,472
+6631012,Hilders,Grundzentrum,4859,0,0,0,69.05,11.31,22,570
+6631013,Hofbieber,Grundzentrum,6150,0,0,0,70.48,10.21,24,725
+6631014,Hosenfeld,Grundzentrum,4593,0,0,0,90.54,10.13,15,465
+6631016,Kalbach,Grundzentrum,6511,0,0,0,92.18,12.53,18,421
+6631017,Künzell,Grundzentrum,17062,0,0,0,563.47,26.22,32,1489
+6631018,Neuhof,Grundzentrum,10956,0,0,0,121.36,11.75,28,698
+6631019,Nüsttal,Grundzentrum,2920,0,0,0,64.19,9.32,14,250
+6631020,Petersberg,Grundzentrum,16410,0,0,0,462.12,25.57,33,1628
+6631021,Poppenhausen (Wasserkuppe),Grundzentrum,2717,0,0,0,66.64,11.7,16,319
+6631022,Rasdorf,Grundzentrum,1581,0,0,0,52.56,8.68,7,141
+6631023,Tann (Rhön),Grundzentrum,4565,0,0,0,75.52,10.98,34,770
+6632001,Alheim,Grundzentrum,4959,0,0,0,77.68,10.01,20,317
+6632004,Breitenbach a.Herzberg,Grundzentrum,1714,0,0,0,40.4,8.58,10,200
+6632005,Cornberg,Grundzentrum,1355,0,0,0,58.01,9.29,6,121
+6632006,Friedewald,Grundzentrum,2531,0,0,0,63.85,10.82,10,291
+6632007,Hauneck,Grundzentrum,3217,0,0,0,181.24,17.97,13,303
+6632008,Haunetal,Grundzentrum,2949,0,0,0,53.68,10.41,23,332
+6632010,Hohenroda,Grundzentrum,3099,0,0,0,86.69,13.23,11,212
+6632011,Kirchheim,Grundzentrum,3614,0,0,0,71.41,13.3,22,416
+6632012,Ludwigsau,Grundzentrum,5569,0,0,0,49.7,8.05,30,671
+6632013,Nentershausen,Grundzentrum,2529,0,0,0,44.33,7.34,16,261
+6632014,Neuenstein,Grundzentrum,3170,0,0,0,48.92,10.2,19,303
+6632015,Niederaula,Grundzentrum,5302,0,0,0,82.64,13.95,20,500
+6632016,Philippsthal (Werra),Grundzentrum,4111,0,0,0,192.91,23.28,19,647
+6632017,Ronshausen,Grundzentrum,2399,0,0,0,63.75,6.62,8,106
+6632019,Schenklengsfeld,Grundzentrum,4296,0,0,0,67.39,9.15,22,432
+6632020,Wildeck,Grundzentrum,4971,0,0,0,124.49,15.15,18,447
+6633001,Ahnatal,Grundzentrum,8052,0,0,0,446.59,25.96,28,1280
+6633002,Bad Karlshafen,Grundzentrum,3695,0,0,0,248.82,21.35,17,533
+6633004,Breuna,Grundzentrum,3574,0,0,0,88.25,11.43,9,387
+6633005,Calden,Grundzentrum,7592,0,0,0,138.41,16.77,26,1266
+6633006,Bad Emstal,Grundzentrum,5967,0,0,0,154.27,12.31,17,803
+6633007,Espenau,Grundzentrum,5266,0,0,0,387.21,22.21,10,520
+6633008,Fuldabrück,Grundzentrum,8953,0,0,0,501.29,34.32,24,1619
+6633009,Fuldatal,Grundzentrum,12837,0,0,0,381.26,28.36,37,2900
+6633010,Grebenstein,Grundzentrum,5790,0,0,0,116.17,13.54,14,417
+6633011,Habichtswald,Grundzentrum,5254,0,0,0,186.25,13.86,12,495
+6633012,Helsa,Grundzentrum,5755,0,0,0,223.41,16.5,11,624
+6633014,Immenhausen,Grundzentrum,7092,0,0,0,248.49,18.75,22,751
+6633015,Kaufungen,Grundzentrum,12764,0,0,0,488.11,27.11,11,1293
+6633016,Liebenau,Grundzentrum,2989,0,0,0,61.15,10.21,13,462
+6633017,Lohfelden,Grundzentrum,14393,0,0,0,868.09,44.75,39,3604
+6633018,Naumburg,Grundzentrum,5111,0,0,0,77.07,8.29,20,935
+6633019,Nieste,Grundzentrum,2080,0,0,0,512.32,27.59,7,220
+6633020,Niestetal,Grundzentrum,11434,0,0,0,515.97,26.58,37,3541
+6633022,Reinhardshagen,Grundzentrum,4391,0,0,0,338.03,24.63,16,420
+6633023,Schauenburg,Grundzentrum,10644,0,0,0,344.8,21.8,26,1887
+6633024,Söhrewald,Grundzentrum,4677,0,0,0,79.32,6.56,10,579
+6633025,Trendelburg,Grundzentrum,4867,0,0,0,70.16,11.24,26,759
+6633029,Zierenberg,Grundzentrum,6604,0,0,0,76.3,10.61,10,395
+6633030,Wesertal,Grundzentrum,5110,0,0,0,97.06,11.59,22,565
+6634002,Edermünde,Grundzentrum,7442,0,0,0,287.89,19.88,13,474
+6634003,Felsberg,Grundzentrum,10633,0,0,0,127.62,12.52,30,815
+6634004,Frielendorf,Grundzentrum,7318,0,0,0,85.25,10.87,25,465
+6634006,Gilserberg,Grundzentrum,2951,0,0,0,47.94,8.77,14,91
+6634007,Gudensberg,Grundzentrum,9983,0,0,0,214.73,16.11,18,546
+6634008,Guxhagen,Grundzentrum,5481,0,0,0,209.28,17.53,18,484
+6634010,Jesberg,Grundzentrum,2161,0,0,0,43.4,6.31,8,136
+6634011,Knüllwald,Grundzentrum,4447,0,0,0,44.17,9.6,28,305
+6634012,Körle,Grundzentrum,3089,0,0,0,176.41,15.82,7,111
+6634013,Malsfeld,Grundzentrum,3989,0,0,0,115.56,15.9,15,403
+6634015,Morschen,Grundzentrum,3180,0,0,0,66.36,8.89,11,117
+6634016,Neuental,Grundzentrum,3014,0,0,0,77.94,12.44,12,206
+6634017,Neukirchen,Grundzentrum,7026,0,0,0,106.05,11.43,18,519
+6634018,Niedenstein,Grundzentrum,5577,0,0,0,182.2,14.73,16,741
+6634019,Oberaula,Grundzentrum,3289,0,0,0,74.73,11.43,13,331
+6634020,Ottrau,Grundzentrum,2164,0,0,0,44.62,8.95,11,151
+6634021,Schrecksbach,Grundzentrum,2981,0,0,0,81.43,11.2,10,229
+6634023,Schwarzenborn,Grundzentrum,1209,0,0,0,44.94,7.17,7,60
+6634024,Spangenberg,Grundzentrum,6122,0,0,0,62.65,8.23,27,600
+6634025,Wabern,Grundzentrum,7447,0,0,0,144.86,18.03,27,1202
+6634026,Willingshausen,Grundzentrum,4822,0,0,0,80.41,9.74,17,277
+6634027,Bad Zwesten,Grundzentrum,3832,0,0,0,97.14,9.25,10,318
+6635005,Bromskirchen,Grundzentrum,1931,0,0,0,54.83,9.77,4,98
+6635006,Burgwald,Grundzentrum,5034,0,0,0,121.89,12.37,13,264
+6635007,Diemelsee,Grundzentrum,4706,0,0,0,38.7,8.8,31,879
+6635008,Diemelstadt,Grundzentrum,5354,0,0,0,64.86,9.53,27,472
+6635009,Edertal,Grundzentrum,6220,0,0,0,53.78,7.72,43,985
+6635010,Frankenau,Grundzentrum,2933,0,0,0,51.2,7.68,10,325
+6635012,Gemünden (Wohra),Grundzentrum,3961,0,0,0,67.54,8.29,19,447
+6635013,Haina (Kloster),Grundzentrum,3409,0,0,0,37.37,5.74,21,426
+6635014,Hatzfeld (Eder),Grundzentrum,2963,0,0,0,50.64,8.6,18,506
+6635016,Lichtenfels,Grundzentrum,4133,0,0,0,42.71,7.6,26,639
+6635017,Rosenthal,Grundzentrum,2137,0,0,0,41.45,5.33,9,109
+6635018,Twistetal,Grundzentrum,4226,0,0,0,57.05,8.06,19,235
+6635019,Vöhl,Grundzentrum,5517,0,0,0,55.81,8.8,38,738
+6635020,Volkmarsen,Grundzentrum,6769,0,0,0,100.33,11.74,18,442
+6635021,Waldeck,Grundzentrum,6810,0,0,0,58.86,10.14,29,655
+6635022,Willingen (Upland),Grundzentrum,6422,1,2,251,80.01,11.04,36,867
+6636001,Bad Sooden-Allendorf,Grundzentrum,8394,1,2,295,113.82,10.85,53,1031
+6636002,Berkatal,Grundzentrum,1508,0,0,0,77.06,12.37,7,104
+6636004,Großalmerode,Grundzentrum,6255,0,0,0,166.4,17.11,22,712
+6636005,Herleshausen,Grundzentrum,2820,0,0,0,47.39,9.78,18,257
+6636007,Meinhard,Grundzentrum,4560,0,0,0,115.09,13.53,16,457
+6636008,Meißner,Grundzentrum,2950,0,0,0,65.83,11.81,19,339
+6636009,Neu-Eichenberg,Grundzentrum,1808,0,0,0,65.37,9.98,13,248
+6636010,Ringgau,Grundzentrum,2868,0,0,0,42.93,10.06,14,255
+6636012,Waldkappel,Grundzentrum,4231,0,0,0,43.83,8.53,26,564
+6636013,Wanfried,Grundzentrum,4227,0,0,0,90.17,10.35,18,648
+6636014,Wehretal,Grundzentrum,4999,0,0,0,127.53,13.21,14,402
+6636015,Weißenborn,Grundzentrum,952,0,0,0,61.18,11.95,2,21
+7131003,Altenahr,Grundzentrum,1492,0,0,0,100.61,10.38,11,335
+7131006,Bad Breisig,Grundzentrum,9740,0,0,0,488.71,19.97,17,584
+7131055,Niederzissen,Grundzentrum,2784,0,0,0,232.97,24.44,11,422
+7131090,Grafschaft,Grundzentrum,10998,0,0,0,190.94,16.96,38,1358
+7131202,Burgbrohl,Grundzentrum,3318,0,0,0,312.14,19.85,7,312
+7131502,Kempenich,Grundzentrum,1902,0,0,0,159.56,16.28,6,136
+7132018,Daaden,Grundzentrum,4225,0,0,0,215.78,15.22,14,439
+7132032,Flammersfeld,Grundzentrum,1452,0,0,0,357.64,24.63,4,83
+7132039,Gebhardshain,Grundzentrum,1898,0,0,0,318.99,20.84,6,151
+7132044,Hamm (Sieg),Grundzentrum,3785,0,0,0,1034.15,52.46,9,387
+7132050,Herdorf,Grundzentrum,6651,0,0,0,369.71,21.07,22,1011
+7132055,Horhausen (Westerwald),Grundzentrum,2123,0,0,0,449.79,25.42,7,142
+7132072,Mudersbach,Grundzentrum,5857,0,0,0,617.83,31.12,19,486
+7132076,Niederfischbach,Grundzentrum,4119,0,0,0,284.66,18.52,23,782
+7133054,Langenlonsheim,Grundzentrum,4126,0,0,0,346.43,25.78,6,169
+7133103,Stromberg,Grundzentrum,3477,0,0,0,385.9,27.3,13,509
+7133107,Waldböckelheim,Grundzentrum,2209,0,0,0,118.89,11.57,11,209
+7133117,Rüdesheim,Grundzentrum,2654,0,0,0,760.46,39.83,6,422
+7134039,Herrstein,Grundzentrum,793,0,0,0,164.86,14.55,6,84
+7134069,Rhaunen,Grundzentrum,2155,0,0,0,200.47,15.81,10,132
+7135010,Blankenrath,Grundzentrum,1697,0,0,0,369.72,24.18,2,69
+7135024,Ediger-Eller,Grundzentrum,916,0,0,0,47.76,11.63,5,187
+7135045,Kaisersesch,Grundzentrum,3254,0,0,0,397.8,37.78,9,472
+7135057,Lutzerath,Grundzentrum,1466,0,0,0,61.86,8.61,7,177
+7135082,Treis-Karden,Grundzentrum,2156,0,0,0,68.73,6.92,11,367
+7135083,Ulmen,Grundzentrum,3475,0,0,0,120.91,15.07,12,345
+7137069,Mendig,Grundzentrum,9128,0,0,0,384.34,24.42,19,851
+7137086,Ochtendung,Grundzentrum,5595,0,0,0,232.64,18.21,11,497
+7137088,Plaidt,Grundzentrum,5936,0,0,0,632.16,42.6,8,531
+7137089,Polch,Grundzentrum,6976,0,0,0,243.24,20.57,19,492
+7137212,Kobern-Gondorf,Grundzentrum,3153,0,0,0,111.02,11.94,16,345
+7137216,Mülheim-Kärlich,Grundzentrum,11312,0,0,0,688.92,37.88,19,894
+7137221,Rhens,Grundzentrum,3037,0,0,0,186.2,10.85,4,336
+7137228,Weißenthurm,Grundzentrum,9259,0,0,0,2320.55,64.91,22,777
+7137501,Münstermaifeld,Grundzentrum,3443,0,0,0,123.98,11.88,14,214
+7138003,Asbach,Grundzentrum,7605,1,5,679,197.12,17.26,20,902
+7138004,Bad Hönningen,Grundzentrum,6133,0,0,0,305.28,13.64,9,259
+7138044,Neustadt (Wied),Grundzentrum,6666,0,0,0,186.15,21.08,38,910
+7138057,Puderbach,Grundzentrum,2467,0,0,0,223.87,16.7,13,320
+7138061,Rengsdorf,Grundzentrum,2872,0,0,0,415.63,23.73,7,230
+7138063,Rheinbrohl,Grundzentrum,4155,0,0,0,241.57,12.79,5,208
+7138073,Unkel,Grundzentrum,5038,0,0,0,617.4,25,13,462
+7138076,Waldbreitbach,Grundzentrum,1913,0,0,0,299.37,20.66,5,111
+7140024,Büchenbeuren,Grundzentrum,1793,0,0,0,298.83,37.33,4,84
+7140036,Emmelshausen,Grundzentrum,4948,0,0,0,614.66,25.59,13,565
+7140067,Kirchberg (Hunsrück),Grundzentrum,4107,0,0,0,227.53,21.22,13,512
+7140112,Oberwesel,Grundzentrum,2864,0,0,0,158.41,14.88,18,564
+7140125,Rheinböllen,Grundzentrum,4249,0,0,0,259.72,21.21,13,417
+7140145,Sohren,Grundzentrum,3370,0,0,0,357.75,25.37,5,214
+7141051,Hahnstätten,Grundzentrum,2939,1,1,82,274.67,19.35,7,201
+7141059,Holzappel,Grundzentrum,1048,0,0,0,383.88,28.94,7,166
+7141068,Katzenelnbogen,Grundzentrum,2261,0,0,0,246.3,17.97,6,249
+7141091,Nassau,Grundzentrum,4688,0,0,0,267.12,13.9,11,252
+7141501,Braubach,Grundzentrum,2975,0,0,0,152.56,10.41,8,395
+7143062,Ransbach-Baumbach,Grundzentrum,8082,0,0,0,665.19,38.02,6,291
+7143067,Selters (Westerwald),Grundzentrum,2937,0,0,0,337.59,25.86,3,147
+7143206,Bad Marienberg (Westerwald),Grundzentrum,6238,0,0,0,626.93,38.99,14,319
+7143286,Rennerod,Grundzentrum,4448,0,0,0,245.2,22.22,13,202
+7143304,Wallmerod,Grundzentrum,1503,0,0,0,567.17,34.72,5,74
+7231072,Kröv,Grundzentrum,2233,0,0,0,151.29,15.24,7,193
+7231080,Manderscheid,Grundzentrum,1476,0,0,0,146.72,16,9,181
+7231092,Neumagen-Dhron,Grundzentrum,2337,0,0,0,143.55,15.17,10,226
+7231113,Salmtal,Grundzentrum,2496,0,0,0,177.15,17.53,6,148
+7231123,Thalfang,Grundzentrum,1831,0,0,0,94.28,12.82,9,124
+7231502,Morbach,Grundzentrum,10701,0,0,0,87.53,11.76,41,398
+7232063,Irrel,Grundzentrum,1705,0,0,0,241.5,20.96,4,241
+7232067,Körperich,Grundzentrum,1120,0,0,0,58.58,9.88,7,96
+7232070,Kyllburg,Grundzentrum,981,0,0,0,212.34,16.88,3,101
+7232080,Mettendorf,Grundzentrum,1134,0,0,0,75.7,12.15,6,299
+7232123,Speicher,Grundzentrum,3836,0,0,0,249.74,17.32,3,54
+7232201,Arzfeld,Grundzentrum,1434,0,0,0,73.96,11.04,12,152
+7232206,Bleialf,Grundzentrum,1258,0,0,0,166.62,16.56,6,92
+7232213,Daleiden,Grundzentrum,938,0,0,0,60.17,12.32,9,100
+7232304,Schönecken,Grundzentrum,1483,0,0,0,111,13.32,7,70
+7232322,Waxweiler,Grundzentrum,1100,0,0,0,184.25,15.91,5,65
+7233027,Gillenfeld,Grundzentrum,1440,0,0,0,96,11.53,5,32
+7233029,Hillesheim,Grundzentrum,3240,1,1,220,156.82,14.09,9,176
+7233035,Jünkerath,Grundzentrum,1836,0,0,0,181.78,17.52,9,168
+7233218,Kelberg,Grundzentrum,2054,0,0,0,83.26,12.2,10,375
+7233240,Stadtkyll,Grundzentrum,1563,0,0,0,75.22,14.1,8,103
+7235058,Kell am See,Grundzentrum,2018,0,0,0,71.41,10.44,6,80
+7235125,Schweich,Grundzentrum,7992,0,0,0,257.14,18.5,15,1149
+7235141,Waldrach,Grundzentrum,2111,0,0,0,169.42,13.56,12,606
+7235149,Wincheringen,Grundzentrum,2529,0,0,0,134.88,12.75,9,109
+7235152,Zerf,Grundzentrum,1621,0,0,0,56.27,7.6,12,94
+7331018,Eich,Grundzentrum,3749,0,0,0,178.35,13.61,6,179
+7331025,Flonheim,Grundzentrum,2706,0,0,0,181,12.51,7,306
+7331032,Gau-Odernheim,Grundzentrum,3964,0,0,0,216.97,12.1,8,378
+7331048,Monsheim,Grundzentrum,2598,0,0,0,270.34,22.89,4,154
+7331055,Osthofen,Grundzentrum,9736,0,0,0,522.88,19.33,16,602
+7331071,Westhofen,Grundzentrum,3429,0,0,0,232.79,15.21,7,258
+7331072,Wöllstein,Grundzentrum,4638,0,0,0,386.5,21.67,8,285
+7331073,Wörrstadt,Grundzentrum,8414,0,0,0,502.33,26.63,16,490
+7332009,Deidesheim,Grundzentrum,3772,0,0,0,142.13,9.27,2,151
+7332019,Freinsheim,Grundzentrum,4939,0,0,0,363.43,18.32,10,156
+7332027,Hettenleidelheim,Grundzentrum,3019,0,0,0,594.29,28.94,5,177
+7332032,Lambrecht (Pfalz),Grundzentrum,4170,0,0,0,501.2,17.79,7,347
+7332046,Wachenheim an der Weinstraße,Grundzentrum,4561,0,0,0,182.66,17.66,3,91
+7333003,Alsenz,Grundzentrum,1657,0,0,0,128.65,13.35,5,135
+7333026,Göllheim,Grundzentrum,3906,0,0,0,216.76,14.98,10,269
+7333054,Obermoschel,Grundzentrum,1049,0,0,0,103.35,9.85,4,58
+7333503,Winnweiler,Grundzentrum,5001,0,0,0,229.4,17.57,15,381
+7334001,Bellheim,Grundzentrum,8855,0,0,0,433.43,22.96,11,724
+7334008,Hagenbach,Grundzentrum,5518,0,0,0,347.92,16.02,5,123
+7334012,Jockgrim,Grundzentrum,7592,0,0,0,602.06,23.47,5,156
+7334017,Lingenfeld,Grundzentrum,5832,0,0,0,383.43,29.91,5,312
+7334024,Rheinzabern,Grundzentrum,5018,0,0,0,392.95,21.85,8,360
+7334025,Rülzheim,Grundzentrum,8353,0,0,0,501.38,22.09,8,502
+7335003,Bruchmühlbach-Miesau,Grundzentrum,8081,0,0,0,300.97,23.09,24,898
+7335004,Enkenbach-Alsenborn,Grundzentrum,7181,1,1,181,238.89,18.26,17,451
+7335015,Hochspeyer,Grundzentrum,4738,0,0,0,208.36,11.3,9,288
+7335034,Otterbach,Grundzentrum,4041,0,0,0,651.77,29.35,8,496
+7335035,Otterberg,Grundzentrum,5425,0,0,0,168.95,11.3,24,549
+7335037,Queidersbach,Grundzentrum,2823,0,0,0,190.87,12.91,8,346
+7335038,Ramstein-Miesenbach,Grundzentrum,8250,1,6,1463,191.82,42.71,28,1108
+7335049,Weilerbach,Grundzentrum,4898,0,0,0,306.32,22.2,12,454
+7336003,Altenglan,Grundzentrum,2756,0,0,0,202.65,18.01,13,430
+7336031,Glan-Münchweiler,Grundzentrum,1241,0,0,0,207.18,21.2,4,119
+7336092,Schönenberg-Kübelberg,Grundzentrum,5702,0,0,0,305.25,21.2,11,661
+7336102,Waldmohr,Grundzentrum,5302,0,0,0,406.91,25.1,6,325
+7336105,Wolfstein,Grundzentrum,1874,0,0,0,136.29,13.09,8,210
+7337007,Billigheim-Ingenheim,Grundzentrum,3817,0,0,0,166.32,13.73,10,258
+7337052,Maikammer,Grundzentrum,4423,0,0,0,323.56,13.31,7,350
+7337061,Offenbach an der Queich,Grundzentrum,6317,0,0,0,414.23,23.93,8,303
+7338001,Altrip,Grundzentrum,7728,0,0,0,738.11,27.22,5,343
+7338004,Bobenheim-Roxheim,Grundzentrum,10062,0,0,0,490.59,19.8,16,581
+7338005,Böhl-Iggelheim,Grundzentrum,10583,0,0,0,322.36,15.69,12,202
+7338006,Dannstadt-Schauernheim,Grundzentrum,7500,0,0,0,492.13,22.97,12,570
+7338007,Dudenhofen,Grundzentrum,6008,0,0,0,463.94,20.23,6,179
+7338012,Heßheim,Grundzentrum,3174,0,0,0,549.13,31.83,4,227
+7338016,Lambsheim,Grundzentrum,7077,0,0,0,555.06,22.9,6,111
+7338017,Limburgerhof,Grundzentrum,11669,1,1,199,1296.56,43.89,18,778
+7338018,Maxdorf,Grundzentrum,7225,0,0,0,982.99,35.78,9,491
+7338019,Mutterstadt,Grundzentrum,13139,0,0,0,641.87,28.38,17,864
+7338020,Neuhofen,Grundzentrum,7205,0,0,0,585.77,19.76,7,711
+7338023,Römerberg,Grundzentrum,9907,0,0,0,355.73,18.53,19,687
+7338026,Waldsee,Grundzentrum,5960,0,0,0,460.59,23.11,6,461
+7339003,Bacharach,Grundzentrum,1837,0,0,0,78.67,10.84,9,213
+7339006,Bodenheim,Grundzentrum,7984,0,0,0,594.49,25.17,2,88
+7339009,Budenheim,Grundzentrum,8639,0,0,0,814.23,36.85,10,773
+7339019,Gau-Algesheim,Grundzentrum,6935,0,0,0,495.71,22.09,7,330
+7339024,Guntersblum,Grundzentrum,3977,0,0,0,238,14.9,3,151
+7339039,Nackenheim,Grundzentrum,5686,0,0,0,659.63,21.69,3,86
+7339056,Sprendlingen,Grundzentrum,4337,0,0,0,332.85,23.33,12,374
+7340014,Hauenstein,Grundzentrum,3969,0,0,0,285.33,16.39,8,137
+7340028,Lemberg,Grundzentrum,3676,0,0,0,63.18,6.08,14,256
+7340038,Rodalben,Grundzentrum,6675,0,0,0,425.43,29.45,15,642
+7340051,Thaleischweiler-Fröschen,Grundzentrum,3200,0,0,0,260.8,23.72,9,272
+7340053,Vinningen,Grundzentrum,1677,0,0,0,132.67,11.79,7,176
+7340054,Waldfischbach-Burgalben,Grundzentrum,4671,0,0,0,265.4,21.76,8,168
+7340206,Contwig,Grundzentrum,5071,0,0,0,205.05,16.62,13,307
+7340225,Wallhalben,Grundzentrum,841,0,0,0,172.34,15.16,3,78
+8115016,Gäufelden,Grundzentrum,9241,0,0,0,460.44,20.98,9,807
+8115024,Holzgerlingen,Grundzentrum,13750,0,0,0,1026.89,33.46,12,1527
+8115041,Renningen,Grundzentrum,18596,0,0,0,596.98,21.19,15,892
+8115048,Waldenbuch,Grundzentrum,8779,0,0,0,386.74,14.14,29,2780
+8115050,Weil der Stadt,Grundzentrum,19401,2,5,433,449.41,20.27,27,4676
+8116042,Neckartenzlingen,Grundzentrum,6433,0,0,0,712.4,26.25,8,701
+8116046,Neuffen,Grundzentrum,6322,0,0,0,362.71,14.74,10,415
+8116056,Plochingen,Grundzentrum,14611,1,1,168,1373.21,36.18,15,1716
+8116058,Reichenbach an der Fils,Grundzentrum,8457,0,0,0,1138.22,31.22,22,1811
+8116070,Weilheim an der Teck,Grundzentrum,10324,0,0,0,389.44,17.69,18,1031
+8116071,Wendlingen am Neckar,Grundzentrum,16258,0,0,0,1338.11,40.49,18,1013
+8116077,Filderstadt,Grundzentrum,46188,0,0,0,1198.13,34.4,63,7616
+8116078,Leinfelden-Echterdingen,Grundzentrum,40420,0,0,0,1352.29,36.84,68,9531
+8116079,Lenningen,Grundzentrum,8269,0,0,0,199.59,10.79,20,843
+8116080,Ostfildern,Grundzentrum,39806,0,0,0,1745.11,37.09,36,6474
+8117010,Böhmenkirch,Grundzentrum,5649,0,0,0,110.59,9.98,15,838
+8117012,Bad Boll,Grundzentrum,5272,0,0,0,481.46,20.46,10,796
+8117014,Deggingen,Grundzentrum,5325,0,0,0,234.48,11.89,6,332
+8117015,Donzdorf,Grundzentrum,10927,0,0,0,274.41,14.14,16,960
+8117018,Ebersbach an der Fils,Grundzentrum,15692,0,0,0,597.56,21.82,28,1101
+8117019,Eislingen/Fils,Grundzentrum,21745,1,1,0,1325.11,33.39,28,2218
+8117038,Rechberghausen,Grundzentrum,5471,0,0,0,854.84,28.44,15,1251
+8117051,Uhingen,Grundzentrum,14492,0,0,0,584.59,21.46,35,2159
+8117058,Wiesensteig,Grundzentrum,2102,0,0,0,89.79,7.69,3,224
+8118010,Bönnigheim,Grundzentrum,8381,0,0,0,416.34,17.83,12,1295
+8118011,Ditzingen,Grundzentrum,25145,0,0,0,827.68,25.41,40,4293
+8118019,Gerlingen,Grundzentrum,19853,0,0,0,1167.14,27.16,29,2865
+8118021,Großbottwar,Grundzentrum,8452,0,0,0,331.32,15.44,14,2647
+8118049,Marbach am Neckar,Grundzentrum,16053,0,0,0,888.87,25.47,19,3529
+8118060,Oberstenfeld,Grundzentrum,7979,0,0,0,378.15,16.45,11,1890
+8118070,Steinheim an der Murr,Grundzentrum,12228,0,0,0,527.52,20.15,14,2517
+8118076,Sachsenheim,Grundzentrum,19490,0,0,0,336.5,12.95,31,2054
+8118078,Freiberg am Neckar,Grundzentrum,16216,0,0,0,1234.09,37.06,12,1986
+8118080,Korntal-Münchingen,Grundzentrum,19955,0,0,0,963.54,29.65,19,1848
+8119001,Alfdorf,Grundzentrum,7242,0,0,0,105.69,9.5,33,654
+8119044,Murrhardt,Grundzentrum,14180,1,1,74,199.3,11.9,46,1527
+8119055,Plüderhausen,Grundzentrum,9760,0,0,0,373.66,12.94,19,815
+8119061,Rudersberg,Grundzentrum,11358,1,2,190,288.49,13.46,27,1568
+8119075,Sulzbach an der Murr,Grundzentrum,5307,0,0,0,132.28,9.8,16,968
+8119084,Welzheim,Grundzentrum,11335,1,1,65,298.37,14.45,32,1110
+8119085,Winnenden,Grundzentrum,29245,1,2,280,1042.6,29.16,39,4430
+8119091,Weinstadt,Grundzentrum,27088,1,1,55,854.24,26.68,33,2892
+8125005,Bad Friedrichshall,Grundzentrum,19962,0,0,0,807.85,30.03,33,2585
+8125006,Bad Rappenau,Grundzentrum,22356,0,0,0,303.92,19,32,1313
+8125007,Bad Wimpfen,Grundzentrum,7398,0,0,0,381.73,19.4,9,516
+8125008,Beilstein,Grundzentrum,6210,0,0,0,246.04,12.96,15,1739
+8125013,Brackenheim,Grundzentrum,16521,0,0,0,361.11,19.52,21,1360
+8125026,Eppingen,Grundzentrum,22226,0,0,0,250.91,15.64,25,890
+8125038,Güglingen,Grundzentrum,6467,0,0,0,397.48,24.09,12,798
+8125039,Gundelsheim,Grundzentrum,7586,0,0,0,197.35,12.04,13,782
+8125046,Ilsfeld,Grundzentrum,9826,0,0,0,370.65,22.29,20,1039
+8125056,Lauffen am Neckar,Grundzentrum,11816,1,1,0,522.14,19.27,39,1127
+8125058,Leingarten,Grundzentrum,11816,0,0,0,503.45,21.18,7,536
+8125063,Möckmühl,Grundzentrum,8524,0,0,0,171.85,15.04,26,829
+8125068,Neudenau,Grundzentrum,5561,0,0,0,168.98,12.43,7,138
+8125069,Neuenstadt am Kocher,Grundzentrum,10372,0,0,0,251.93,15.76,21,1050
+8125086,Schwaigern,Grundzentrum,11687,0,0,0,236.15,15.68,16,1201
+8125102,Weinsberg,Grundzentrum,13290,0,0,0,598.11,30.15,15,1061
+8125107,Wüstenrot,Grundzentrum,6813,0,0,0,226.95,13.02,35,1644
+8125110,Obersulm,Grundzentrum,13951,0,0,0,448.87,23.23,32,1903
+8126011,Bretzfeld,Grundzentrum,12608,0,0,0,194.93,14.22,41,1997
+8126020,Dörzbach,Grundzentrum,2566,0,0,0,79.32,12.46,15,592
+8126028,Forchtenberg,Grundzentrum,5285,0,0,0,138.75,13.57,23,749
+8126045,Krautheim,Grundzentrum,4650,0,0,0,87.9,10.19,23,1086
+8126047,Kupferzell,Grundzentrum,6532,0,0,0,120.34,15.33,39,1912
+8126056,Mulfingen,Grundzentrum,3677,0,0,0,45.91,10.4,40,920
+8126058,Neuenstein,Grundzentrum,6705,0,0,0,140.15,16.66,41,1504
+8126060,Niedernhall,Grundzentrum,4142,0,0,0,233.88,15.3,18,1188
+8126072,Schöntal,Grundzentrum,5636,0,0,0,69.01,10.73,33,1220
+8127008,Blaufelden,Grundzentrum,5421,0,0,0,60.12,10.44,50,1899
+8127012,Bühlertann,Grundzentrum,3067,0,0,0,130.01,10.39,14,488
+8127025,Gaildorf,Grundzentrum,12408,2,2,160,198.24,11.54,36,2300
+8127032,Gerabronn,Grundzentrum,4546,0,0,0,112.58,11.91,20,2033
+8127043,Ilshofen,Grundzentrum,7089,0,0,0,129.2,13.61,39,2023
+8127046,Kirchberg an der Jagst,Grundzentrum,4456,1,1,86,108.87,13.49,30,2296
+8127052,Mainhardt,Grundzentrum,6168,0,0,0,105.08,8.09,34,887
+8127063,Obersontheim,Grundzentrum,5493,0,0,0,100.16,10.25,25,764
+8127071,Rot am See,Grundzentrum,5668,0,0,0,75.78,11.43,46,2245
+8127075,Schrozberg,Grundzentrum,5908,0,0,0,56.15,9.63,56,1256
+8127086,Untermünkheim,Grundzentrum,3099,0,0,0,113.98,13.9,15,773
+8127089,Vellberg,Grundzentrum,4654,0,0,0,145.94,12.7,19,568
+8127101,Kreßberg,Grundzentrum,4056,0,0,0,83.7,11.27,30,529
+8127102,Fichtenau,Grundzentrum,4595,0,0,0,146.9,14.77,30,748
+8128014,Boxberg,Grundzentrum,6698,0,0,0,65.85,10.63,24,544
+8128020,Creglingen,Grundzentrum,4595,0,0,0,39.2,9.14,39,474
+8128039,Freudenberg,Grundzentrum,3720,0,0,0,107.02,9.46,16,698
+8128047,Grünsfeld,Grundzentrum,3759,0,0,0,84.06,11.36,13,234
+8128064,Külsheim,Grundzentrum,5321,0,0,0,65.34,7.91,18,370
+8128082,Niederstetten,Grundzentrum,4941,0,0,0,47.49,10.28,29,453
+8128126,Weikersheim,Grundzentrum,7732,0,0,0,95.54,11.45,20,560
+8128139,Lauda-Königshofen,Grundzentrum,14578,0,0,0,154.36,12.07,43,1747
+8135010,Dischingen,Grundzentrum,4462,0,0,0,57.16,10.36,27,608
+8135015,Gerstetten,Grundzentrum,11876,0,0,0,128.49,11.41,31,741
+8135016,Giengen an der Brenz,Grundzentrum,20133,0,0,0,456.84,22.19,50,1186
+8135020,Herbrechtingen,Grundzentrum,13247,0,0,0,225.94,14.89,31,1006
+8135025,Königsbronn,Grundzentrum,7063,0,0,0,155.44,9.97,21,873
+8135027,Niederstotzingen,Grundzentrum,4828,0,0,0,161.96,11.37,10,387
+8135031,Sontheim an der Brenz,Grundzentrum,5897,0,0,0,203.91,14.73,9,156
+8135032,Steinheim am Albuch,Grundzentrum,8834,0,0,0,107.17,7.7,21,758
+8136002,Abtsgmünd,Grundzentrum,7582,0,0,0,105.94,9.85,31,1268
+8136010,Bopfingen,Grundzentrum,11755,0,0,0,152.74,12.59,52,1964
+8136027,Gschwend,Grundzentrum,4933,0,0,0,90.48,8.4,34,1700
+8136028,Heubach,Grundzentrum,10063,0,0,0,390.34,14.39,15,1091
+8136038,Lauchheim,Grundzentrum,4827,0,0,0,118.14,8.86,16,537
+8136040,Leinzell,Grundzentrum,2083,0,0,0,987.2,35.55,8,611
+8136042,Lorch,Grundzentrum,11003,0,0,0,320.97,20.74,43,1352
+8136044,Mutlangen,Grundzentrum,6886,0,0,0,783.39,29.58,17,2364
+8136045,Neresheim,Grundzentrum,8064,0,0,0,68.04,9.29,25,784
+8136050,Oberkochen,Grundzentrum,8002,0,0,0,339.79,14.06,22,1058
+8136075,Unterschneidheim,Grundzentrum,4945,0,0,0,72.65,9.68,24,1390
+8136082,Westhausen,Grundzentrum,6164,0,0,0,160.31,14.17,20,693
+8215046,Malsch,Grundzentrum,14929,0,0,0,291.35,14.01,27,1936
+8215059,Oberderdingen,Grundzentrum,11804,0,0,0,351.62,20.82,17,1126
+8215064,Östringen,Grundzentrum,13241,0,0,0,248.52,14.9,22,1202
+8215066,Philippsburg,Grundzentrum,13882,0,0,0,274.67,16.4,11,573
+8215082,Sulzfeld,Grundzentrum,5114,0,0,0,272.75,14.56,4,131
+8215084,Ubstadt-Weiher,Grundzentrum,13332,0,0,0,365.36,21.68,16,1615
+8215096,Karlsbad,Grundzentrum,16099,0,0,0,423.55,18.5,33,2531
+8215097,Kraichtal,Grundzentrum,14699,0,0,0,182.39,11.95,22,1295
+8215099,Graben-Neudorf,Grundzentrum,12451,0,0,0,432.33,19.65,9,875
+8215100,Bad Schönborn,Grundzentrum,13239,0,0,0,549.34,25.56,14,749
+8215101,Pfinztal,Grundzentrum,18731,0,0,0,603.25,17.65,14,1841
+8215102,Eggenstein-Leopoldshafen,Grundzentrum,16924,0,0,0,648.18,23.29,15,1071
+8215105,Linkenheim-Hochstetten,Grundzentrum,12238,0,0,0,518.56,17.63,12,1204
+8215106,Waghäusel,Grundzentrum,21444,0,0,0,500.56,21.29,19,2276
+8215108,Rheinstetten,Grundzentrum,20659,0,0,0,639.4,23.03,20,2748
+8215109,Stutensee,Grundzentrum,25204,0,0,0,551.75,18.19,20,2437
+8215110,Waldbronn,Grundzentrum,13235,0,0,0,1166.08,30.75,21,1292
+8216008,Bühlertal,Grundzentrum,8105,0,0,0,458.69,15.39,38,871
+8216009,Durmersheim,Grundzentrum,12085,0,0,0,465.34,15.52,10,666
+8216013,Forbach,Grundzentrum,4665,0,0,0,35.38,2.84,33,901
+8216024,Kuppenheim,Grundzentrum,8488,0,0,0,469.47,18.36,9,433
+8216028,Lichtenau,Grundzentrum,5035,0,0,0,182.3,10.54,11,307
+8216049,Sinzheim,Grundzentrum,11533,0,0,0,404.67,18.46,24,960
+8216063,Rheinmünster,Grundzentrum,6925,0,0,0,162.94,25.04,12,506
+8225001,Adelsheim,Grundzentrum,5255,0,0,0,119.87,11.04,12,240
+8225002,Aglasterhausen,Grundzentrum,4869,0,0,0,213.18,14.36,14,635
+8225009,Billigheim,Grundzentrum,6057,0,0,0,123.76,10.87,18,534
+8225032,Hardheim,Grundzentrum,6957,0,0,0,79.89,9.13,16,665
+8225033,Haßmersheim,Grundzentrum,5102,0,0,0,266.42,16.03,11,353
+8225052,Limbach,Grundzentrum,4600,0,0,0,105.53,9.34,22,477
+8225060,Mudau,Grundzentrum,4982,0,0,0,46.35,5.8,19,397
+8225064,Neckargerach,Grundzentrum,2337,0,0,0,152.65,11.95,6,164
+8225075,Osterburken,Grundzentrum,6715,0,0,0,141.91,13.55,12,421
+8225109,Walldürn,Grundzentrum,11813,1,2,240,111.54,11.18,40,1156
+8225115,Schefflenz,Grundzentrum,3936,0,0,0,106.49,10.2,9,328
+8225118,Waldbrunn,Grundzentrum,4794,0,0,0,108.24,8.29,19,536
+8226032,Hockenheim,Grundzentrum,21745,1,1,200,624.14,28.85,10,656
+8226038,Ladenburg,Grundzentrum,12517,0,0,0,658.79,27.84,19,1123
+8226041,Leimen,Grundzentrum,27142,0,0,0,1315.02,30.62,36,2579
+8226049,Meckesheim,Grundzentrum,5284,0,0,0,323.58,18.98,9,380
+8226055,Neckarbischofsheim,Grundzentrum,4230,0,0,0,160.17,10.72,8,449
+8226056,Neckargemünd,Grundzentrum,13576,0,0,0,518.96,19.38,45,3295
+8226065,Rauenberg,Grundzentrum,8736,0,0,0,785.61,29.41,10,452
+8226080,Schönau,Grundzentrum,4449,0,0,0,197.82,9.16,11,553
+8226091,Waibstadt,Grundzentrum,5728,0,0,0,224.01,15.25,8,776
+8235006,Altensteig,Grundzentrum,10916,0,0,0,205.23,13.33,46,1861
+8235007,Althengstett,Grundzentrum,7963,0,0,0,415.61,19.99,12,904
+8235008,Bad Liebenzell,Grundzentrum,9795,0,0,0,289.96,12.64,31,1231
+8235032,Haiterbach,Grundzentrum,6005,0,0,0,207.64,16.08,17,434
+8235033,Bad Herrenalb,Grundzentrum,8212,0,0,0,248.77,10.75,31,1143
+8235047,Neubulach,Grundzentrum,5796,0,0,0,234.75,15.15,17,707
+8235065,Schömberg,Grundzentrum,8118,1,1,159,218.17,10.08,23,1815
+8235080,Wildberg,Grundzentrum,10443,0,0,0,184.24,14.01,25,1416
+8235084,Bad Teinach-Zavelstein,Grundzentrum,3251,0,0,0,129.16,9.97,21,448
+8236025,Heimsheim,Grundzentrum,5553,0,0,0,388.32,17.76,7,702
+8236028,Illingen,Grundzentrum,7949,0,0,0,270.47,14.26,7,329
+8236033,Knittlingen,Grundzentrum,8255,0,0,0,313.52,18.04,17,829
+8236038,Maulbronn,Grundzentrum,6622,0,0,0,260.71,15.2,18,1114
+8236043,Neuenbürg,Grundzentrum,8518,0,0,0,302.59,13.07,30,2213
+8236062,Tiefenbronn,Grundzentrum,5395,0,0,0,365.02,18.06,11,676
+8236065,Wiernsheim,Grundzentrum,6854,0,0,0,278.39,15.11,15,1895
+8236070,Keltern,Grundzentrum,9100,0,0,0,305.16,14.52,22,1927
+8236071,Remchingen,Grundzentrum,11995,0,0,0,498.55,19.58,10,243
+8236072,Straubenhardt,Grundzentrum,11505,0,0,0,347.79,15.36,28,2707
+8236073,Neulingen,Grundzentrum,6711,0,0,0,289.39,14.92,16,799
+8236076,Königsbach-Stein,Grundzentrum,10235,0,0,0,303.62,14.39,12,675
+8237002,Alpirsbach,Grundzentrum,6177,2,2,68,95.68,8.75,34,1124
+8237004,Baiersbronn,Grundzentrum,14942,0,0,0,78.82,5.48,44,1583
+8237019,Dornstetten,Grundzentrum,8301,0,0,0,343.02,18.43,13,534
+8237024,Empfingen,Grundzentrum,4286,0,0,0,234.34,20.83,8,253
+8237027,Eutingen im Gäu,Grundzentrum,5986,0,0,0,182.39,17.67,19,780
+8237045,Loßburg,Grundzentrum,7798,1,1,0,98.4,8.97,38,798
+8237054,Pfalzgrafenweiler,Grundzentrum,7146,0,0,0,159.9,10.27,18,436
+8237074,Waldachtal,Grundzentrum,6286,0,0,0,210.45,14.43,15,318
+8315013,Bötzingen,Grundzentrum,5506,0,0,0,423.54,21.38,8,402
+8315047,Gundelfingen,Grundzentrum,11977,0,0,0,838.14,20.01,20,1537
+8315050,Heitersheim,Grundzentrum,6465,0,0,0,552.09,27.41,9,454
+8315052,Hinterzarten,Grundzentrum,2702,0,0,0,80.97,6.23,7,301
+8315064,Kirchzarten,Grundzentrum,10252,0,0,0,485.19,20.82,21,983
+8315068,Lenzkirch,Grundzentrum,5138,1,1,164,88.71,6.8,24,746
+8315070,Löffingen,Grundzentrum,7744,0,0,0,87.98,7.81,30,534
+8315073,Merzhausen,Grundzentrum,5347,0,0,0,1937.32,37.32,2,255
+8315076,Neuenburg am Rhein,Grundzentrum,12482,1,1,139,283.04,18.28,24,738
+8315102,Schluchsee,Grundzentrum,2559,0,0,0,36.86,4.88,23,596
+8315133,Vogtsburg im Kaiserstuhl,Grundzentrum,6242,0,0,0,167.08,16.76,22,567
+8316009,Denzlingen,Grundzentrum,13910,0,0,0,821.13,25.86,16,1616
+8316010,Elzach,Grundzentrum,7477,0,0,0,99.32,5.02,36,1336
+8316012,Endingen am Kaiserstuhl,Grundzentrum,10532,0,0,0,394.46,19.81,33,639
+8316017,Herbolzheim,Grundzentrum,11224,0,0,0,316.35,20.49,21,692
+8316020,Kenzingen,Grundzentrum,10908,1,2,232,295.37,14.22,10,429
+8316043,Teningen,Grundzentrum,12281,0,0,0,305.04,15.65,31,1099
+8317005,Appenweier,Grundzentrum,10320,0,0,0,271.44,17.31,13,587
+8317011,Biberach,Grundzentrum,3750,0,0,0,167.49,10.32,4,159
+8317026,Ettenheim,Grundzentrum,13871,0,0,0,284.24,13.11,21,840
+8317031,Friesenheim,Grundzentrum,13876,0,0,0,297.96,15.18,22,906
+8317034,Gengenbach,Grundzentrum,11116,0,0,0,179.58,9.03,28,715
+8317051,Hornberg,Grundzentrum,4271,0,0,0,78.44,4.52,19,268
+8317056,Kappelrodeck,Grundzentrum,6176,0,0,0,344.45,16.45,3,85
+8317075,Meißenheim,Grundzentrum,4066,0,0,0,190.44,12.88,5,123
+8317089,Oberkirch,Grundzentrum,20092,0,0,0,290.77,14.11,43,1140
+8317098,Oppenau,Grundzentrum,4936,0,0,0,67.63,4.44,15,263
+8317110,Renchen,Grundzentrum,7433,0,0,0,231.7,14.43,6,218
+8317127,Seelbach,Grundzentrum,4930,0,0,0,165.27,7.07,7,229
+8317141,Willstätt,Grundzentrum,10064,0,0,0,182.09,12.07,20,804
+8317146,Zell am Harmersbach,Grundzentrum,8227,1,1,0,225.95,10.52,9,297
+8317150,Schwanau,Grundzentrum,7235,0,0,0,188.66,12.02,12,360
+8317151,Neuried,Grundzentrum,10049,0,0,0,173.74,12.17,13,547
+8317153,Rheinau,Grundzentrum,11343,0,0,0,154.33,11.4,27,701
+8325012,Dornhan,Grundzentrum,6238,0,0,0,138.9,12.09,20,485
+8325014,Dunningen,Grundzentrum,6579,0,0,0,135.79,11.12,19,588
+8325045,Oberndorf am Neckar,Grundzentrum,14662,1,2,314,262.2,16.9,52,1937
+8325051,Schiltach,Grundzentrum,3764,0,0,0,110.03,6.99,35,1596
+8325057,Sulz am Neckar,Grundzentrum,12724,0,0,0,145.22,12.68,40,1158
+8326003,Bad Dürrheim,Grundzentrum,13659,0,0,0,220.02,14.58,25,1359
+8326005,Blumberg,Grundzentrum,10256,0,0,0,103.89,8.99,28,1556
+8326006,Bräunlingen,Grundzentrum,6014,0,0,0,96.78,7.85,27,1009
+8326017,Furtwangen im Schwarzwald,Grundzentrum,9004,1,1,60,109.05,6.41,61,1794
+8326027,Hüfingen,Grundzentrum,7976,0,0,0,136.27,10.8,22,1087
+8326031,Königsfeld im Schwarzwald,Grundzentrum,6111,0,0,0,152.01,11.37,36,904
+8326052,St. Georgen im Schwarzwald,Grundzentrum,13122,0,0,0,219.25,10.99,66,2016
+8326060,Triberg im Schwarzwald,Grundzentrum,4767,1,2,266,143.02,8.31,22,874
+8326068,Vöhrenbach,Grundzentrum,3698,0,0,0,52.48,3.93,34,845
+8327002,Aldingen,Grundzentrum,7720,0,0,0,348.22,20.7,1,68
+8327016,Fridingen an der Donau,Grundzentrum,3116,0,0,0,138.67,9.48,1,34
+8327018,Geisingen,Grundzentrum,6441,0,0,0,87.34,9.8,8,208
+8327019,Gosheim,Grundzentrum,3778,0,0,0,405.36,23.07,,
+8327025,Immendingen,Grundzentrum,6606,0,0,0,89.21,7.94,4,242
+8327036,Mühlheim an der Donau,Grundzentrum,3627,0,0,0,166.84,10.21,2,46
+8327046,Spaichingen,Grundzentrum,13531,0,0,0,731.41,31.84,2,177
+8327049,Trossingen,Grundzentrum,17571,2,3,314,726.07,28.14,1,28
+8327051,Wehingen,Grundzentrum,3664,0,0,0,251.13,15.56,,
+8335022,Engen,Grundzentrum,11355,0,0,0,160.93,11.82,46,1658
+8335025,Gaienhofen,Grundzentrum,3400,0,0,0,271.57,17.49,9,545
+8335028,Gottmadingen,Grundzentrum,10885,0,0,0,461.62,21.63,18,1288
+8335035,Hilzingen,Grundzentrum,8982,0,0,0,169.41,12.39,22,1067
+8335080,Tengen,Grundzentrum,4840,0,0,0,78.03,9.51,21,973
+8335100,Rielasingen-Worblingen,Grundzentrum,12147,0,0,0,653.42,22.54,15,927
+8336008,Binzen,Grundzentrum,2976,0,0,0,512.22,29.43,4,288
+8336014,Efringen-Kirchen,Grundzentrum,8773,0,0,0,200.53,15.91,26,474
+8336045,Kandern,Grundzentrum,8537,1,1,257,137.12,9.16,23,556
+8336078,Schliengen,Grundzentrum,6009,0,0,0,160.41,11.19,17,430
+8336079,Schönau im Schwarzwald,Grundzentrum,2417,0,0,0,164.2,8.42,6,508
+8336084,Steinen,Grundzentrum,10339,0,0,0,220.68,9.8,28,487
+8336087,Todtnau,Grundzentrum,4952,0,0,0,71,5.41,26,1028
+8336103,Zell im Wiesental,Grundzentrum,6279,0,0,0,173.84,8.11,17,939
+8336105,Grenzach-Wyhlen,Grundzentrum,15037,0,0,0,871.21,35.17,33,3376
+8336107,Kleines Wiesental,Grundzentrum,2818,0,0,0,36.21,5.01,34,579
+8337022,Bonndorf im Schwarzwald,Grundzentrum,7022,0,0,0,92.5,7.46,31,1056
+8337038,Görwihl,Grundzentrum,4233,0,0,0,83.97,8.33,34,934
+8337049,Herrischried,Grundzentrum,2748,0,0,0,73.26,8.24,25,479
+8337060,Jestetten,Grundzentrum,5313,0,0,0,257.66,14.06,13,494
+8337062,Klettgau,Grundzentrum,7611,0,0,0,165.93,12.01,21,754
+8337066,Laufenburg (Baden),Grundzentrum,9136,0,0,0,387.61,19.43,41,1037
+8337090,Rickenbach,Grundzentrum,3960,0,0,0,114.29,13.04,33,746
+8337097,St. Blasien,Grundzentrum,4169,1,1,170,76.62,4.98,23,673
+8337106,Stühlingen,Grundzentrum,5527,0,0,0,59.3,8.57,31,1080
+8337116,Wehr,Grundzentrum,13113,0,0,0,367.93,16.47,55,1403
+8337123,Wutöschingen,Grundzentrum,6766,0,0,0,255.61,14.92,8,559
+8337125,Küssaberg,Grundzentrum,5500,0,0,0,210.16,13.14,20,502
+8337128,Ühlingen-Birkendorf,Grundzentrum,5459,0,0,0,70.82,7.21,37,718
+8415059,Pfullingen,Grundzentrum,19005,1,1,0,630.56,22.4,52,2791
+8415060,Pliezhausen,Grundzentrum,9893,0,0,0,571.52,24.03,20,1509
+8415073,Trochtelfingen,Grundzentrum,6277,0,0,0,79.26,9.68,17,529
+8415078,Bad Urach,Grundzentrum,12812,1,2,181,231.18,11.89,45,2536
+8415085,Zwiefalten,Grundzentrum,2323,0,0,0,51.18,7.29,9,231
+8415088,Römerstein,Grundzentrum,4078,0,0,0,88.58,10.79,7,246
+8415089,Engstingen,Grundzentrum,5245,0,0,0,166.4,12.98,12,553
+8415091,Sonnenbühl,Grundzentrum,7106,0,0,0,116.02,11.9,10,331
+8415092,Lichtenstein,Grundzentrum,9312,0,0,0,271.96,12.62,11,690
+8415093,St. Johann,Grundzentrum,5271,0,0,0,89.46,9.08,14,512
+8416015,Gomaringen,Grundzentrum,9252,0,0,0,534.18,20.79,15,1366
+8416023,Kusterdingen,Grundzentrum,8863,0,0,0,365.64,21.33,21,2713
+8416025,Mössingen,Grundzentrum,20900,1,1,240,417.75,19.19,45,2948
+8416048,Ammerbuch,Grundzentrum,11387,0,0,0,237.03,13.28,18,1534
+8416050,Starzach,Grundzentrum,4365,0,0,0,156.79,13.43,12,583
+8417008,Bisingen,Grundzentrum,9844,0,0,0,299.85,19.52,20,582
+8417013,Burladingen,Grundzentrum,12273,1,2,155,99.53,8.39,40,800
+8417025,Haigerloch,Grundzentrum,10968,0,0,0,143.49,13.03,25,1042
+8417044,Meßstetten,Grundzentrum,11560,0,0,0,150.52,10.65,30,1080
+8417054,Rosenfeld,Grundzentrum,6547,0,0,0,128.1,12.17,23,618
+8417057,Schömberg,Grundzentrum,4741,0,0,0,203.91,16.13,14,514
+8417075,Winterlingen,Grundzentrum,6336,0,0,0,125.14,10.67,14,365
+8425002,Allmendingen,Grundzentrum,4717,0,0,0,102.83,10.22,16,378
+8425008,Amstetten,Grundzentrum,4166,0,0,0,83.65,10,12,371
+8425028,Dietenheim,Grundzentrum,7003,0,0,0,373.49,17.28,13,462
+8425031,Dornstadt,Grundzentrum,9309,0,0,0,157.17,13.49,17,793
+8425039,Erbach,Grundzentrum,13859,0,0,0,218.98,14.3,30,1136
+8425072,Langenau,Grundzentrum,15633,0,0,0,208.36,14.69,49,3291
+8425075,Lonsee,Grundzentrum,5157,0,0,0,119.04,11.8,13,464
+8425081,Munderkingen,Grundzentrum,5380,0,0,0,411.63,23.18,14,317
+8425108,Schelklingen,Grundzentrum,6959,0,0,0,91.72,8.41,21,474
+8425137,Illerkirchberg,Grundzentrum,4989,0,0,0,435.72,19.21,8,569
+8425138,Staig,Grundzentrum,3289,0,0,0,185.3,13.69,10,365
+8425141,Blaustein,Grundzentrum,16667,0,0,0,299.71,14.24,27,1595
+8426013,Bad Buchau,Grundzentrum,4636,0,0,0,195.2,11.33,6,455
+8426014,Bad Schussenried,Grundzentrum,9118,0,0,0,165.75,12.91,22,752
+8426038,Eberhardzell,Grundzentrum,4598,0,0,0,76.99,9.19,22,394
+8426044,Erolzheim,Grundzentrum,3405,0,0,0,129.47,11.29,9,430
+8426045,Ertingen,Grundzentrum,5444,0,0,0,144.25,12.59,8,171
+8426066,Kirchdorf an der Iller,Grundzentrum,4006,0,0,0,175.32,17.51,6,418
+8426067,Langenenslingen,Grundzentrum,3618,0,0,0,40.96,6.77,14,318
+8426087,Ochsenhausen,Grundzentrum,9261,0,0,0,154.45,12.04,28,1029
+8426100,Rot an der Rot,Grundzentrum,4565,0,0,0,71.99,8.66,15,330
+8426108,Schwendi,Grundzentrum,7061,0,0,0,143.43,11.86,22,692
+8426124,Uttenweiler,Grundzentrum,3692,0,0,0,74.18,9.74,12,240
+8426134,Schemmerhofen,Grundzentrum,8742,0,0,0,174.25,14.61,22,633
+8435029,Kressbronn am Bodensee,Grundzentrum,8829,0,0,0,432.37,21.2,25,559
+8435034,Markdorf,Grundzentrum,14356,1,1,80,350.92,14.13,21,840
+8435035,Meckenbeuren,Grundzentrum,13807,0,0,0,432.96,20.54,42,1517
+8435036,Meersburg,Grundzentrum,6142,0,0,0,508.86,20.38,22,877
+8435052,Salem,Grundzentrum,12119,0,0,0,193.32,11.68,31,1111
+8435057,Tettnang,Grundzentrum,20037,1,1,96,281.22,13.66,130,4110
+8436005,Altshausen,Grundzentrum,4083,0,0,0,199.37,14.79,12,280
+8436008,Aulendorf,Grundzentrum,10338,0,0,0,197.55,11.85,27,480
+8436010,Bad Wurzach,Grundzentrum,15061,0,0,0,82.64,7.64,63,1129
+8436049,Isny im Allgäu,Grundzentrum,14835,1,2,251,173.73,9.91,62,1471
+8436052,Kißlegg,Grundzentrum,9290,0,0,0,100.49,9.31,58,1119
+8436078,Vogt,Grundzentrum,4676,0,0,0,209.69,11.21,16,435
+8436083,Wilhelmsdorf,Grundzentrum,5018,0,0,0,131.74,8.95,18,511
+8436085,Wolfegg,Grundzentrum,3857,0,0,0,97.65,9.19,15,427
+8437031,Gammertingen,Grundzentrum,6318,0,0,0,119.28,11.23,15,359
+8437044,Herbertingen,Grundzentrum,4805,0,0,0,124.32,12.26,14,385
+8437053,Hohentengen,Grundzentrum,4335,0,0,0,118.41,13.85,12,253
+8437065,Krauchenwies,Grundzentrum,5087,0,0,0,113.93,11.94,20,470
+8437076,Mengen,Grundzentrum,9995,1,5,459,200.62,15.48,20,471
+8437078,Meßkirch,Grundzentrum,8737,0,0,0,114.63,10.52,29,884
+8437086,Ostrach,Grundzentrum,7017,0,0,0,64.44,7.96,45,951
+8437107,Stetten am kalten Markt,Grundzentrum,4821,0,0,0,85.37,10.78,9,355
+9171113,Burgkirchen a.d.Alz,Grundzentrum,10953,0,0,0,237.13,16.19,8,100
+9171117,Garching a.d.Alz,Grundzentrum,8778,0,0,0,339.44,18.14,4,170
+9171122,Kirchweidach,Grundzentrum,2803,0,0,0,139.11,12.51,3,82
+9171123,Marktl,Grundzentrum,2856,0,0,0,102.59,10.31,4,194
+9171129,Reischach,Grundzentrum,2647,0,0,0,93.01,8.61,9,75
+9171132,Töging a.Inn,Grundzentrum,9465,0,0,0,693.41,32.23,11,315
+9171133,Tüßling,Grundzentrum,3383,0,0,0,173.13,13.97,11,238
+9171137,Winhöring,Grundzentrum,4837,0,0,0,196.71,15.78,13,333
+9172111,Ainring,Grundzentrum,9975,0,0,0,302.64,15.84,10,186
+9172117,Bischofswiesen,Grundzentrum,7199,0,0,0,115.83,7.16,27,768
+9172128,Piding,Grundzentrum,5506,0,0,0,311.6,14.37,10,341
+9172132,Schönau a.Königssee,Grundzentrum,5668,0,0,0,43.06,2.73,33,857
+9172134,Teisendorf,Grundzentrum,9422,0,0,0,108.6,9.6,15,172
+9173113,Benediktbeuern,Grundzentrum,3720,0,0,0,98.23,5.15,4,162
+9173115,Bichl,Grundzentrum,2298,0,0,0,165.09,9.55,2,120
+9173118,Dietramszell,Grundzentrum,5757,0,0,0,59.46,6.3,30,534
+9173120,Egling,Grundzentrum,5402,0,0,0,72.94,7.98,25,425
+9173133,Kochel a.See,Grundzentrum,4165,1,1,60,51.99,4.47,23,597
+9174111,Altomünster,Grundzentrum,8064,0,0,0,106.58,8.93,40,596
+9174118,Erdweg,Grundzentrum,6344,0,0,0,175.93,10.57,28,585
+9174121,Haimhausen,Grundzentrum,5845,0,0,0,217.04,10.95,18,406
+9174126,Karlsfeld,Grundzentrum,22069,0,0,0,1413.77,34.85,33,3762
+9174131,Markt Indersdorf,Grundzentrum,10498,0,0,0,153.48,10.92,55,1346
+9174135,Odelzhausen,Grundzentrum,5604,0,0,0,184.1,15.14,22,482
+9174136,Petershausen,Grundzentrum,6654,0,0,0,202.93,11.07,22,606
+9175112,Aßling,Grundzentrum,4608,0,0,0,146.89,10.23,16,711
+9175121,Glonn,Grundzentrum,5348,0,0,0,176.91,9.46,13,424
+9175124,Kirchseeon,Grundzentrum,10764,0,0,0,601.01,19.49,9,434
+9175132,Vaterstetten,Grundzentrum,25530,0,0,0,749.12,28.29,44,1933
+9175135,Poing,Grundzentrum,16404,0,0,0,1269.66,37.31,29,2098
+9175139,Zorneding,Grundzentrum,9369,0,0,0,393.82,14.33,5,252
+9176112,Altmannstein,Grundzentrum,7127,0,0,0,62.45,7.18,28,468
+9176120,Denkendorf,Grundzentrum,4972,0,0,0,103.95,12.08,16,253
+9176121,Dollnstein,Grundzentrum,2976,0,0,0,73.46,7.92,15,354
+9176126,Gaimersheim,Grundzentrum,12352,0,0,0,437.86,20.88,21,1155
+9176129,Großmehring,Grundzentrum,7529,0,0,0,158.74,13.41,18,447
+9176138,Kipfenberg,Grundzentrum,5997,0,0,0,73.65,8.08,25,452
+9176139,Kösching,Grundzentrum,9875,0,0,0,177.32,11.47,24,1036
+9176143,Lenting,Grundzentrum,4930,0,0,0,581.37,31.6,10,613
+9176149,Nassenfels,Grundzentrum,2321,0,0,0,126.14,10.38,1,13
+9176153,Pförring,Grundzentrum,4041,0,0,0,92.88,9.86,11,148
+9176164,Titting,Grundzentrum,2693,0,0,0,37.87,7.96,3,6
+9177123,Isen,Grundzentrum,5760,0,0,0,131.57,9.71,24,288
+9177130,Moosinning,Grundzentrum,6189,0,0,0,154.88,14.54,18,684
+9177137,Sankt Wolfgang,Grundzentrum,4545,0,0,0,98.14,9.11,14,225
+9177143,Wartenberg,Grundzentrum,5749,0,0,0,321.53,16,12,314
+9178113,Allershausen,Grundzentrum,6104,0,0,0,229.91,14.31,15,491
+9178116,Au i.d.Hallertau,Grundzentrum,6304,0,0,0,114.64,9.77,24,363
+9178123,Fahrenzhausen,Grundzentrum,5150,0,0,0,136.82,11.16,19,457
+9178130,Hallbergmoos,Grundzentrum,11662,0,0,0,332.35,25.08,27,2084
+9178138,Langenbach,Grundzentrum,4105,0,0,0,152.66,10.82,1,39
+9178144,Nandlstadt,Grundzentrum,5587,0,0,0,162.89,10,18,320
+9178157,Zolling,Grundzentrum,5051,0,0,0,146.28,11.58,17,417
+9179118,Eichenau,Grundzentrum,11867,0,0,0,1697.71,42.63,17,1466
+9179126,Gröbenzell,Grundzentrum,19717,1,1,191,3100.16,77.36,22,2106
+9179134,Maisach,Grundzentrum,14199,0,0,0,265.65,18.3,41,2498
+9179136,Mammendorf,Grundzentrum,4961,0,0,0,233.79,14.75,16,1539
+9179142,Olching,Grundzentrum,27927,0,0,0,933.39,30.35,46,5578
+9179145,Puchheim,Grundzentrum,21420,0,0,0,1750,42.48,28,3608
+9179149,Türkenfeld,Grundzentrum,3752,0,0,0,235.24,13.54,5,163
+9180112,Bad Kohlgrub,Grundzentrum,2869,0,0,0,88.14,6.02,3,120
+9180116,Farchant,Grundzentrum,3601,0,0,0,139.68,6.59,3,314
+9180118,Grainau,Grundzentrum,3567,0,0,0,72.25,5.08,13,443
+9180122,Krün,Grundzentrum,1967,0,0,0,54.17,5.1,14,377
+9180126,Oberau,Grundzentrum,3103,0,0,0,173.74,10.41,3,142
+9180136,Wallgau,Grundzentrum,1539,0,0,0,45.32,4.3,6,151
+9181114,Dießen am Ammersee,Grundzentrum,10618,2,3,435,128.45,9.35,29,820
+9181121,Fuchstal,Grundzentrum,4129,0,0,0,103.9,10.64,12,95
+9181122,Geltendorf,Grundzentrum,5939,0,0,0,170.56,11.89,12,649
+9181128,Kaufering,Grundzentrum,10388,1,7,783,587.56,22.96,22,864
+9181134,Prittriching,Grundzentrum,2647,0,0,0,104.34,8.79,3,72
+9181135,Reichling,Grundzentrum,1704,0,0,0,73.26,7.61,6,87
+9181139,Schondorf am Ammersee,Grundzentrum,4070,0,0,0,617.6,29.14,2,79
+9181144,Utting am Ammersee,Grundzentrum,4564,0,0,0,240.08,16.89,8,122
+9182112,Bayrischzell,Grundzentrum,1702,0,0,0,21.42,2.67,7,149
+9182114,Fischbachau,Grundzentrum,5754,0,0,0,75.89,5.9,23,427
+9182131,Schliersee,Grundzentrum,6946,0,0,0,87.77,6.17,23,592
+9182134,Waakirchen,Grundzentrum,5923,0,0,0,139.96,11.11,15,274
+9183112,Ampfing,Grundzentrum,7067,0,0,0,227.02,15.64,14,279
+9183114,Buchbach,Grundzentrum,3350,0,0,0,116.36,9.69,12,109
+9183118,Gars a.Inn,Grundzentrum,3995,0,0,0,91.52,8.87,36,510
+9183119,Haag i.OB,Grundzentrum,6530,0,0,0,320.57,16.79,21,436
+9183124,Kraiburg a.Inn,Grundzentrum,4066,0,0,0,147.59,11.94,18,217
+9183129,Neumarkt-Sankt Veit,Grundzentrum,6494,0,0,0,106.34,9.96,34,287
+9183144,Schwindegg,Grundzentrum,3666,0,0,0,176.5,12.95,17,235
+9184112,Aschheim,Grundzentrum,9413,1,2,1100,335.58,23.24,17,3513
+9184118,Feldkirchen,Grundzentrum,7601,0,0,0,1185.8,42.9,11,2347
+9184119,Garching b.München,Grundzentrum,17526,1,1,400,622.15,31.56,34,6127
+9184120,Gräfelfing,Grundzentrum,13769,1,1,90,1437.27,57.72,28,5477
+9184121,Grasbrunn,Grundzentrum,6749,0,0,0,255.74,14.1,17,1365
+9184122,Grünwald,Grundzentrum,11382,0,0,0,1491.74,68.94,14,1698
+9184123,Haar,Grundzentrum,22555,1,2,302,1748.45,40.23,28,4127
+9184127,Höhenkirchen-Siegertsbrunn,Grundzentrum,11422,0,0,0,480.52,13.46,6,646
+9184129,Hohenbrunn,Grundzentrum,8871,0,0,0,477.45,21.91,7,407
+9184130,Ismaning,Grundzentrum,18062,0,0,0,449.42,18.04,22,3308
+9184131,Kirchheim b.München,Grundzentrum,12714,0,0,0,820.26,29.03,19,2887
+9184134,Oberhaching,Grundzentrum,13909,0,0,0,420.72,18.12,25,3017
+9184135,Oberschleißheim,Grundzentrum,11998,0,0,0,395.71,23.12,16,2024
+9184136,Ottobrunn,Grundzentrum,22430,2,3,348,4288.72,87.38,30,6694
+9184138,Planegg,Grundzentrum,11063,0,0,0,1035.86,35.11,31,6862
+9184139,Pullach i.Isartal,Grundzentrum,9026,0,0,0,1219.73,53.24,19,2484
+9184141,Sauerlach,Grundzentrum,8255,0,0,0,144.95,8.67,24,934
+9184142,Schäftlarn,Grundzentrum,6007,0,0,0,359.27,17.05,5,343
+9184145,Taufkirchen,Grundzentrum,18185,0,0,0,826.59,24.32,30,4355
+9184146,Neubiberg,Grundzentrum,14449,0,0,0,2504.16,72.62,17,4167
+9184147,Unterföhring,Grundzentrum,11500,0,0,0,899.14,39.09,27,5451
+9184148,Unterhaching,Grundzentrum,25873,0,0,0,2494.99,50.43,20,3703
+9185125,Burgheim,Grundzentrum,4651,0,0,0,93.53,11.86,14,175
+9185127,Ehekirchen,Grundzentrum,3885,0,0,0,61.88,8.57,25,268
+9185139,Karlshuld,Grundzentrum,6091,0,0,0,209.38,13.75,26,283
+9185153,Rennertshofen,Grundzentrum,4925,0,0,0,52.89,8.03,20,128
+9186122,Geisenfeld,Grundzentrum,11605,0,0,0,131.43,11.06,12,215
+9186128,Hohenwart,Grundzentrum,4968,0,0,0,95.14,10.78,10,35
+9186137,Manching,Grundzentrum,13302,0,0,0,375.44,33.39,23,921
+9186139,Münchsmünster,Grundzentrum,3183,0,0,0,196.24,25.15,5,87
+9186146,Reichertshausen,Grundzentrum,5136,0,0,0,217.26,14.64,14,233
+9186147,Reichertshofen,Grundzentrum,8480,0,0,0,229.87,17.89,15,332
+9186149,Rohrbach,Grundzentrum,6207,0,0,0,209.55,16.51,4,89
+9186151,Scheyern,Grundzentrum,4955,0,0,0,129.41,10.08,10,103
+9186152,Schweitenkirchen,Grundzentrum,5604,0,0,0,105.74,11.68,18,70
+9186158,Vohburg a.d.Donau,Grundzentrum,8756,0,0,0,193.85,17.02,16,234
+9186162,Wolnzach,Grundzentrum,11835,1,2,251,129.34,11.57,13,31
+9187114,Aschau i.Chiemgau,Grundzentrum,5743,0,0,0,72.16,5.11,30,476
+9187118,Bernau a.Chiemsee,Grundzentrum,7090,0,0,0,265.74,16,15,352
+9187120,Brannenburg,Grundzentrum,6850,0,0,0,203.45,10.4,10,126
+9187122,Bruckmühl,Grundzentrum,16894,0,0,0,336.47,16.11,33,496
+9187125,Eggstätt,Grundzentrum,2948,0,0,0,121.37,8.23,8,105
+9187128,Bad Endorf,Grundzentrum,8542,1,1,230,213.02,10.92,39,556
+9187129,Bad Feilnbach,Grundzentrum,8389,0,0,0,145.92,9.64,15,333
+9187130,Feldkirchen-Westerham,Grundzentrum,11190,0,0,0,210.18,13.07,16,278
+9187148,Kiefersfelden,Grundzentrum,6854,0,0,0,186.55,9.91,6,77
+9187150,Kolbermoor,Grundzentrum,18945,0,0,0,955.37,28.95,27,482
+9187157,Oberaudorf,Grundzentrum,5324,0,0,0,89.8,6.9,10,107
+9187165,Raubling,Grundzentrum,11651,0,0,0,263.18,15.47,15,410
+9187168,Rimsting,Grundzentrum,4077,0,0,0,203.85,13,13,383
+9187169,Rohrdorf,Grundzentrum,5965,0,0,0,208.2,15.92,17,356
+9187170,Rott a.Inn,Grundzentrum,4200,0,0,0,214.61,13.59,11,188
+9187177,Stephanskirchen,Grundzentrum,10817,0,0,0,408.03,19.46,30,828
+9187179,Tuntenhausen,Grundzentrum,7454,0,0,0,108.04,9.83,5,62
+9188113,Berg,Grundzentrum,8419,0,0,0,229.84,15.42,24,1271
+9188120,Gauting,Grundzentrum,21276,1,5,393,383.35,15.28,28,2168
+9188121,Gilching,Grundzentrum,19247,1,2,295,611.02,20.25,16,1291
+9188124,Herrsching a.Ammersee,Grundzentrum,11088,0,0,0,531.03,22.61,19,989
+9188126,Inning a.Ammersee,Grundzentrum,4850,1,2,100,198.61,14.82,14,809
+9188127,Krailling,Grundzentrum,7902,0,0,0,494.18,19.07,16,1354
+9188132,Seefeld,Grundzentrum,7694,1,2,127,220.77,12.83,24,1562
+9188137,Pöcking,Grundzentrum,5641,0,0,0,269.13,17.7,13,819
+9188141,Tutzing,Grundzentrum,10106,1,1,127,283.48,15.2,21,937
+9188144,Weßling,Grundzentrum,5543,1,1,67,245.27,22.96,13,1021
+9189111,Altenmarkt a.d.Alz,Grundzentrum,4193,0,0,0,160.65,11.38,17,289
+9189113,Bergen,Grundzentrum,5034,0,0,0,136.42,8.7,12,286
+9189114,Chieming,Grundzentrum,5074,0,0,0,134.48,13.89,23,384
+9189118,Fridolfing,Grundzentrum,4489,0,0,0,101.52,11.78,1,33
+9189119,Grabenstätt,Grundzentrum,4489,0,0,0,118.73,10.26,15,240
+9189120,Grassau,Grundzentrum,7228,0,0,0,202.01,11.71,10,401
+9189124,Inzell,Grundzentrum,4911,0,0,0,108.29,7.23,26,333
+9189129,Marquartstein,Grundzentrum,3370,0,0,0,251.49,12.76,4,158
+9189133,Obing,Grundzentrum,4475,0,0,0,102.29,9.97,15,223
+9189139,Reit im Winkl,Grundzentrum,2399,0,0,0,33.8,3.99,15,319
+9189140,Ruhpolding,Grundzentrum,7153,0,0,0,48.39,4.16,44,893
+9189142,Schnaitsee,Grundzentrum,3808,0,0,0,62.28,6.97,23,279
+9189143,Seeon-Seebruck,Grundzentrum,4575,0,0,0,95.45,9.26,30,316
+9189145,Siegsdorf,Grundzentrum,8543,0,0,0,149.88,11.32,18,571
+9189149,Tacherting,Grundzentrum,5775,0,0,0,114.95,10.47,12,275
+9189152,Tittmoning,Grundzentrum,5868,0,0,0,81.49,9.33,11,139
+9189159,Übersee,Grundzentrum,5165,0,0,0,169.18,13.95,9,285
+9189160,Unterwössen,Grundzentrum,3664,0,0,0,88.76,6.56,11,244
+9189162,Waging a.See,Grundzentrum,7130,0,0,0,145.93,10.99,9,163
+9190111,Altenstadt,Grundzentrum,3319,0,0,0,177.87,13.45,8,119
+9190115,Bernried am Starnberger See,Grundzentrum,2466,0,0,0,178.7,13.99,4,77
+9190130,Hohenpeißenberg,Grundzentrum,3872,0,0,0,188.51,11.25,7,158
+9190131,Huglfing,Grundzentrum,2898,0,0,0,118.97,8.13,8,207
+9190135,Oberhausen,Grundzentrum,2167,0,0,0,145.34,9.99,9,108
+9190152,Seeshaupt,Grundzentrum,3295,0,0,0,109.94,9.28,11,209
+9190154,Steingaden,Grundzentrum,2917,0,0,0,45.55,5.48,18,236
+9271125,Hengersberg,Grundzentrum,8070,0,0,0,176.16,16.15,48,678
+9271130,Lalling,Grundzentrum,1631,0,0,0,58.42,7.56,12,153
+9271132,Metten,Grundzentrum,4216,0,0,0,352.8,21,10,142
+9271149,Schöllnach,Grundzentrum,4928,0,0,0,123.51,10.88,54,473
+9272136,Neureichenau,Grundzentrum,4436,0,0,0,95.67,12.96,57,1085
+9272138,Perlesreut,Grundzentrum,2896,0,0,0,97.41,11.4,38,240
+9272141,Röhrnbach,Grundzentrum,4325,0,0,0,106.47,13.76,43,369
+9272143,Sankt Oswald-Riedlhütte,Grundzentrum,2917,0,0,0,72.31,7.73,24,548
+9272147,Schönberg,Grundzentrum,3876,0,0,0,118.35,12.64,42,643
+9272149,Spiegelau,Grundzentrum,3828,0,0,0,81.39,8.7,26,738
+9272150,Thurmansbang,Grundzentrum,2623,0,0,0,79.65,10.54,36,305
+9273116,Bad Abbach,Grundzentrum,12666,0,0,0,229.21,14.24,33,1251
+9273141,Langquaid,Grundzentrum,5929,0,0,0,104.44,10.46,23,496
+9273164,Riedenburg,Grundzentrum,6206,0,0,0,61.87,7.98,23,340
+9273165,Rohr i.NB,Grundzentrum,3321,0,0,0,61.36,9.63,21,211
+9273166,Saal a.d.Donau,Grundzentrum,5614,0,0,0,127.56,11.47,21,408
+9273172,Siegenburg,Grundzentrum,4103,0,0,0,147.38,13.69,14,165
+9274113,Altdorf,Grundzentrum,11362,0,0,0,494.21,23.84,23,1390
+9274120,Bodenkirchen,Grundzentrum,5402,0,0,0,87.14,11.13,22,246
+9274121,Buch a.Erlbach,Grundzentrum,4149,0,0,0,155.28,11.75,13,158
+9274124,Eching,Grundzentrum,4255,0,0,0,141.17,13.21,17,242
+9274126,Ergolding,Grundzentrum,13272,0,0,0,357.16,19.97,28,1308
+9274127,Ergoldsbach,Grundzentrum,8690,0,0,0,152.51,12.99,28,240
+9274128,Essenbach,Grundzentrum,12358,0,0,0,147.82,13.86,34,420
+9274132,Furth,Grundzentrum,3633,0,0,0,173.33,16.65,17,289
+9274134,Geisenhausen,Grundzentrum,7464,0,0,0,119.42,10.46,29,185
+9274135,Gerzen,Grundzentrum,1931,0,0,0,113.45,11.22,9,54
+9274153,Neufahrn i.NB,Grundzentrum,4488,0,0,0,115.79,13.08,24,279
+9274156,Niederaichbach,Grundzentrum,4218,0,0,0,123.84,11.74,28,217
+9274172,Pfeffenhausen,Grundzentrum,5235,0,0,0,72.95,9.35,25,211
+9274183,Velden,Grundzentrum,6655,0,0,0,134.63,12.16,33,329
+9274191,Wörth a.d.Isar,Grundzentrum,3266,0,0,0,674.79,43.39,6,77
+9274194,Bruckberg,Grundzentrum,5703,0,0,0,111.63,11.37,20,229
+9275112,Aidenbach,Grundzentrum,3127,0,0,0,182.87,12.92,10,155
+9275114,Aldersbach,Grundzentrum,4383,0,0,0,95.7,11.97,24,229
+9275116,Bad Füssing,Grundzentrum,8128,2,4,451,147.62,13.31,36,533
+9275119,Büchlberg,Grundzentrum,4265,0,0,0,151.67,13.41,30,367
+9275120,Eging a.See,Grundzentrum,4362,0,0,0,184.36,17.2,21,371
+9275121,Fürstenstein,Grundzentrum,3569,0,0,0,184.92,17.46,17,314
+9275122,Fürstenzell,Grundzentrum,8487,0,0,0,106.94,12.24,66,873
+9275124,Bad Griesbach i.Rottal,Grundzentrum,9285,0,0,0,132.4,13.86,66,857
+9275128,Hutthurm,Grundzentrum,6349,0,0,0,170.67,16.61,35,1153
+9275137,Obernzell,Grundzentrum,3922,0,0,0,215.38,16.86,9,274
+9275138,Ortenburg,Grundzentrum,7437,0,0,0,122.44,13.8,42,693
+9275143,Rotthalmünster,Grundzentrum,5009,0,0,0,112.44,14.03,33,366
+9275146,Salzweg,Grundzentrum,6793,0,0,0,212.68,14.4,15,616
+9275151,Tiefenbach,Grundzentrum,6824,0,0,0,137.28,13.94,38,946
+9275153,Untergriesbach,Grundzentrum,6071,0,0,0,82.53,9.99,40,579
+9275156,Wegscheid,Grundzentrum,5542,0,0,0,68.73,9.6,55,661
+9276113,Arnbruck,Grundzentrum,1983,0,0,0,52.36,7.58,1,3
+9276117,Bodenmais,Grundzentrum,3585,0,0,0,79.16,8.37,16,174
+9276120,Drachselsried,Grundzentrum,2451,0,0,0,58.73,8.1,9,29
+9276121,Frauenau,Grundzentrum,2699,0,0,0,44.91,5.31,7,96
+9276126,Kirchberg i.Wald,Grundzentrum,4490,0,0,0,92.03,9.31,19,164
+9276139,Rinchnach,Grundzentrum,3110,0,0,0,77.34,8.38,14,165
+9276142,Ruhmannsfelden,Grundzentrum,2014,0,0,0,347.24,22.41,5,57
+9276143,Teisnach,Grundzentrum,3023,0,0,0,117.31,10.79,11,146
+9277113,Bad Birnbach,Grundzentrum,5947,0,0,0,86.4,10.81,49,852
+9277117,Egglham,Grundzentrum,2367,0,0,0,64.25,8.6,17,113
+9277121,Gangkofen,Grundzentrum,6488,1,1,161,59.65,9.28,101,671
+9277126,Johanniskirchen,Grundzentrum,2489,0,0,0,61.32,8.47,20,175
+9277128,Kirchdorf a.Inn,Grundzentrum,5462,0,0,0,172.63,15.11,19,368
+9277133,Massing,Grundzentrum,4140,0,0,0,114.55,11.73,16,165
+9277148,Tann,Grundzentrum,4034,0,0,0,107.46,10.15,32,250
+9277149,Triftern,Grundzentrum,5271,0,0,0,84.69,10.01,37,280
+9277153,Wurmannsquick,Grundzentrum,3490,0,0,0,70.95,9.25,23,212
+9278123,Geiselhöring,Grundzentrum,7005,0,0,0,70.27,8.51,26,148
+9278139,Hunderdorf,Grundzentrum,3330,0,0,0,150,14.82,20,250
+9278141,Kirchroth,Grundzentrum,3878,0,0,0,90.57,12.31,25,310
+9278143,Konzell,Grundzentrum,1835,0,0,0,68.6,11.55,22,275
+9278146,Leiblfing,Grundzentrum,4354,0,0,0,55.53,8.46,29,172
+9278151,Mitterfels,Grundzentrum,2870,0,0,0,201.83,14.35,14,179
+9278187,Schwarzach,Grundzentrum,2990,0,0,0,90.01,9.24,8,90
+9278189,Stallwang,Grundzentrum,1445,0,0,0,70.18,12.48,13,142
+9278192,Straßkirchen,Grundzentrum,3400,0,0,0,88.56,12.45,14,134
+9279113,Eichendorf,Grundzentrum,6664,0,0,0,67.87,9.74,48,436
+9279115,Frontenhausen,Grundzentrum,4784,0,0,0,157.21,12.13,20,119
+9279126,Marklkofen,Grundzentrum,3875,0,0,0,95.16,12.4,2,5
+9279127,Mengkofen,Grundzentrum,6107,0,0,0,72.14,9.52,27,193
+9279132,Pilsting,Grundzentrum,7087,0,0,0,99.54,12.64,21,196
+9279134,Reisbach,Grundzentrum,7894,0,0,0,83.82,10.84,14,99
+9279135,Simbach,Grundzentrum,4394,0,0,0,85.84,10.24,29,219
+9279137,Wallersdorf,Grundzentrum,7322,0,0,0,102.89,12.51,13,133
+9371113,Auerbach i.d.OPf.,Grundzentrum,9066,0,0,0,115.84,10.25,41,667
+9371122,Freudenberg,Grundzentrum,4138,0,0,0,50.44,7.3,25,371
+9371126,Hahnbach,Grundzentrum,5042,0,0,0,74.83,10.39,32,782
+9371127,Hirschau,Grundzentrum,5643,0,0,0,75.28,9.45,27,462
+9371132,Kastl,Grundzentrum,2561,0,0,0,39.47,6.83,31,383
+9371135,Königstein,Grundzentrum,1719,0,0,0,48.93,7.03,17,334
+9371136,Kümmersbruck,Grundzentrum,9894,0,0,0,209.18,14.99,32,1008
+9371141,Neukirchen b.Sulzbach-Rosenberg,Grundzentrum,2537,0,0,0,55.44,8.19,18,316
+9371146,Rieden,Grundzentrum,2623,0,0,0,81.21,9.23,6,242
+9371148,Schmidmühlen,Grundzentrum,2349,0,0,0,92.85,11.7,12,148
+9371150,Schnaittenbach,Grundzentrum,4260,0,0,0,67.18,7.98,23,444
+9371156,Vilseck,Grundzentrum,6768,0,0,0,104.62,16.35,39,761
+9372125,Falkenstein,Grundzentrum,3479,0,0,0,76.51,9.81,24,268
+9372138,Lam,Grundzentrum,2708,0,0,0,81.13,8.6,10,266
+9372143,Miltach,Grundzentrum,2333,0,0,0,92.47,10.42,10,123
+9372144,Neukirchen b.Hl.Blut,Grundzentrum,3650,0,0,0,60.98,8.27,24,239
+9372154,Rötz,Grundzentrum,3358,0,0,0,50.37,9.49,26,160
+9372158,Schorndorf,Grundzentrum,2965,0,0,0,76.93,9.57,30,263
+9372163,Tiefenbach,Grundzentrum,1904,0,0,0,41.54,7.2,9,85
+9372164,Traitsching,Grundzentrum,4337,0,0,0,95.53,12.07,34,256
+9372169,Wald,Grundzentrum,3065,0,0,0,81.11,10.48,21,236
+9373113,Berg b.Neumarkt i.d.OPf.,Grundzentrum,8127,0,0,0,124.8,12.1,29,352
+9373119,Deining,Grundzentrum,5269,0,0,0,73.82,9.23,25,157
+9373121,Dietfurt a.d.Altmühl,Grundzentrum,6208,0,0,0,78.88,9.19,35,313
+9373134,Hohenfels,Grundzentrum,2303,0,0,0,16.8,8.29,25,127
+9373140,Lauterhofen,Grundzentrum,3761,0,0,0,45.33,9.63,37,134
+9373146,Mühlhausen,Grundzentrum,5228,0,0,0,141.37,15.04,25,247
+9373155,Postbauer-Heng,Grundzentrum,8052,0,0,0,326.65,19.76,15,358
+9373156,Pyrbaum,Grundzentrum,5831,0,0,0,115.95,9.92,17,300
+9373160,Seubersdorf i.d.OPf.,Grundzentrum,5335,0,0,0,78.13,9.61,19,160
+9373167,Velburg,Grundzentrum,5478,0,0,0,31.19,7.82,44,138
+9374111,Altenstadt a.d.Waldnaab,Grundzentrum,4707,0,0,0,213.37,13.37,18,836
+9374118,Eslarn,Grundzentrum,2738,0,0,0,49.58,7.19,6,88
+9374121,Floß,Grundzentrum,3446,0,0,0,63.36,8.42,23,349
+9374129,Kirchenthumbach,Grundzentrum,3240,0,0,0,48.06,8.08,21,235
+9374147,Pleystein,Grundzentrum,2383,0,0,0,56.2,9.25,16,201
+9374164,Waidhaus,Grundzentrum,2140,0,0,0,57.34,9.57,9,120
+9374166,Weiherhammer,Grundzentrum,3867,0,0,0,96.8,12.14,7,140
+9375113,Alteglofsheim,Grundzentrum,3354,0,0,0,253.71,14.75,7,328
+9375117,Barbing,Grundzentrum,5813,0,0,0,190.47,15.37,16,532
+9375118,Beratzhausen,Grundzentrum,5648,0,0,0,77.89,9.18,31,318
+9375119,Bernhardswald,Grundzentrum,5447,0,0,0,75.86,9.22,46,789
+9375130,Donaustauf,Grundzentrum,4284,0,0,0,440.74,23.15,13,782
+9375148,Hemau,Grundzentrum,9599,0,0,0,78.46,9.24,45,804
+9375156,Kallmünz,Grundzentrum,2792,0,0,0,64.66,7.43,18,254
+9375161,Köfering,Grundzentrum,2769,0,0,0,523.44,22.68,6,296
+9375162,Laaber,Grundzentrum,5387,0,0,0,181.63,14.77,20,224
+9375165,Lappersdorf,Grundzentrum,13568,0,0,0,393.28,16.87,45,3668
+9375170,Mintraching,Grundzentrum,4917,0,0,0,91.26,9.02,20,440
+9375175,Nittendorf,Grundzentrum,9352,0,0,0,279.58,18.03,30,934
+9375179,Obertraubling,Grundzentrum,8729,0,0,0,351.27,18.91,24,1708
+9375180,Pentling,Grundzentrum,6213,0,0,0,191.35,15.52,29,1212
+9375181,Pettendorf,Grundzentrum,3529,0,0,0,143.63,11.03,16,530
+9375196,Schierling,Grundzentrum,8488,0,0,0,109.64,11.79,32,785
+9375199,Sinzing,Grundzentrum,7576,0,0,0,172.06,14.06,40,954
+9375201,Sünching,Grundzentrum,2231,0,0,0,114.88,11.38,6,226
+9375204,Tegernheim,Grundzentrum,5750,0,0,0,503.06,19.25,3,447
+9375208,Wenzenbach,Grundzentrum,8987,0,0,0,301.07,16.25,29,939
+9375209,Wiesent,Grundzentrum,2689,0,0,0,100.6,9.84,11,408
+9375210,Wörth a.d.Donau,Grundzentrum,5014,1,1,140,95.98,11.26,29,704
+9375213,Zeitlarn,Grundzentrum,5754,0,0,0,356.95,18.24,16,1018
+9376116,Bodenwöhr,Grundzentrum,4446,0,0,0,81.95,9.47,16,412
+9376117,Bruck i.d.OPf.,Grundzentrum,4524,0,0,0,86.24,8.69,6,162
+9376160,Schönsee,Grundzentrum,2391,0,0,0,47.55,6.98,24,204
+9376163,Schwarzenfeld,Grundzentrum,6422,0,0,0,167.76,13.9,16,210
+9376175,Wackersdorf,Grundzentrum,5437,0,0,0,162.01,20.5,18,370
+9377112,Bärnau,Grundzentrum,3061,0,0,0,41.14,7.89,25,162
+9377113,Brand,Grundzentrum,1187,0,0,0,115.47,11.87,4,58
+9377115,Ebnath,Grundzentrum,1281,0,0,0,116.03,10.42,4,25
+9377143,Neusorg,Grundzentrum,1886,0,0,0,105.78,12.9,7,84
+9377146,Plößberg,Grundzentrum,3136,0,0,0,42.26,8.87,23,198
+9377148,Pullenreuth,Grundzentrum,1605,0,0,0,37.14,6.71,22,80
+9377157,Waldershof,Grundzentrum,4212,0,0,0,69.77,8.56,17,149
+9471111,Altendorf,Grundzentrum,2129,0,0,0,244.71,16.9,3,63
+9471115,Baunach,Grundzentrum,4015,0,0,0,124.92,9.52,8,137
+9471117,Bischberg,Grundzentrum,6077,0,0,0,346.27,16.52,12,527
+9471119,Breitengüßbach,Grundzentrum,4457,0,0,0,264.35,24.32,9,188
+9471123,Buttenheim,Grundzentrum,3729,0,0,0,124.01,11.67,11,54
+9471128,Ebrach,Grundzentrum,1896,0,0,0,58.77,7.35,12,97
+9471131,Frensdorf,Grundzentrum,5203,0,0,0,118.25,9.16,15,243
+9471140,Hallstadt,Grundzentrum,8876,0,0,0,607.95,31.44,16,738
+9471142,Heiligenstadt i.OFr.,Grundzentrum,3630,0,0,0,47.33,6.83,26,215
+9471145,Hirschaid,Grundzentrum,12543,0,0,0,306.15,18.11,18,306
+9471159,Memmelsdorf,Grundzentrum,8827,0,0,0,336.39,17,26,932
+9471174,Rattelsdorf,Grundzentrum,4619,0,0,0,116.67,10.23,18,293
+9471191,Stegaurach,Grundzentrum,7122,0,0,0,297.49,13.7,15,511
+9471195,Strullendorf,Grundzentrum,7918,0,0,0,249.86,16.25,11,170
+9471214,Zapfendorf,Grundzentrum,5013,0,0,0,164.15,15,12,86
+9471220,Schlüsselfeld,Grundzentrum,6137,0,0,0,87.37,10.96,21,230
+9472118,Betzenstein,Grundzentrum,2529,0,0,0,48.78,8.37,25,144
+9472119,Bindlach,Grundzentrum,7330,0,0,0,194.95,18.59,21,619
+9472121,Bischofsgrün,Grundzentrum,1909,0,0,0,227.53,18.36,6,129
+9472127,Creußen,Grundzentrum,5027,0,0,0,77.49,9.57,15,128
+9472131,Eckersdorf,Grundzentrum,5092,0,0,0,140.78,10.34,12,245
+9472138,Fichtelberg,Grundzentrum,1818,0,0,0,352.33,31.2,7,176
+9472141,Glashütten,Grundzentrum,1340,0,0,0,379.6,22.66,4,89
+9472167,Mistelgau,Grundzentrum,3921,0,0,0,92.24,10,20,302
+9472179,Pottenstein,Grundzentrum,5263,0,0,0,71.81,9.33,35,356
+9472190,Speichersdorf,Grundzentrum,5886,0,0,0,111.25,12.23,7,168
+9472197,Waischenfeld,Grundzentrum,3105,0,0,0,53.6,7.06,19,82
+9472198,Warmensteinach,Grundzentrum,2300,0,0,0,70.53,8.16,13,303
+9472199,Weidenberg,Grundzentrum,5816,0,0,0,84.41,10.54,17,297
+9473120,Dörfles-Esbach,Grundzentrum,3595,0,0,0,938.64,48.04,8,471
+9473121,Ebersdorf b.Coburg,Grundzentrum,6218,0,0,0,235.89,19.04,11,458
+9473134,Grub a.Forst,Grundzentrum,2806,0,0,0,234.42,20.97,7,266
+9473141,Lautertal,Grundzentrum,4520,1,1,0,148.93,13.51,15,493
+9473144,Meeder,Grundzentrum,3638,0,0,0,49.44,8.82,20,132
+9473153,Niederfüllbach,Grundzentrum,1492,0,0,0,576.06,39,5,284
+9473158,Bad Rodach,Grundzentrum,6606,1,1,0,85.07,9.8,24,160
+9473165,Seßlach,Grundzentrum,3908,0,0,0,53.88,8.51,25,245
+9473166,Sonnefeld,Grundzentrum,4538,0,0,0,130.82,14.18,20,217
+9473170,Untersiemau,Grundzentrum,4215,0,0,0,205.71,19.47,18,309
+9473174,Weidhausen b.Coburg,Grundzentrum,3174,0,0,0,330.28,24.66,6,81
+9473175,Weitramsdorf,Grundzentrum,5138,0,0,0,152.46,14.57,10,395
+9474123,Eggolsheim,Grundzentrum,6582,0,0,0,134.63,12.7,26,710
+9474129,Gößweinstein,Grundzentrum,4316,0,0,0,74.81,8.67,43,584
+9474132,Gräfenberg,Grundzentrum,4294,0,0,0,113.51,11.5,23,379
+9474134,Hausen,Grundzentrum,3799,0,0,0,280.78,16.26,7,489
+9474135,Heroldsbach,Grundzentrum,5147,0,0,0,329.72,17.55,17,595
+9474140,Igensdorf,Grundzentrum,5161,0,0,0,179.01,14.15,21,450
+9474143,Kirchehrenbach,Grundzentrum,2219,0,0,0,270.28,15.35,3,100
+9474154,Neunkirchen a.Brand,Grundzentrum,8131,0,0,0,308.11,16.71,15,687
+9474161,Pretzfeld,Grundzentrum,2379,0,0,0,98.27,9.21,14,407
+9475112,Bad Steben,Grundzentrum,3369,0,0,0,130.38,13.66,13,189
+9475113,Berg,Grundzentrum,2030,0,0,0,52.19,12.08,22,153
+9475123,Feilitzsch,Grundzentrum,2726,0,0,0,90.21,10.69,10,113
+9475128,Geroldsgrün,Grundzentrum,2644,0,0,0,169.7,14.57,10,123
+9475142,Konradsreuth,Grundzentrum,3220,0,0,0,74.47,9.14,13,83
+9475146,Lichtenberg,Grundzentrum,1023,0,0,0,108.03,13.2,6,103
+9475158,Oberkotzau,Grundzentrum,5382,0,0,0,250.21,17.81,7,322
+9475161,Regnitzlosau,Grundzentrum,2263,0,0,0,56.72,10.03,2,4
+9475165,Schauenstein,Grundzentrum,1878,0,0,0,70.44,8.89,5,97
+9475168,Schwarzenbach a.d.Saale,Grundzentrum,6878,0,0,0,116.22,12.76,18,399
+9475169,Schwarzenbach a.Wald,Grundzentrum,4417,0,0,0,120.35,13,13,207
+9475171,Selbitz,Grundzentrum,4249,0,0,0,153.12,16.9,9,123
+9475174,Sparneck,Grundzentrum,1573,0,0,0,96.15,10.15,5,71
+9475175,Stammbach,Grundzentrum,2345,0,0,0,67.64,10.79,12,127
+9475182,Trogen,Grundzentrum,1426,0,0,0,115.75,15.75,3,42
+9476146,Küps,Grundzentrum,7802,0,0,0,218.97,17.23,1,49
+9476154,Mitwitz,Grundzentrum,2802,0,0,0,84.42,8.95,7,38
+9476159,Nordhalben,Grundzentrum,1664,0,0,0,75.88,9.17,6,6
+9476164,Pressig,Grundzentrum,3886,0,0,0,73.06,8.23,3,72
+9476175,Steinbach a.Wald,Grundzentrum,3043,0,0,0,84.18,10.43,1,36
+9476177,Steinwiesen,Grundzentrum,3370,0,0,0,61.25,7.12,0,0
+9476178,Stockheim,Grundzentrum,4853,0,0,0,191.36,15.81,1,36
+9476179,Tettau,Grundzentrum,2009,0,0,0,84.41,9.62,6,39
+9476180,Teuschnitz,Grundzentrum,1927,1,1,0,56.26,6.66,,
+9476183,Marktrodach,Grundzentrum,3705,0,0,0,111.19,10.26,1,1
+9476184,Wallenfels,Grundzentrum,2568,0,0,0,56.25,7.58,0,0
+9476185,Weißenbrunn,Grundzentrum,2796,0,0,0,105.87,11.74,6,41
+9476189,Wilhelmsthal,Grundzentrum,3549,0,0,0,82.71,8.69,,
+9477124,Kasendorf,Grundzentrum,2451,0,0,0,62.85,9.13,10,121
+9477136,Mainleus,Grundzentrum,6510,0,0,0,131.75,12.1,21,266
+9477138,Marktleugast,Grundzentrum,3137,0,0,0,92.62,9.63,16,193
+9477142,Neudrossenfeld,Grundzentrum,3775,0,0,0,75.12,10.45,16,507
+9477143,Neuenmarkt,Grundzentrum,2947,0,0,0,155.51,15.78,5,113
+9477148,Presseck,Grundzentrum,1712,0,0,0,31.23,6.59,11,105
+9477156,Stadtsteinach,Grundzentrum,3205,0,0,0,80.53,10.35,9,193
+9477157,Thurnau,Grundzentrum,4131,0,0,0,64.37,10.31,22,167
+9477159,Untersteinach,Grundzentrum,1787,0,0,0,156.34,17.5,5,180
+9477163,Wirsberg,Grundzentrum,1858,0,0,0,107.96,10.23,7,20
+9478120,Ebensfeld,Grundzentrum,5552,0,0,0,80.79,10.61,24,271
+9478127,Hochstadt a.Main,Grundzentrum,1615,0,0,0,117.2,15.24,7,130
+9478144,Marktzeuln,Grundzentrum,1606,0,0,0,234.11,18.95,,
+9478145,Michelau i.OFr.,Grundzentrum,6233,0,0,0,322.12,22.27,1,55
+9478155,Redwitz a.d.Rodach,Grundzentrum,3386,0,0,0,230.97,17.94,8,103
+9479112,Arzberg,Grundzentrum,5062,0,0,0,117.2,12.04,16,339
+9479127,Hohenberg a.d.Eger,Grundzentrum,1421,0,0,0,90.74,9.58,6,96
+9479129,Kirchenlamitz,Grundzentrum,3153,0,0,0,65.04,8.68,14,232
+9479135,Marktleuthen,Grundzentrum,2899,0,0,0,81.71,9.81,8,197
+9479145,Röslau,Grundzentrum,2076,0,0,0,69.59,8.62,8,172
+9479147,Schirnding,Grundzentrum,1147,0,0,0,69.47,11.87,7,121
+9479150,Schönwald,Grundzentrum,3183,0,0,0,165.87,14.96,5,92
+9479158,Thiersheim,Grundzentrum,1747,0,0,0,71.54,12.04,11,192
+9479161,Tröstau,Grundzentrum,2165,0,0,0,112.23,14.46,10,186
+9479166,Weißenstadt,Grundzentrum,3072,0,0,0,72.74,9.21,19,252
+9571115,Bechhofen,Grundzentrum,6185,0,0,0,100,9.86,25,294
+9571132,Dentlein a.Forst,Grundzentrum,2361,0,0,0,131.09,11.66,11,89
+9571135,Dietenhofen,Grundzentrum,5716,0,0,0,89.41,10.32,22,401
+9571141,Ehingen,Grundzentrum,1964,0,0,0,41.26,6.53,9,85
+9571146,Flachslanden,Grundzentrum,2378,0,0,0,58.1,8.14,21,181
+9571166,Herrieden,Grundzentrum,8304,0,0,0,101.69,10.51,41,561
+9571174,Leutershausen,Grundzentrum,5669,0,0,0,67.43,9.78,48,646
+9571175,Lichtenau,Grundzentrum,3841,0,0,0,92.89,13.95,9,69
+9571177,Merkendorf,Grundzentrum,3071,0,0,0,117.8,13.5,12,133
+9571190,Petersaurach,Grundzentrum,5050,0,0,0,120.78,13.18,12,353
+9571198,Schillingsfürst,Grundzentrum,2825,0,0,0,102.73,10.98,14,190
+9571199,Schnelldorf,Grundzentrum,3671,0,0,0,71.38,11.94,23,209
+9571214,Wassertrüdingen,Grundzentrum,6309,0,0,0,117.77,10.4,18,243
+9571216,Weidenbach,Grundzentrum,2452,0,0,0,112.94,11.42,10,109
+9571224,Wilburgstetten,Grundzentrum,2151,0,0,0,85.09,13.37,10,208
+9571229,Wolframs-Eschenbach,Grundzentrum,3178,0,0,0,124.77,11.07,8,89
+9572111,Adelsdorf,Grundzentrum,9352,0,0,0,295.2,15.21,19,987
+9572115,Baiersdorf,Grundzentrum,8076,0,0,0,683.83,28.7,13,617
+9572120,Buckenhof,Grundzentrum,3157,0,0,0,2271.22,55.4,2,684
+9572121,Eckental,Grundzentrum,14705,2,2,430,494.78,22.71,30,1306
+9572130,Hemhofen,Grundzentrum,5433,0,0,0,804.89,31.85,5,549
+9572131,Heroldsberg,Grundzentrum,8582,0,0,0,773.85,29.58,11,329
+9572133,Heßdorf,Grundzentrum,3737,0,0,0,150.87,12.03,11,471
+9572143,Mühlhausen,Grundzentrum,1847,0,0,0,111.27,12.11,6,117
+9572149,Röttenbach,Grundzentrum,4782,0,0,0,616.24,25.64,5,509
+9572154,Spardorf,Grundzentrum,2253,0,0,0,699.69,24.84,0,0
+9572158,Uttenreuth,Grundzentrum,5070,0,0,0,852.1,30.59,4,768
+9572160,Wachenroth,Grundzentrum,2341,0,0,0,101.04,12.47,13,207
+9572164,Weisendorf,Grundzentrum,6831,0,0,0,185.88,11.07,21,1276
+9573114,Cadolzburg,Grundzentrum,11414,0,0,0,251.47,14.39,29,566
+9573115,Großhabersdorf,Grundzentrum,4434,1,1,90,124.97,10.15,13,405
+9573120,Langenzenn,Grundzentrum,10887,0,0,0,234.99,16.73,16,294
+9573125,Roßtal,Grundzentrum,10083,0,0,0,227.4,15.02,27,722
+9573130,Veitsbronn,Grundzentrum,6738,0,0,0,416.44,20.64,10,511
+9573133,Wilhermsdorf,Grundzentrum,5538,0,0,0,207.88,13.89,15,235
+9574117,Burgthann,Grundzentrum,11771,0,0,0,300.36,16.79,24,789
+9574139,Leinburg,Grundzentrum,6838,0,0,0,232.27,13.89,18,716
+9574140,Neuhaus a.d.Pegnitz,Grundzentrum,2826,0,0,0,121.29,12.32,11,181
+9574147,Pommelsbrunn,Grundzentrum,5450,0,0,0,108.89,10.71,27,514
+9574152,Röthenbach a.d.Pegnitz,Grundzentrum,12531,0,0,0,876.91,35.62,12,626
+9574155,Schnaittach,Grundzentrum,8516,0,0,0,172.6,13.5,21,303
+9574156,Schwaig b.Nürnberg,Grundzentrum,9059,0,0,0,1535.42,55.42,7,366
+9574160,Velden,Grundzentrum,1813,0,0,0,84.96,9.65,3,47
+9575115,Burgbernheim,Grundzentrum,3483,0,0,0,82.34,11.39,6,116
+9575116,Burghaslach,Grundzentrum,2702,0,0,0,61.45,9.71,9,83
+9575118,Diespeck,Grundzentrum,3835,0,0,0,182.62,14.95,12,296
+9575121,Emskirchen,Grundzentrum,6168,0,0,0,91.66,10.7,17,188
+9575145,Markt Erlbach,Grundzentrum,5719,0,0,0,93.92,9.84,14,155
+9575161,Scheinfeld,Grundzentrum,4846,0,0,0,107.4,10.84,19,265
+9575165,Sugenheim,Grundzentrum,2377,0,0,0,37.5,7.31,11,110
+9575167,Uehlfeld,Grundzentrum,3152,0,0,0,100.93,10.28,14,227
+9576111,Abenberg,Grundzentrum,5607,0,0,0,115.82,12.44,22,704
+9576113,Allersberg,Grundzentrum,8457,0,0,0,141.66,12.09,32,644
+9576121,Georgensgmünd,Grundzentrum,6872,1,2,285,146.56,12.86,35,858
+9576122,Greding,Grundzentrum,7148,0,0,0,68.91,9.98,36,181
+9576126,Heideck,Grundzentrum,4659,0,0,0,79.45,9,22,210
+9576132,Schwanstetten,Grundzentrum,7284,0,0,0,225.16,10.14,12,904
+9576147,Spalt,Grundzentrum,5204,0,0,0,93.48,9.54,31,402
+9576148,Thalmässing,Grundzentrum,5402,0,0,0,67.06,10.12,38,258
+9577125,Ellingen,Grundzentrum,3991,0,0,0,127.71,14.98,10,181
+9577140,Heidenheim,Grundzentrum,2619,0,0,0,50.11,8.76,18,243
+9577149,Markt Berolzheim,Grundzentrum,1333,0,0,0,91.55,10.1,2,47
+9577151,Nennslingen,Grundzentrum,1423,0,0,0,64.77,9.56,6,26
+9577158,Pappenheim,Grundzentrum,3969,0,0,0,61.71,8.35,15,226
+9577161,Pleinfeld,Grundzentrum,7784,0,0,0,109.08,11.67,32,232
+9671112,Bessenbach,Grundzentrum,5667,0,0,0,189.09,12.05,16,890
+9671114,Karlstein a.Main,Grundzentrum,8027,0,0,0,633.54,29.44,13,909
+9671120,Glattbach,Grundzentrum,3402,0,0,0,963.74,30.59,9,372
+9671122,Großostheim,Grundzentrum,16342,0,0,0,368.81,19.27,26,2338
+9671124,Haibach,Grundzentrum,8592,0,0,0,1168.98,36.6,12,1121
+9671126,Heigenbrücken,Grundzentrum,2346,0,0,0,348.59,21.4,8,246
+9671127,Heimbuchenthal,Grundzentrum,2241,0,0,0,130.75,8.69,7,291
+9671133,Johannesberg,Grundzentrum,4006,0,0,0,293.91,15.48,17,600
+9671134,Kahl a.Main,Grundzentrum,8437,0,0,0,792.95,33.55,7,474
+9671136,Kleinostheim,Grundzentrum,8341,0,0,0,600.5,31.17,14,694
+9671139,Laufach,Grundzentrum,5317,0,0,0,340.83,18.65,10,294
+9671140,Mainaschaff,Grundzentrum,9075,0,0,0,1243.15,41.64,18,1476
+9671141,Mespelbrunn,Grundzentrum,2333,0,0,0,150.32,8.51,9,405
+9671152,Schöllkrippen,Grundzentrum,4338,0,0,0,343.2,19.62,13,594
+9671155,Stockstadt a.Main,Grundzentrum,8061,0,0,0,427.19,28.19,16,705
+9671156,Waldaschaff,Grundzentrum,4266,0,0,0,647.34,30.65,7,467
+9672112,Bad Bocklet,Grundzentrum,4702,0,0,0,124,10.97,12,198
+9672117,Burkardroth,Grundzentrum,7511,0,0,0,108.62,10.24,24,231
+9672121,Elfershausen,Grundzentrum,2831,0,0,0,81.12,12.55,8,138
+9672122,Euerdorf,Grundzentrum,1501,0,0,0,91.92,13.04,6,80
+9672131,Maßbach,Grundzentrum,4377,0,0,0,73.8,11.89,16,78
+9672135,Münnerstadt,Grundzentrum,7596,0,0,0,81.58,10.55,27,429
+9672139,Oberthulba,Grundzentrum,5125,0,0,0,97.66,11.41,14,161
+9672140,Oerlenbach,Grundzentrum,5034,0,0,0,150.63,15.53,9,235
+9672163,Wildflecken,Grundzentrum,2935,0,0,0,37.84,13.2,9,142
+9672166,Zeitlofs,Grundzentrum,2060,0,0,0,50.35,7.46,15,180
+9673117,Bischofsheim i.d.Rhön,Grundzentrum,4799,0,0,0,70.89,9.23,15,272
+9673123,Fladungen,Grundzentrum,2166,0,0,0,46.74,8.48,13,139
+9673149,Oberelsbach,Grundzentrum,2660,0,0,0,39.32,6.46,8,172
+9673153,Ostheim v.d.Rhön,Grundzentrum,3323,0,0,0,81.35,11.36,7,89
+9673160,Saal a.d.Saale,Grundzentrum,1583,0,0,0,73.39,9.5,3,46
+9673175,Unsleben,Grundzentrum,930,0,0,0,104.26,13.9,3,28
+9674129,Ebelsbach,Grundzentrum,3759,0,0,0,145.87,13.97,8,159
+9674133,Eltmann,Grundzentrum,5473,0,0,0,134.11,13.23,13,121
+9674149,Hofheim i.UFr.,Grundzentrum,5116,0,0,0,90.81,11.5,19,208
+9674163,Knetzgau,Grundzentrum,6594,0,0,0,107.1,11.71,17,175
+9674164,Königsberg i.Bay.,Grundzentrum,3624,0,0,0,58.56,9.26,14,221
+9674171,Maroldsweisach,Grundzentrum,3210,0,0,0,44.67,8.36,20,176
+9674187,Rauhenebrach,Grundzentrum,2836,0,0,0,46.44,7.07,14,159
+9674221,Zeil a.Main,Grundzentrum,5662,1,1,103,158.73,12.98,10,130
+9675117,Dettelbach,Grundzentrum,7261,1,8,2338,119.15,14.24,25,375
+9675127,Geiselwind,Grundzentrum,2647,0,0,0,54.3,12.7,21,88
+9675139,Iphofen,Grundzentrum,4859,0,0,0,62.25,9.49,16,304
+9675147,Marktbreit,Grundzentrum,3986,0,0,0,197.72,16.82,3,177
+9675165,Schwarzach a.Main,Grundzentrum,3671,0,0,0,173.9,17.1,7,164
+9675178,Wiesentheid,Grundzentrum,4969,0,0,0,148.91,14.8,8,235
+9676112,Amorbach,Grundzentrum,3933,0,0,0,77.27,7.43,18,428
+9676116,Bürgstadt,Grundzentrum,4319,0,0,0,248.5,15.25,12,339
+9676118,Dorfprozelten,Grundzentrum,1734,0,0,0,153.05,10.94,2,52
+9676119,Eichenbühl,Grundzentrum,2522,0,0,0,80.76,11.34,12,213
+9676123,Eschau,Grundzentrum,3922,0,0,0,102.91,8.13,18,669
+9676125,Großheubach,Grundzentrum,5122,0,0,0,271.01,15.03,11,382
+9676126,Großwallstadt,Grundzentrum,4066,0,0,0,290.01,18.33,7,398
+9676132,Kleinheubach,Grundzentrum,3698,0,0,0,389.67,25.18,7,262
+9676133,Kleinwallstadt,Grundzentrum,5680,0,0,0,359.72,16.28,10,378
+9676136,Leidersbach,Grundzentrum,4795,0,0,0,241.68,12.25,19,672
+9676140,Mömlingen,Grundzentrum,4913,0,0,0,266.29,11.87,7,461
+9676141,Mönchberg,Grundzentrum,2572,0,0,0,106.5,8.99,7,240
+9676144,Niedernberg,Grundzentrum,4902,0,0,0,314.23,22.05,7,443
+9676158,Stadtprozelten,Grundzentrum,1555,0,0,0,143.05,9.38,7,160
+9676160,Sulzbach a.Main,Grundzentrum,7426,0,0,0,372.6,16.06,19,952
+9677114,Arnstein,Grundzentrum,8257,0,0,0,73.66,10.03,23,573
+9677122,Burgsinn,Grundzentrum,2333,0,0,0,45.47,5.36,5,119
+9677129,Frammersbach,Grundzentrum,4597,0,0,0,239.55,13.71,15,361
+9677151,Kreuzwertheim,Grundzentrum,3931,0,0,0,196.65,15.16,14,243
+9677203,Zellingen,Grundzentrum,6511,0,0,0,157.12,12.09,11,417
+9678135,Gochsheim,Grundzentrum,6433,0,0,0,311.22,23.95,9,383
+9678174,Schonungen,Grundzentrum,7784,0,0,0,96.08,10,29,728
+9678175,Schwanfeld,Grundzentrum,1774,0,0,0,147.96,12.34,4,64
+9678176,Schwebheim,Grundzentrum,4179,0,0,0,515.93,30.12,7,329
+9678178,Sennfeld,Grundzentrum,4612,0,0,0,660.74,33.38,15,618
+9678181,Stadtlauringen,Grundzentrum,4155,0,0,0,65.32,9.81,4,11
+9678192,Wasserlosen,Grundzentrum,3377,0,0,0,65.83,10.94,14,138
+9678193,Werneck,Grundzentrum,10146,0,0,0,137.91,15.03,29,437
+9679114,Aub,Grundzentrum,1403,0,0,0,79.99,10.38,5,71
+9679117,Bergtheim,Grundzentrum,3875,0,0,0,146.34,11.52,3,107
+9679124,Eibelstadt,Grundzentrum,3120,0,0,0,441.3,25.04,4,139
+9679130,Estenfeld,Grundzentrum,5450,0,0,0,300.61,18.64,14,677
+9679136,Gerbrunn,Grundzentrum,6534,0,0,0,1423.53,35.73,11,989
+9679138,Giebelstadt,Grundzentrum,5739,0,0,0,119.44,14.13,14,460
+9679144,Helmstadt,Grundzentrum,2674,0,0,0,117.28,13.11,8,206
+9679147,Höchberg,Grundzentrum,9592,0,0,0,1270.46,40.4,22,2815
+9679153,Kirchheim,Grundzentrum,2296,0,0,0,120.97,10.8,4,75
+9679155,Kleinrinderfeld,Grundzentrum,2141,0,0,0,276.61,17.44,7,194
+9679164,Neubrunn,Grundzentrum,2325,0,0,0,87.6,8.82,2,52
+9679176,Reichenberg,Grundzentrum,4274,0,0,0,122.85,11.33,17,586
+9679180,Rimpar,Grundzentrum,7820,0,0,0,214.78,11.92,16,887
+9679182,Röttingen,Grundzentrum,1661,0,0,0,61.04,8.75,5,52
+9679185,Rottendorf,Grundzentrum,5494,0,0,0,370.47,22.12,14,434
+9679202,Veitshöchheim,Grundzentrum,9634,0,0,0,895.35,40.52,20,1245
+9771112,Affing,Grundzentrum,5599,0,0,0,124.92,10.98,18,793
+9771114,Aindling,Grundzentrum,4701,0,0,0,149.81,11.7,17,377
+9771122,Dasing,Grundzentrum,5846,0,0,0,143.18,13.79,18,270
+9771142,Kissing,Grundzentrum,11691,0,0,0,505.67,20.37,12,1059
+9771146,Mering,Grundzentrum,15196,0,0,0,566.38,18.49,13,1169
+9771156,Pöttmes,Grundzentrum,7070,0,0,0,85.6,9.53,31,539
+9772115,Altenmünster,Grundzentrum,4488,0,0,0,109.06,11.62,13,215
+9772125,Bobingen,Grundzentrum,18070,0,0,0,359.53,18.54,37,2097
+9772130,Diedorf,Grundzentrum,10705,0,0,0,321.37,14.92,16,817
+9772141,Fischach,Grundzentrum,5094,0,0,0,168.84,13.39,11,281
+9772148,Gessertshausen,Grundzentrum,4451,0,0,0,107.64,10.18,14,505
+9772151,Großaitingen,Grundzentrum,5335,0,0,0,136.62,9.71,9,388
+9772184,Neusäß,Grundzentrum,22872,0,0,0,906.9,33.66,38,2933
+9772185,Nordendorf,Grundzentrum,2589,0,0,0,344.28,26.6,4,135
+9772202,Stadtbergen,Grundzentrum,15488,0,0,0,1347.95,41.95,18,1953
+9772207,Thierhaupten,Grundzentrum,4108,0,0,0,104.82,10.33,14,293
+9772209,Untermeitingen,Grundzentrum,7441,0,0,0,464.48,27.84,6,173
+9772216,Welden,Grundzentrum,3830,0,0,0,213.01,15.29,6,224
+9773112,Bachhagel,Grundzentrum,2298,0,0,0,116.41,13.83,7,207
+9773117,Bissingen,Grundzentrum,3711,0,0,0,57.8,9.39,18,170
+9773122,Buttenwiesen,Grundzentrum,6083,0,0,0,102.25,10.89,16,324
+9773136,Gundelfingen a.d.Donau,Grundzentrum,7983,0,0,0,147.67,13.04,12,184
+9773139,Höchstädt a.d.Donau,Grundzentrum,7014,0,0,0,187.29,15.27,12,234
+9773140,Holzheim,Grundzentrum,3742,0,0,0,91.58,10.43,9,108
+9773170,Syrgenstein,Grundzentrum,3895,0,0,0,234.07,18.57,8,388
+9773183,Wittislingen,Grundzentrum,2526,0,0,0,145.09,14.07,5,117
+9774116,Ursberg,Grundzentrum,3402,0,0,0,133.94,12.91,7,167
+9774122,Burtenbach,Grundzentrum,3521,0,0,0,93.54,11.16,9,146
+9774144,Jettingen-Scheppach,Grundzentrum,7228,0,0,0,133.56,15.48,15,272
+9774148,Kötz,Grundzentrum,3290,0,0,0,160.25,14.27,8,116
+9774171,Offingen,Grundzentrum,4401,1,1,129,295.17,22.33,8,158
+9774185,Thannhausen,Grundzentrum,6469,0,0,0,322.97,20.77,8,219
+9774198,Ziemetshausen,Grundzentrum,3246,0,0,0,75.58,9.15,13,206
+9775111,Altenstadt,Grundzentrum,5278,0,0,0,168.63,14.44,12,236
+9775115,Bellenberg,Grundzentrum,4627,0,0,0,903.71,39.06,5,158
+9775118,Buch,Grundzentrum,4192,0,0,0,104.64,11.06,4,88
+9775134,Nersingen,Grundzentrum,9611,0,0,0,395.84,20.39,17,591
+9775139,Elchingen,Grundzentrum,9793,0,0,0,393.61,23.67,18,717
+9775143,Pfaffenhofen a.d.Roth,Grundzentrum,7406,0,0,0,173.52,12.49,19,1161
+9776114,Heimenkirch,Grundzentrum,3559,0,0,0,167.56,10.59,28,679
+9776124,Röthenbach (Allgäu),Grundzentrum,1976,0,0,0,132.26,10.24,18,419
+9776125,Scheidegg,Grundzentrum,4400,0,0,0,160.82,11.95,32,648
+9776126,Sigmarszell,Grundzentrum,2967,0,0,0,185.44,13,18,487
+9776128,Wasserburg (Bodensee),Grundzentrum,3954,0,0,0,624.64,25.91,11,195
+9776129,Weiler-Simmerberg,Grundzentrum,6522,0,0,0,208.3,11.11,26,613
+9777112,Biessenhofen,Grundzentrum,4285,0,0,0,158.7,13.63,2,135
+9777130,Germaringen,Grundzentrum,4043,0,0,0,176.7,14.25,7,201
+9777147,Lechbruck am See,Grundzentrum,2832,0,0,0,164.36,13.52,9,253
+9777152,Mauerstetten,Grundzentrum,3249,0,0,0,196.08,13.4,8,182
+9777153,Nesselwang,Grundzentrum,3882,0,0,0,131.42,11.54,14,202
+9777154,Obergünzburg,Grundzentrum,6502,0,0,0,139.26,9.15,12,372
+9777158,Pforzen,Grundzentrum,2413,0,0,0,101.86,10.3,7,137
+9777159,Pfronten,Grundzentrum,8443,0,0,0,135.7,7.81,19,390
+9777164,Rieden,Grundzentrum,1363,0,0,0,162.07,19.62,3,52
+9777165,Ronsberg,Grundzentrum,1734,0,0,0,104.96,9.2,5,61
+9777169,Schwangau,Grundzentrum,3481,0,0,0,45.8,5.2,18,555
+9777170,Seeg,Grundzentrum,3078,0,0,0,61.51,6.91,12,159
+9777173,Halblech,Grundzentrum,3588,0,0,0,28.61,3.59,16,298
+9777175,Unterthingau,Grundzentrum,2929,0,0,0,64.69,7.07,12,230
+9777182,Westendorf,Grundzentrum,1924,0,0,0,161.27,12.66,5,125
+9778115,Babenhausen,Grundzentrum,5774,1,1,250,212.05,15.28,5,81
+9778120,Boos,Grundzentrum,2168,0,0,0,123.25,9.95,4,46
+9778127,Dirlewang,Grundzentrum,2265,0,0,0,97.42,8.9,5,76
+9778136,Erkheim,Grundzentrum,3212,0,0,0,99.88,11.91,11,104
+9778137,Ettringen,Grundzentrum,3518,0,0,0,84.77,9.78,11,143
+9778144,Bad Grönenbach,Grundzentrum,5817,0,0,0,138.53,12.41,19,313
+9778158,Kirchheim i.Schw.,Grundzentrum,2770,0,0,0,86.7,10.45,11,60
+9778165,Legau,Grundzentrum,3382,0,0,0,92.96,8.47,10,178
+9778168,Markt Rettenbach,Grundzentrum,3924,0,0,0,76.33,7.99,22,186
+9778169,Markt Wald,Grundzentrum,2224,0,0,0,72.11,8.43,6,66
+9778186,Ottobeuren,Grundzentrum,8758,0,0,0,156.45,11.08,43,353
+9778187,Pfaffenhausen,Grundzentrum,2726,0,0,0,128.95,12.63,7,83
+9778203,Türkheim,Grundzentrum,7439,1,2,361,235.71,18.92,9,354
+9778204,Tussenhausen,Grundzentrum,3099,0,0,0,74.23,8.86,5,62
+9779115,Asbach-Bäumenheim,Grundzentrum,4825,0,0,0,405.46,27.98,10,156
+9779155,Harburg (Schwaben),Grundzentrum,5612,0,0,0,76.71,10.91,21,364
+9779169,Kaisheim,Grundzentrum,3993,0,0,0,95.69,9.83,10,146
+9779181,Mertingen,Grundzentrum,4083,0,0,0,106.3,11.33,9,200
+9779186,Monheim,Grundzentrum,5476,0,0,0,78.98,10.1,17,200
+9779197,Oettingen i.Bay.,Grundzentrum,5427,1,1,96,158.59,15.55,19,541
+9779218,Tapfheim,Grundzentrum,4058,0,0,0,91.29,10.19,13,195
+9779224,Wallerstein,Grundzentrum,3540,0,0,0,182.1,16.36,5,59
+9779228,Wemding,Grundzentrum,5781,1,1,92,182.94,15.73,12,694
+9780112,Altusried,Grundzentrum,10378,0,0,0,113.2,8.2,38,611
+9780115,Blaichach,Grundzentrum,5809,0,0,0,115.92,5.11,20,343
+9780119,Dietmannsried,Grundzentrum,8500,0,0,0,158.35,10.71,26,501
+9780120,Durach,Grundzentrum,7314,0,0,0,352.82,14.76,18,650
+9780121,Fischen i.Allgäu,Grundzentrum,3311,0,0,0,243.99,15.18,13,517
+9780123,Bad Hindelang,Grundzentrum,5342,0,0,0,38.96,2.86,24,699
+9780125,Lauben,Grundzentrum,3520,0,0,0,418.55,20.69,13,396
+9780128,Oy-Mittelberg,Grundzentrum,4614,0,0,0,76.68,8.23,39,387
+9780132,Oberstaufen,Grundzentrum,7858,0,0,0,62.39,5.56,53,991
+9780143,Waltenhofen,Grundzentrum,9933,0,0,0,166.24,10.83,49,1526
+9780144,Weitnau,Grundzentrum,5421,0,0,0,83.16,7.67,36,870
+9780146,Wiggensbach,Grundzentrum,5135,0,0,0,161.43,11.66,20,502
+10041511,Friedrichsthal,Grundzentrum,9958,0,0,0,1107.68,50.61,27,1497
+10041512,Großrosseln,Grundzentrum,7939,0,0,0,314.29,20.94,28,1185
+10041513,Heusweiler,Grundzentrum,18138,1,1,130,453.34,25.49,67,3744
+10041514,Kleinblittersdorf,Grundzentrum,10747,0,0,0,395.26,21.29,29,1586
+10041515,Püttlingen,Grundzentrum,18295,0,0,0,763.88,31.4,68,3566
+10041516,Quierschied,Grundzentrum,12907,0,0,0,638.64,38.55,34,1940
+10041517,Riegelsberg,Grundzentrum,14360,0,0,0,980.2,31.95,41,3339
+10041518,Sulzbach/Saar,Grundzentrum,16353,0,0,0,1017.61,44.18,39,2816
+10042111,Beckingen,Grundzentrum,14928,0,0,0,287.91,17.15,44,1583
+10042112,Losheim am See,Grundzentrum,16133,1,1,132,166.41,12.67,55,1896
+10042114,Mettlach,Grundzentrum,12082,0,0,0,155.26,11.59,43,1079
+10042115,Perl,Grundzentrum,8992,0,0,0,119.51,13.86,46,1147
+10042117,Weiskirchen,Grundzentrum,6354,0,0,0,188.83,15.6,27,607
+10043111,Eppelborn,Grundzentrum,16565,0,0,0,350.58,20.08,59,2049
+10043112,Illingen,Grundzentrum,15998,1,2,293,443.28,27.29,74,2890
+10043113,Merchweiler,Grundzentrum,9843,0,0,0,768.98,36.02,26,1093
+10043115,Ottweiler,Grundzentrum,14543,0,0,0,319.21,17.21,77,3125
+10043116,Schiffweiler,Grundzentrum,15655,0,0,0,730.86,39.36,61,3061
+10043117,Spiesen-Elversberg,Grundzentrum,12797,0,0,0,1120.58,38.27,25,1979
+10044113,Nalbach,Grundzentrum,9100,0,0,0,405.71,21.44,21,1201
+10044114,Rehlingen-Siersburg,Grundzentrum,14349,1,1,1600,234.31,15.17,39,1472
+10044116,Saarwellingen,Grundzentrum,13302,0,0,0,319.22,19.8,36,1918
+10044117,Schmelz,Grundzentrum,16301,2,3,429,278.08,16.44,66,2642
+10044118,Schwalbach,Grundzentrum,17309,0,0,0,632.41,28.53,33,1646
+10044119,Überherrn,Grundzentrum,11564,0,0,0,337.04,24.74,37,1725
+10044120,Wadgassen,Grundzentrum,17016,0,0,0,656.73,27.94,43,2393
+10044121,Wallerfangen,Grundzentrum,9358,0,0,0,221.65,14.66,40,1128
+10044122,Bous,Grundzentrum,7055,1,3,319,924.64,41.42,17,793
+10044123,Ensdorf,Grundzentrum,6594,0,0,0,785.94,53.75,13,1346
+10045111,Bexbach,Grundzentrum,17642,0,0,0,567.45,32.71,47,2049
+10045113,Gersheim,Grundzentrum,6329,0,0,0,110.32,10.16,39,1596
+10045115,Kirkel,Grundzentrum,10129,0,0,0,323.2,25.78,39,1284
+10045116,Mandelbachtal,Grundzentrum,10566,0,0,0,183.09,11.56,36,2080
+10046111,Freisen,Grundzentrum,7887,0,0,0,164,17.65,23,902
+10046112,Marpingen,Grundzentrum,9935,0,0,0,249.44,14.61,28,1407
+10046113,Namborn,Grundzentrum,6939,0,0,0,267.09,17.78,25,1535
+10046114,Nohfelden,Grundzentrum,9934,0,0,0,98.53,13.52,52,3739
+10046115,Nonnweiler,Grundzentrum,8526,2,3,132,127.62,16.84,39,2008
+10046116,Oberthal,Grundzentrum,5978,0,0,0,250.44,15.79,32,1255
+10046118,Tholey,Grundzentrum,12160,0,0,0,211.29,15.9,49,2471
+13071004,Altentreptow,Grundzentrum,5263,0,0,0,99.17,10.63,37,744
+13071021,Burg Stargard,Grundzentrum,5289,0,0,0,69.04,8.9,22,385
+13071027,Dargun,Grundzentrum,4371,0,0,0,37.04,5.37,25,390
+13071033,Feldberger Seenlandschaft,Grundzentrum,4490,1,1,50,22.33,4.62,50,716
+13071035,Friedland,Grundzentrum,6478,0,0,0,45.69,8.21,37,637
+13071092,Malchin,Grundzentrum,7272,0,0,0,66.54,8.18,33,536
+13071093,Malchow,Grundzentrum,6543,1,1,165,146.34,13.08,17,197
+13071099,Mirow,Grundzentrum,3887,0,0,0,24.56,5.08,38,467
+13071115,Penzlin,Grundzentrum,4094,0,0,0,35.43,6.61,28,350
+13071122,Rechlin,Grundzentrum,2086,0,0,0,26.85,13.27,18,282
+13071124,Röbel/Müritz,Grundzentrum,5075,0,0,0,165.42,12.58,19,425
+13071142,Stavenhagen,Grundzentrum,5803,0,0,0,141.47,15.65,21,403
+13071159,Wesenberg,Grundzentrum,3057,1,1,107,34.1,6.45,13,195
+13071164,Woldegk,Grundzentrum,4196,0,0,0,25.56,5.45,35,388
+13072020,Bützow,Grundzentrum,8181,0,0,0,205.29,15.81,33,2149
+13072029,Dummerstorf,Grundzentrum,7624,0,0,0,63.39,10.44,42,880
+13072035,Gnoien,Grundzentrum,2838,0,0,0,69.03,10.97,17,376
+13072036,Graal-Müritz,Grundzentrum,4183,0,0,0,507.65,29.37,5,158
+13072056,Krakow am See,Grundzentrum,3442,0,0,0,39.4,6.51,16,354
+13072058,Kröpelin,Grundzentrum,4829,0,0,0,71.49,8.25,28,387
+13072060,Kühlungsborn,Grundzentrum,8037,1,1,153,497.03,29.62,11,363
+13072062,Laage,Grundzentrum,6549,0,0,0,57,13.79,39,786
+13072074,Neubukow,Grundzentrum,4037,0,0,0,160.58,11.69,9,159
+13072085,Rerik,Grundzentrum,2192,0,0,0,64.06,37.84,11,160
+13072091,Sanitz,Grundzentrum,6564,0,0,0,79.66,8.71,25,439
+13072093,Satow,Grundzentrum,6079,0,0,0,50.68,7.43,47,958
+13072095,Schwaan,Grundzentrum,5070,0,0,0,132.45,11.34,18,306
+13072105,Tessin,Grundzentrum,4012,0,0,0,163.69,14.36,14,339
+13073006,Baabe,Grundzentrum,914,0,0,0,404.42,39.82,1,93
+13073007,Bad Sülze,Grundzentrum,1796,0,0,0,67.34,9.45,7,190
+13073009,Barth,Grundzentrum,8777,0,0,0,213.14,17.61,16,501
+13073011,Binz,Grundzentrum,5545,0,0,0,220.21,16.24,24,1435
+13073024,Franzburg,Grundzentrum,1367,0,0,0,89.93,11.84,7,107
+13073027,Garz/Rügen,Grundzentrum,2264,0,0,0,34.35,7.13,24,424
+13073055,Marlow,Grundzentrum,4694,0,0,0,33.4,6.21,48,513
+13073070,Putbus,Grundzentrum,4531,0,0,0,67.94,9.09,22,518
+13073076,Richtenberg,Grundzentrum,1351,0,0,0,86.22,9.32,3,44
+13073078,Sagard,Grundzentrum,2460,0,0,0,88.11,9.78,6,207
+13073079,Samtens,Grundzentrum,1985,0,0,0,61.08,7.97,7,178
+13073080,Sassnitz,Grundzentrum,9199,1,1,0,194.03,15.78,42,2159
+13073084,Sellin,Grundzentrum,2710,0,0,0,187.54,13.43,17,605
+13073093,Tribsees,Grundzentrum,2669,0,0,0,48.54,8.02,12,233
+13073105,Zingst,Grundzentrum,3173,1,1,50,62.83,8.71,7,170
+13074002,Bad Kleinen,Grundzentrum,3743,0,0,0,159.01,15,13,270
+13074017,Dassow,Grundzentrum,4038,0,0,0,60.3,7.96,25,380
+13074021,Gadebusch,Grundzentrum,5457,0,0,0,114.26,11.22,22,800
+13074039,Klütz,Grundzentrum,3153,0,0,0,70.97,8.69,15,430
+13074049,Lüdersdorf,Grundzentrum,5330,0,0,0,97.35,9.55,23,587
+13074057,Neukloster,Grundzentrum,4014,0,0,0,145.91,12.4,12,172
+13074065,Rehna,Grundzentrum,3605,0,0,0,80.85,9.06,18,279
+13074074,Schönberg,Grundzentrum,4711,1,1,212,90.27,10.94,23,520
+13074084,Warin,Grundzentrum,3195,0,0,0,71.88,8.84,13,122
+13075029,Ducherow,Grundzentrum,2346,0,0,0,30.26,6.4,20,229
+13075031,Eggesin,Grundzentrum,4748,0,0,0,53.82,6.89,17,504
+13075033,Ferdinandshof,Grundzentrum,2732,0,0,0,57.67,8.17,9,134
+13075044,Gützkow,Grundzentrum,2974,1,1,198,51.59,6.97,17,264
+13075049,Heringsdorf,Grundzentrum,8425,0,0,0,222.82,17.09,38,1697
+13075054,Jarmen,Grundzentrum,2914,0,0,0,94.89,12.05,18,359
+13075079,Löcknitz,Grundzentrum,3342,0,0,0,146.58,13.86,11,250
+13075082,Loitz,Grundzentrum,4262,0,0,0,47.4,6.88,25,367
+13075083,Lubmin,Grundzentrum,2176,0,0,0,157.23,26.88,4,95
+13075130,Strasburg (Uckermark),Grundzentrum,4451,0,0,0,50.88,8.39,27,355
+13075131,Torgelow,Grundzentrum,9307,0,0,0,128.92,12.27,25,601
+13075151,Zinnowitz,Grundzentrum,4194,1,2,138,471.77,33.52,10,174
+13076014,Boizenburg/Elbe,Grundzentrum,10829,1,2,177,228.36,16.87,30,982
+13076020,Brüel,Grundzentrum,2626,0,0,0,96.51,11.91,9,212
+13076025,Crivitz,Grundzentrum,4778,0,0,0,62.99,8.38,18,319
+13076034,Dömitz,Grundzentrum,2981,0,0,0,49.22,8.92,13,349
+13076048,Goldberg,Grundzentrum,3364,0,0,0,51.98,8.11,17,287
+13076050,Grabow,Grundzentrum,5615,0,0,0,77.69,10.28,14,346
+13076088,Lübtheen,Grundzentrum,4715,0,0,0,39.24,6.95,28,387
+13076089,Lübz,Grundzentrum,6183,0,0,0,82.78,9.55,22,780
+13076105,Neustadt-Glewe,Grundzentrum,6931,0,0,0,73.69,10.69,15,236
+13076114,Plau am See,Grundzentrum,6231,0,0,0,53.59,7.22,20,850
+13076128,Sternberg,Grundzentrum,4023,0,0,0,59.43,6.88,19,357
+13076152,Wittenburg,Grundzentrum,6400,0,0,0,79.92,10.74,26,547
+13076159,Zarrentin am Schaalsee,Grundzentrum,5484,0,0,0,59.67,6.63,21,364
+14521110,Breitenbrunn/Erzgeb.,Grundzentrum,5084,0,0,0,84.73,9.42,29,755
+14521160,Ehrenfriedersdorf,Grundzentrum,4541,0,0,0,285.78,15.73,7,219
+14521170,Eibenstock,Grundzentrum,7035,0,0,0,62.68,6.32,32,724
+14521210,Geyer,Grundzentrum,3366,0,0,0,181.36,11.15,9,135
+14521320,Johanngeorgenstadt,Grundzentrum,3783,0,0,0,127.85,14.3,18,501
+14521380,Lugau/Erzgeb.,Grundzentrum,7844,0,0,0,351.91,17.18,31,955
+14521450,Oelsnitz/Erzgeb.,Grundzentrum,10837,0,0,0,412.37,26.18,32,1320
+14521460,Olbernhau,Grundzentrum,10458,0,0,0,83.43,8.22,51,1380
+14521495,Pockau-Lengefeld,Grundzentrum,7445,0,0,0,89.24,8.95,40,945
+14521510,Scheibenberg,Grundzentrum,2038,0,0,0,226.44,13,5,168
+14521520,Schlettau,Grundzentrum,2322,0,0,0,109.43,9.8,9,315
+14521540,Schönheide,Grundzentrum,4216,0,0,0,149.77,10.55,15,564
+14521600,Stützengrün,Grundzentrum,3024,0,0,0,106.89,9.61,20,520
+14521620,Thalheim/Erzgeb.,Grundzentrum,5948,0,0,0,551.25,22.06,14,736
+14521640,Thum,Grundzentrum,4956,0,0,0,262.22,14.18,15,488
+14521690,Zschopauotorradstadt,Grundzentrum,8996,0,0,0,394.73,19.26,31,1796
+14521700,Zschorlau,Grundzentrum,5166,0,0,0,235.57,13.91,15,444
+14521710,Zwönitz,Grundzentrum,11786,0,0,0,183.47,11.57,34,1501
+14522050,Brand-Erbisdorf,Grundzentrum,9010,0,0,0,194.47,14.33,46,1935
+14522060,Burgstädt,Grundzentrum,10475,0,0,0,404.75,21.21,49,2279
+14522140,Flöha,Grundzentrum,10516,0,0,0,378.82,21.33,40,1467
+14522150,Frankenberg/Sa.,Grundzentrum,13750,0,0,0,209.54,13.81,59,1903
+14522170,Frauenstein,Grundzentrum,2714,0,0,0,46.02,6.05,29,934
+14522230,Hainichen,Grundzentrum,8448,0,0,0,163.28,13.1,34,1084
+14522440,Oederan,Grundzentrum,7782,0,0,0,100.63,9.98,55,1058
+14522460,Penig,Grundzentrum,8419,0,0,0,132.85,13.97,42,1051
+14522490,Rochlitz,Grundzentrum,5688,0,0,0,239.39,15.36,22,915
+14523010,Adorf/Vogtl.,Grundzentrum,4729,0,0,0,110.05,10.38,38,1031
+14523160,Klingenthal,Grundzentrum,7764,0,0,0,153.93,10.94,38,1550
+14523170,Lengenfeld,Grundzentrum,7013,0,0,0,149.28,14.01,64,1182
+14523200,Markneukirchen,Grundzentrum,7237,1,1,200,104.82,7.66,25,902
+14523370,Schöneck/Vogtl.,Grundzentrum,2997,0,0,0,54.46,6.65,15,592
+14523430,Treuen,Grundzentrum,7704,0,0,0,176.13,14.63,20,782
+14523450,Weischlitz,Grundzentrum,5700,0,0,0,46.86,7.4,24,351
+14524090,Hartenstein,Grundzentrum,4486,0,0,0,122.23,12.1,20,611
+14524130,Kirchberg,Grundzentrum,8082,0,0,0,204.3,11.68,37,1004
+14524190,Meerane,Grundzentrum,13888,0,0,0,701.06,36.19,41,1609
+14524290,Waldenburg,Grundzentrum,3938,0,0,0,157.14,11.73,18,390
+14524310,Wildenfels,Grundzentrum,3556,0,0,0,171.95,15.81,12,408
+14625030,Bernsdorf,Grundzentrum,6280,0,0,0,104.91,12.04,19,749
+14625040,Bischofswerda,Grundzentrum,10686,0,0,0,231.25,16.53,48,2096
+14625160,Großdubrau,Grundzentrum,4168,0,0,0,76.87,10.35,18,386
+14625200,Großröhrsdorf,Grundzentrum,9679,0,0,0,236.42,16.29,25,1144
+14625270,Königsbrück,Grundzentrum,4651,0,0,0,59.26,5.3,12,438
+14625280,Königswartha,Grundzentrum,3454,0,0,0,73.22,8.69,19,671
+14625380,Neukirch/Lausitz,Grundzentrum,4770,0,0,0,223.94,16.34,8,420
+14625450,Pulsnitz,Grundzentrum,7359,0,0,0,275,14.35,19,1108
+14625490,Radibor,Grundzentrum,3158,0,0,0,50.94,7.21,25,565
+14625525,Schirgiswalde-Kirschau,Grundzentrum,6057,0,0,0,248.85,17.09,23,1167
+14625560,Sohland a.d.Spree,Grundzentrum,6552,0,0,0,175.66,14.02,20,1352
+14625610,Weißenberg,Grundzentrum,3062,0,0,0,60.09,8.97,26,812
+14625630,Wilthen,Grundzentrum,4827,0,0,0,283.27,14.38,7,471
+14625640,Wittichenau,Grundzentrum,5686,0,0,0,93.18,8.54,18,570
+14626030,Bernstadt a.d.Eigen,Grundzentrum,3229,0,0,0,62.1,6.87,22,698
+14626085,Ebersbach-Neugersdorf,Grundzentrum,11441,1,1,226,559.46,43.91,24,1429
+14626140,Großschönau,Grundzentrum,5276,0,0,0,221.49,19.56,18,598
+14626450,Reichenbach/O.L.,Grundzentrum,4844,0,0,0,77.33,9.21,26,385
+14626480,Rothenburg/O.L.,Grundzentrum,4389,0,0,0,60.61,15.23,24,554
+14627050,Gröditz,Grundzentrum,6877,1,3,450,237.63,15.62,16,381
+14627110,Lampertswalde,Grundzentrum,2521,0,0,0,39.61,6.98,19,432
+14627130,Lommatzsch,Grundzentrum,4805,0,0,0,72.11,7.76,46,1089
+14627180,Nossen,Grundzentrum,10389,0,0,0,84.64,10.38,98,3109
+14627190,Nünchritz,Grundzentrum,5439,0,0,0,173.88,14.55,28,1146
+14627220,Radeburg,Grundzentrum,7451,0,0,0,137.93,13.38,36,1682
+14627250,Schönfeld,Grundzentrum,1838,0,0,0,46.94,8.3,11,225
+14627290,Thiendorf,Grundzentrum,3858,0,0,0,51.8,7.32,23,474
+14627360,Zeithain,Grundzentrum,5520,0,0,0,67.63,11.96,22,848
+14628010,Altenberg,Grundzentrum,7870,0,0,0,53.94,7.34,71,2242
+14628020,Bad Gottleuba-Berggießhübel,Grundzentrum,5541,0,0,0,62.45,7.42,47,1145
+14628030,Bad Schandau,Grundzentrum,3421,0,0,0,73.13,6.63,35,1688
+14628130,Glashütte,Grundzentrum,6657,0,0,0,69.6,6.58,46,1490
+14628160,Heidenau,Grundzentrum,16884,0,0,0,1525.2,46.79,29,1951
+14628205,Klingenberg,Grundzentrum,6840,0,0,0,78.86,6.72,35,1147
+14628210,Königstein/Sächs.Schw.,Grundzentrum,2101,0,0,0,77.67,11.9,15,446
+14628260,Neustadt in Sachsen,Grundzentrum,11888,1,2,181,143.02,10.95,44,1661
+14628360,Sebnitz,Grundzentrum,9522,0,0,0,107.92,7.47,64,2267
+14628380,Stolpen,Grundzentrum,5559,0,0,0,91.3,7.82,29,1212
+14628410,Wilsdruff,Grundzentrum,14551,0,0,0,178.32,13.32,54,2755
+14729010,Bad Lausick,Grundzentrum,8191,0,0,0,116.98,10.64,39,2306
+14729040,Böhlen,Grundzentrum,6776,0,0,0,268.14,34.94,8,934
+14729060,Borsdorf,Grundzentrum,8195,0,0,0,523.98,31.39,18,587
+14729070,Brandis,Grundzentrum,9676,0,0,0,277.33,24.22,39,1687
+14729080,Colditz,Grundzentrum,8381,0,0,0,99.67,10.85,37,841
+14729140,Frohburg,Grundzentrum,12305,0,0,0,84.69,8.87,56,1695
+14729150,Geithain,Grundzentrum,6797,0,0,0,124.24,12.39,33,1032
+14729170,Groitzsch,Grundzentrum,7551,1,1,204,107.61,9.46,30,931
+14729190,Großpösna,Grundzentrum,5508,0,0,0,132.53,17.95,18,967
+14729270,Markranstädt,Grundzentrum,16132,0,0,0,275.95,19.83,48,3003
+14729300,Naunhof,Grundzentrum,8839,0,0,0,222.59,17.45,24,1115
+14729350,Pegau,Grundzentrum,6561,0,0,0,134.53,10.87,25,1227
+14729430,Zwenkau,Grundzentrum,9332,1,1,0,201.56,15.38,25,1786
+14730020,Bad Düben,Grundzentrum,7880,0,0,0,172.05,15.09,27,1771
+14730030,Beilrode,Grundzentrum,4049,0,0,0,43.41,7.03,19,707
+14730045,Belgern-Schildau,Grundzentrum,7577,0,0,0,47.66,7.07,39,1007
+14730060,Dahlen,Grundzentrum,4171,0,0,0,58.04,8.08,22,736
+14730090,Dommitzsch,Grundzentrum,2400,0,0,0,78.84,11.43,8,294
+14730200,Mügeln,Grundzentrum,5792,0,0,0,105.16,12.11,35,692
+14730300,Taucha,Grundzentrum,15816,1,2,350,476.1,28.75,30,1546
+14730330,Wermsdorf,Grundzentrum,5239,0,0,0,50.08,7.46,26,992
+15081030,Arendsee (Altmark),Grundzentrum,6797,0,0,0,25.22,6.73,54,855
+15081045,Beetzendorf,Grundzentrum,3052,0,0,0,31.14,7.21,21,425
+15081095,Dähre,Grundzentrum,1411,0,0,0,17.91,5.81,22,226
+15081105,Diesdorf,Grundzentrum,2267,0,0,0,22.54,6.13,32,259
+15081135,Gardelegen,Grundzentrum,22054,0,0,0,34.8,6.7,77,1616
+15081240,Kalbe (Milde),Grundzentrum,7407,0,0,0,27.15,7.08,59,1097
+15081280,Klötze,Grundzentrum,9680,0,0,0,34.73,6.49,38,902
+15082005,Aken (Elbe),Grundzentrum,7304,0,0,0,122.16,12.43,22,521
+15082301,Raguhn-Jeßnitz,Grundzentrum,8861,0,0,0,91.07,10.85,32,640
+15082440,Zörbig,Grundzentrum,9153,0,0,0,80.51,11.6,42,973
+15083030,Angern,Grundzentrum,1967,0,0,0,30.63,10.08,8,228
+15083125,Calvörde,Grundzentrum,3392,0,0,0,27.77,6.57,19,223
+15083190,Eilsleben,Grundzentrum,3677,0,0,0,66.12,9.37,11,456
+15083205,Erxleben,Grundzentrum,2788,0,0,0,33.38,7.1,8,162
+15083230,Flechtingen,Grundzentrum,2825,0,0,0,38.46,8.13,9,195
+15083245,Gröningen,Grundzentrum,3573,0,0,0,59.82,9.56,13,345
+15083298,Hohe Börde,Grundzentrum,18805,0,0,0,109.49,12.16,43,1736
+15083411,Oebisfelde-Weferlingen,Grundzentrum,13566,0,0,0,54.4,8.83,43,661
+15083490,Sülzetal,Grundzentrum,8917,0,0,0,85.9,12.93,26,974
+15083515,Völpke,Grundzentrum,1229,0,0,0,71.37,12.02,5,146
+15083531,Wanzleben-Börde,Grundzentrum,13813,0,0,0,73.41,9.29,39,1384
+15083565,Wolmirstedt,Grundzentrum,11602,0,0,0,213.78,16.22,17,956
+15084015,Bad Bibra,Grundzentrum,2635,0,0,0,52.94,9,17,383
+15084115,Droyßig,Grundzentrum,1910,0,0,0,94,11.07,5,155
+15084135,Freyburg (Unstrut),Grundzentrum,4596,0,0,0,98.71,12.93,17,272
+15084235,Hohenmölsen,Grundzentrum,9457,0,0,0,125.56,12.35,30,1011
+15084315,Lützen,Grundzentrum,8439,0,0,0,87.46,13.05,49,1079
+15084360,Nebra (Unstrut),Grundzentrum,3085,0,0,0,121.31,12.54,8,229
+15084375,Osterfeld,Grundzentrum,2412,0,0,0,87.36,14.81,12,191
+15084490,Teuchern,Grundzentrum,7974,0,0,0,98.01,13.85,30,589
+15085040,Ballenstedt,Grundzentrum,8794,0,0,0,101.03,11.17,27,1057
+15085055,Blankenburg (Harz),Grundzentrum,19161,0,0,0,128.61,12.51,49,2219
+15085110,Falkenstein/Harz,Grundzentrum,5120,0,0,0,49.72,8.56,21,611
+15085145,Harzgerode,Grundzentrum,7698,0,0,0,46.75,7.2,38,1156
+15085185,Huy,Grundzentrum,7030,0,0,0,42.01,6.72,32,800
+15085190,Ilsenburg (Harz),Grundzentrum,9477,0,0,0,150.5,12.18,23,688
+15085228,Oberharz am Brocken,Grundzentrum,9754,0,0,0,35.92,6.41,43,1477
+15085230,Osterwieck,Grundzentrum,10898,0,0,0,51.19,7.86,40,1256
+15085285,Schwanebeck,Grundzentrum,2402,0,0,0,73.64,9.07,6,261
+15085330,Thale,Grundzentrum,16868,1,1,113,122.52,11.04,60,2547
+15085365,Wegeleben,Grundzentrum,2446,0,0,0,47.25,7.22,8,259
+15086035,Elbe-Parey,Grundzentrum,6432,0,0,0,59.03,9.5,27,1095
+15086040,Genthin,Grundzentrum,13685,1,3,313,59.28,8.81,57,1388
+15086055,Gommern,Grundzentrum,10485,0,0,0,65.49,9.11,37,958
+15086080,Jerichow,Grundzentrum,6786,0,0,0,25.13,6.04,50,1103
+15086140,Möckern,Grundzentrum,12918,0,0,0,24.61,6.9,85,1990
+15087015,Allstedt,Grundzentrum,7553,0,0,0,50.4,9.32,22,610
+15087165,Gerbstedt,Grundzentrum,6790,0,0,0,66.37,10.95,33,691
+15087205,Helbra,Grundzentrum,3826,0,0,0,412.73,46.06,5,183
+15087220,Hettstedt,Grundzentrum,13678,0,0,0,370.38,27.38,47,1584
+15087250,Kelbra (Kyffhäuser),Grundzentrum,3220,0,0,0,79.39,11.27,9,162
+15087275,Mansfeld,Grundzentrum,8432,0,0,0,58.65,10.98,43,1279
+15087386,Seegebiet Mansfelder Land,Grundzentrum,8812,0,0,0,81.65,12.13,26,713
+15087412,Südharz,Grundzentrum,9061,0,0,0,38.33,7.34,43,1186
+15088020,Bad Dürrenberg,Grundzentrum,11752,0,0,0,325.09,20.47,21,1149
+15088025,Bad Lauchstädt,Grundzentrum,8939,0,0,0,104.67,12.51,22,909
+15088065,Braunsbedra,Grundzentrum,10401,0,0,0,139.8,14.33,21,1302
+15088150,Kabelsketal,Grundzentrum,8981,0,0,0,176.03,22.87,30,1063
+15088195,Landsberg,Grundzentrum,15015,0,0,0,119.7,17.6,60,1667
+15088205,Leuna,Grundzentrum,14011,1,10,1876,159.49,25.07,44,2095
+15088216,Wettin-Löbejün,Grundzentrum,9747,0,0,0,76.66,11.04,48,1169
+15088235,Mücheln (Geiseltal),Grundzentrum,8542,0,0,0,86.58,9.88,43,1086
+15088305,Querfurt,Grundzentrum,10256,0,0,0,65.9,8.87,44,1787
+15088319,Salzatal,Grundzentrum,11242,0,0,0,102.77,11.44,52,1518
+15088365,Teutschenthal,Grundzentrum,12743,0,0,0,140.54,16.76,37,1404
+15089026,Barby,Grundzentrum,8129,0,0,0,53.06,8.07,34,662
+15089055,Calbe (Saale),Grundzentrum,8222,0,0,0,145.01,15.4,22,1025
+15090010,Arneburg,Grundzentrum,1447,0,0,0,46.66,19.12,7,174
+15090070,Bismark (Altmark),Grundzentrum,7909,0,0,0,27.32,7,51,968
+15090180,Goldbeck,Grundzentrum,1398,0,0,0,52.07,9.76,8,118
+15090225,Havelberg,Grundzentrum,6465,0,0,0,43.31,6.41,26,453
+15090415,Osterburg (Altmark),Grundzentrum,9580,0,0,0,41.69,7.41,49,727
+15090500,Schönhausen (Elbe),Grundzentrum,2094,0,0,0,28.26,7.33,7,156
+15090520,Seehausen (Altmark),Grundzentrum,4773,0,0,0,44.59,8.03,30,392
+15090546,Tangerhütte,Grundzentrum,10599,0,0,0,35.91,7,42,808
+15090550,Tangermünde,Grundzentrum,10283,0,0,0,114.27,10.75,17,490
+15091010,Annaburg,Grundzentrum,6514,0,0,0,28.87,6.07,29,330
+15091020,Bad Schmiedeberg,Grundzentrum,8107,0,0,0,50.57,8.96,45,811
+15091060,Coswig (Anhalt),Grundzentrum,11488,0,0,0,38.85,7.91,62,843
+15091110,Gräfenhainichen,Grundzentrum,11446,0,0,0,71.74,8.82,34,926
+15091145,Jessen (Elster),Grundzentrum,14158,0,0,0,40.19,7.47,77,1276
+15091160,Kemberg,Grundzentrum,9467,0,0,0,40.24,7.56,44,890
+15091391,Zahna-Elster,Grundzentrum,9106,0,0,0,61.25,9.74,46,1059
+16061001,Arenshausen,Grundzentrum,1016,0,0,0,175.47,13.3,3,59
+16061017,Breitenworbis,Grundzentrum,3133,0,0,0,129.3,15.27,7,169
+16061063,Küllstedt,Grundzentrum,1323,0,0,0,100.92,10.07,3,74
+16061074,Niederorschel,Grundzentrum,5498,0,0,0,98.65,12.29,15,345
+16061097,Uder,Grundzentrum,2688,0,0,0,192,14,7,199
+16061113,Schimberg,Grundzentrum,2151,0,0,0,73.34,7.6,12,230
+16061114,Teistungen,Grundzentrum,2463,0,0,0,94.19,10.36,8,245
+16061117,Sonnenstein,Grundzentrum,4400,0,0,0,46.47,7.81,22,349
+16061118,Dingelstädt,Grundzentrum,6935,1,1,90,116.77,11.63,18,600
+16062005,Ellrich,Grundzentrum,5492,0,0,0,79.12,8.95,20,397
+16062064,Heringen/Helme,Grundzentrum,4659,0,0,0,69.63,10.51,12,364
+16062066,Bleicherode,Grundzentrum,10163,1,1,197,93.95,13.43,38,1423
+16063015,Dermbach,Grundzentrum,7143,0,0,0,77.68,10.25,35,820
+16063032,Geisa,Grundzentrum,4823,0,0,0,67.04,8.8,23,432
+16063066,Ruhla,Grundzentrum,5273,0,0,0,136.78,11.49,17,864
+16063076,Treffurt,Grundzentrum,5834,0,0,0,80.51,10.12,18,801
+16063082,Vacha,Grundzentrum,5006,0,0,0,112.72,12.32,23,643
+16063092,Wutha-Farnroda,Grundzentrum,6436,0,0,0,175.8,14.59,25,870
+16063097,Gerstungen,Grundzentrum,9011,0,0,0,60.08,9.39,30,879
+16063099,Bad Liebenstein,Grundzentrum,7735,0,0,0,158.47,16.8,32,768
+16063104,Amt Creuzburg,Grundzentrum,4628,0,0,0,66.37,9.26,18,542
+16064004,Bad Tennstedt,Grundzentrum,2504,0,0,0,91.32,9.81,5,190
+16064074,Südeichsfeld,Grundzentrum,6440,0,0,0,107.3,10.4,19,519
+16064076,Unstrut-Hainich,Grundzentrum,5187,0,0,0,54.98,6.02,11,314
+16064077,Nottertal-Heilinger Höhen,Grundzentrum,5899,0,0,0,77.66,8.98,18,383
+16065003,Bad Frankenhausen/Kyffhäuser,Grundzentrum,9995,1,1,76,109.76,11.32,17,857
+16065014,Ebeleben,Grundzentrum,2678,0,0,0,60.13,10.06,9,396
+16065087,Roßleben-Wiehe,Grundzentrum,7219,0,0,0,98.78,13.14,24,619
+16065088,An der Schmücke,Grundzentrum,5973,0,0,0,62.69,9.26,15,720
+16065089,Greußen,Grundzentrum,5793,0,0,0,66.72,9.1,18,515
+16066013,Breitungen/Werra,Grundzentrum,4611,0,0,0,102.76,10.52,9,291
+16066069,Steinbach-Hallenberg,Grundzentrum,9408,0,0,0,122.61,12.98,27,825
+16066074,Brotterode-Trusetal,Grundzentrum,5810,0,0,0,116.95,12.52,16,548
+16066086,Wasungen,Grundzentrum,5437,0,0,0,61.04,7.87,18,423
+16066095,Kaltennordheim,Grundzentrum,5716,0,0,0,60.54,8.46,19,430
+16067019,Friedrichroda,Grundzentrum,7127,0,0,0,193.3,15.32,17,657
+16067053,Ohrdruf,Grundzentrum,9613,0,0,0,84.62,9.74,22,681
+16067064,Bad Tabarz,Grundzentrum,4202,0,0,0,198.96,14.87,6,161
+16067065,Tambach-Dietharz/Thür.Wald,Grundzentrum,4318,0,0,0,103.7,9.49,6,120
+16067072,Waltershausen,Grundzentrum,12650,0,0,0,208.68,17.63,24,887
+16067087,Nesse-Apfelstädt,Grundzentrum,5936,0,0,0,149.94,16.09,14,823
+16068014,Gebesee,Grundzentrum,2168,0,0,0,90.03,8.47,6,127
+16068034,Kölleda,Grundzentrum,6526,0,0,0,72.9,10.7,16,323
+16068058,Weißensee,Grundzentrum,3633,0,0,0,65.66,9.15,13,234
+16068063,Buttstädt,Grundzentrum,6651,0,0,0,63.46,9.08,16,517
+16069012,Eisfeld,Grundzentrum,7412,0,0,0,85.67,11.58,25,717
+16069042,Schleusegrund,Grundzentrum,2619,0,0,0,44.4,6.02,14,325
+16069043,Schleusingen,Grundzentrum,10620,0,0,0,84.56,12.13,43,1188
+16069051,Themar,Grundzentrum,2744,0,0,0,135.98,15.11,7,174
+16069062,Römhild,Grundzentrum,6661,0,0,0,54.4,8.38,31,597
+16070048,Stadtilm,Grundzentrum,8311,0,0,0,69.11,9.8,30,921
+16070057,Geratal,Grundzentrum,8789,0,0,0,106.75,11.16,20,801
+16070058,Großbreitenbach,Grundzentrum,5956,0,0,0,73.75,10.03,25,615
+16071003,Bad Berka,Grundzentrum,7355,0,0,0,132.95,14.08,17,809
+16071004,Bad Sulza,Grundzentrum,7864,0,0,0,86.28,11.04,34,788
+16071008,Blankenhain,Grundzentrum,6616,0,0,0,58.16,9.72,32,544
+16072015,Schalkau,Grundzentrum,3266,0,0,0,74.19,9.47,26,356
+16072019,Steinach,Grundzentrum,3641,0,0,0,138.18,13.21,6,212
+16073067,Probstzella,Grundzentrum,2721,0,0,0,36.6,6.67,25,594
+16073112,Königsee,Grundzentrum,7176,0,0,0,69.66,9.36,35,966
+16073113,Schwarzatal,Grundzentrum,3393,0,0,0,130.6,13.66,19,822
+16074009,Bürgel,Grundzentrum,3033,0,0,0,111.55,11.07,20,443
+16074011,Dornburg-Camburg,Grundzentrum,5307,0,0,0,172.47,18.46,18,399
+16074012,Crossen an der Elster,Grundzentrum,1607,0,0,0,148.8,17.69,7,326
+16074044,Kahla,Grundzentrum,6806,0,0,0,861.52,48.48,11,457
+16075046,Hirschberg,Grundzentrum,2168,0,0,0,89.85,12.23,12,246
+16075073,Neustadt an der Orla,Grundzentrum,9017,0,0,0,104.75,9.67,44,871
+16075116,Triptis,Grundzentrum,3632,0,0,0,109.56,14.69,17,300
+16075131,Gefell,Grundzentrum,2415,0,0,0,53.41,8.54,15,223
+16075132,Tanna,Grundzentrum,3421,0,0,0,39.16,6.67,21,261
+16075135,Saalburg-Ebersdorf,Grundzentrum,3319,0,0,0,46.07,9.95,17,286
+16076003,Bad Köstritz,Grundzentrum,3365,0,0,0,198.76,20.73,12,405
+16076004,Berga/Elster,Grundzentrum,3218,0,0,0,73.94,10.39,18,212
+16076049,Münchenbernsdorf,Grundzentrum,2939,0,0,0,190.23,14.17,11,251
+16076061,Ronneburg,Grundzentrum,5071,0,0,0,265.08,32.41,9,289
+16076079,Weida,Grundzentrum,8205,0,0,0,222.96,18.86,26,925
+16076092,Auma-Weidatal,Grundzentrum,3353,0,0,0,59.97,8.48,21,399
+16077028,Lucka,Grundzentrum,3530,0,0,0,273.01,20.57,8,237
+16077032,Meuselwitz,Grundzentrum,10117,0,0,0,188.54,16.21,28,945
+99999999,kein Grundzentrum,Grundzentrum,65447832,1282,4229,702668,280.7,14.97,153065,12276038
