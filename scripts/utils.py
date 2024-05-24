@@ -1,4 +1,5 @@
-from os import path
+from os import path, walk, remove, rmdir
+from zipfile import ZipFile
 from geopandas import read_file
 from shapely.ops import transform
 from pyproj import CRS, Transformer
@@ -45,3 +46,22 @@ def get_polygon_bbox(polygon, current_crs=25832, return_string=False):
     bbox = poly.envelope
 
     return bbox_to_string(bbox) if return_string else bbox
+
+
+# {args} folder_path: str, output_zip: str
+# {returns} zip archive in folder_path location
+def create_zip(folder_path, output_zip):
+    with ZipFile(output_zip, 'w') as zipf:
+        for root, _, files in walk(folder_path):
+            for file in files:
+                file_path = path.join(root, file)
+                zipf.write(file_path, path.relpath(file_path, folder_path))
+
+
+# {args} folder_path: str
+# {returns} None, deletes directory
+def remove_dir(folder_path):
+    for root, _, files in walk(folder_path):
+        for name in files:
+            remove(path.join(root, name))
+        rmdir(folder_path)
