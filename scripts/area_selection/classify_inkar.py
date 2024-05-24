@@ -1,5 +1,7 @@
 from os import path
-from geopandas import read_file
+from pandas import to_numeric
+from geopandas import read_file, GeoDataFrame
+from jenkspy import JenksNaturalBreaks
 
 from scripts.utils import transform_crs
 from scripts.constants import INKAR_PATH, RESULTS_PATH
@@ -49,8 +51,34 @@ def population_per_cinema(filename):
     print('done!')
 
 
+# sort given column into groups and create new column with group assignment labels
+# {args} filename: str, column: str, new_column: str, group_number: int
+# {returns} geodataframe, overwrites given file
+def sort_by(filename, column, new_column, group_number):
+    gdf = read_file(path.join(INKAR_PATH, filename))
+
+    filtered = gdf[gdf[column].notna()]
+    indicator = to_numeric(filtered[column], errors='coerce').dropna()
+    # sort column values into groups, write array of group assignment of each row to assigned
+    jnb = JenksNaturalBreaks(group_number)
+    jnb.fit(indicator)
+    assigned = jnb.labels_
+
+    print('insert classification...')
+    filtered.insert(len(filtered.columns), new_column, assigned.tolist())
+
+    filtered = filtered[['GEN', new_column]]
+    print('merging...')
+    data = gdf.loc[:, 'GEN':'population_per_cinema']
+    data = data.merge(filtered, how='left', on='GEN')
+    data['geometry'] = gdf['geometry']
+
+    GeoDataFrame(data, geometry='geometry').to_file(path.join(INKAR_PATH, filename))
+
+
 if __name__ == "__main__":
     for centrality in ['top', 'mid', 'base']:
         gpkg_file = f'cinema-population_{centrality}.gpkg'
 
         population_per_cinema(gpkg_file)
+        sort_by(gpkg_file, 'population_per_cinema', 'population/cinema class', 10)
