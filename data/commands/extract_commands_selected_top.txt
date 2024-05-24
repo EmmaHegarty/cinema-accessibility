@@ -1,0 +1,4 @@
+exists
+poetry run gtfs-general extract-bbox --input-object /home/emma/PycharmProjects/transport-time2/gtfs_files/opnv_240218.zip --output-folder /home/emma/PycharmProjects/transport-time2/gtfs_files/Halle-Saale_opnv_240218.zip --bbox 11.8561776,51.4023465,12.0834492,51.5433299
+poetry run gtfs-general extract-bbox --input-object /home/emma/PycharmProjects/transport-time2/gtfs_files/opnv_240218.zip --output-folder /home/emma/PycharmProjects/transport-time2/gtfs_files/Osnabrück_opnv_240218.zip --bbox 7.9285889,52.2204706,8.1794828,52.338717
+poetry run gtfs-general extract-bbox --input-object /home/emma/PycharmProjects/transport-time2/gtfs_files/opnv_240218.zip --output-folder /home/emma/PycharmProjects/transport-time2/gtfs_files/Aachen_opnv_240218.zip --bbox 5.9744797,50.647468,6.2169125,50.8560481

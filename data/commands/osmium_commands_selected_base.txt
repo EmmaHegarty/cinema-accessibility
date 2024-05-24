@@ -1,0 +1,4 @@
+osmium extract --bbox 8.0069984,47.6113173,8.1004172,47.7225772 --output Kandern-extract.osm.pbf
+osmium extract --bbox 11.5097034,54.0384416,11.6857959,54.1435418 --output Kühlungsborn-extract.osm.pbf
+osmium extract --bbox 12.4993161,47.7989132,12.6105459,47.8937634 --output Seefeld-extract.osm.pbf
+osmium extract --bbox 7.8148028,52.47594,7.9387217,52.6060528 --output Ankum-extract.osm.pbf

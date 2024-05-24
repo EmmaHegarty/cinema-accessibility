@@ -1,0 +1,4 @@
+osmium extract --bbox 8.5724377,49.3522653,8.7932869,49.4601723 --output Heidelberg-extract.osm.pbf
+osmium extract --bbox 11.8561776,51.4023465,12.0834492,51.5433299 --output Halle-Saale-extract.osm.pbf
+osmium extract --bbox 7.9285889,52.2204706,8.1794828,52.338717 --output Osnabrück-extract.osm.pbf
+osmium extract --bbox 5.9744797,50.647468,6.2169125,50.8560481 --output Aachen-extract.osm.pbf

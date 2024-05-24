@@ -1,0 +1,4 @@
+osmium extract --bbox 7.8654675,49.1549864,8.1805538,49.315565 --output Landau-in-der-Pfalz-extract.osm.pbf
+osmium extract --bbox 8.4529769,50.1296233,8.5176916,50.1735769 --output Bad-Soden-am-Taunus-extract.osm.pbf
+osmium extract --bbox 12.6308205,50.5631311,12.7404901,50.6400735 --output Aue-Bad-Schlema-extract.osm.pbf
+osmium extract --bbox 9.7391439,51.9300552,9.9067877,52.035885 --output Alfeld-Leine-extract.osm.pbf
