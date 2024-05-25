@@ -1,5 +1,7 @@
 from os import path, walk, remove, rmdir
 from zipfile import ZipFile
+from datetime import datetime, timedelta
+from pandas import read_csv, isna, to_datetime
 from geopandas import read_file
 from shapely.ops import transform
 from pyproj import CRS, Transformer
@@ -65,3 +67,17 @@ def remove_dir(folder_path):
         for name in files:
             remove(path.join(root, name))
         rmdir(folder_path)
+
+
+# convert gtfs time (exceeds 24:00:00) to pandas datetime format
+# {args} gtfs_date: string, gtfs_time: string
+# {returns} Datetime
+def gtfs_time_to_pandas_datetime(gtfs_date, gtfs_time):
+    if isna(gtfs_time):
+        return None
+    else:
+        hours, minutes, seconds = map(int, gtfs_time.split(":"))
+        date_time = datetime.strptime(gtfs_date, "%Y%m%d") + timedelta(
+               hours=hours, minutes=minutes, seconds=seconds)
+
+        return to_datetime(date_time)
