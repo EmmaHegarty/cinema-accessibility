@@ -3,6 +3,7 @@ from zipfile import ZipFile
 from datetime import datetime, timedelta
 from pandas import read_csv, isna, to_datetime
 from geopandas import read_file
+from shapely import LineString
 from shapely.ops import transform
 from pyproj import CRS, Transformer
 
@@ -50,6 +51,17 @@ def get_polygon_bbox(polygon, current_crs=25832, return_string=False):
     return bbox_to_string(bbox) if return_string else bbox
 
 
+# {args} area_name: string
+# {returns} Point
+def centroid_from_name(area_name):
+    districts = germany_admin('GEM')
+    # get polygon of area
+    area = districts[districts['GEN'] == area_name]
+    area_polygon = area.geometry.iloc[0]
+
+    return transform_crs(area_polygon.centroid, 25832, 4326, True)
+
+
 # {args} folder_path: str, output_zip: str
 # {returns} zip archive in folder_path location
 def create_zip(folder_path, output_zip):
@@ -69,6 +81,21 @@ def remove_dir(folder_path):
         rmdir(folder_path)
 
 
+# get dictionary containing gtfs files as dataframes from zip archive
+# {args} input_zip: string
+# {returns} geodataframe
+def zip_to_df(input_zip):
+    gtfs_data = {}
+
+    with ZipFile(input_zip, 'r') as zip_ref:
+        for file_name in zip_ref.namelist():
+            if file_name.lower().endswith('.txt'):
+                df = read_csv(zip_ref.open(file_name), encoding='utf-8')
+                gtfs_data[file_name[:-4]] = df  # Remove the '.txt' extension
+
+    return gtfs_data
+
+
 # convert gtfs time (exceeds 24:00:00) to pandas datetime format
 # {args} gtfs_date: string, gtfs_time: string
 # {returns} Datetime
@@ -81,3 +108,21 @@ def gtfs_time_to_pandas_datetime(gtfs_date, gtfs_time):
                hours=hours, minutes=minutes, seconds=seconds)
 
         return to_datetime(date_time)
+
+
+# {args} point: point object, dataframe: dataframe with geometry column of cinema centroid points
+# {returns} list of cinema names list and list of corresponding distances to given point
+def calc_distance(point, goal, single_point=False):
+    if single_point:
+        line = LineString([point, goal])
+        line2 = transform_crs(line, 4326, 25832, True)
+        return line2.length
+    else:
+        name = []
+        dist = []
+        for rid, row in goal.iterrows():
+            line = LineString([point, row['geometry']])
+            line2 = transform_crs(line, 4326, 25832, True)
+            name.append(row['name'])
+            dist.append(line2.length)
+        return [name, dist]
