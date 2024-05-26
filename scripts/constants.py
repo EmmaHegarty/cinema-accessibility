@@ -6,6 +6,9 @@ RESULTS_PATH = 'results'
 SELECTED = {'top': ['Heidelberg', 'Halle (Saale)', 'Osnabrück', 'Aachen'],
             'mid': ['Landau in der Pfalz', 'Bad Soden am Taunus', 'Aue-Bad Schlema', 'Alfeld (Leine)'],
             'base': ['Kandern', 'Kühlungsborn', 'Seefeld', 'Ankum']}
+SELECTED_VALID = {'top': ['Heidelberg', 'Halle (Saale)', 'Osnabrück', 'Aachen'],
+                  'mid': ['Landau in der Pfalz', 'Bad Soden am Taunus', 'Alfeld (Leine)'],
+                  'base': ['Kühlungsborn', 'Ankum']}
 
 EXTRACTED_NAME = ['Heidelberg', 'Halle-Saale', 'Osnabrück', 'Aachen',
                   'Landau-in-der-Pfalz', 'Bad-Soden-am-Taunus', 'Aue-Bad-Schlema', 'Alfeld-Leine',

@@ -1,8 +1,8 @@
 from os import path
-from pandas import read_csv, concat
+from pandas import read_csv, DataFrame, concat
 from geopandas import read_file
 
-from scripts.constants import RESULTS_PATH, SELECTED, LVL_DUMMY
+from scripts.constants import RESULTS_PATH, SELECTED, SELECTED_VALID, LVL_DUMMY
 
 
 # concatenate the resulting dataframe for all selected areas
@@ -56,7 +56,39 @@ def make_big_df(times, prefix='analysis', path_end='15-18-21_Sat_104'):
     concat(dfs).to_csv(path.join(RESULTS_PATH, 'analysis', f'all_{prefix}_{path_end}.csv'))
 
 
+# aggregate results for each area
+# {args} prefix: str, path_end: str, times: [int]
+# {returns} None, writes new file
+def make_areas_df(only_valid=False, path_end='15-18-21_Sat_104'):
+    selected = SELECTED_VALID if only_valid else SELECTED
+    dfs = []
+    for level in ['top', 'mid', 'base']:
+        rows = []
+        inkar = read_csv(path.join('data', 'INKAR-files', f'cinema-population_{level}.csv'))
+        for area in selected[level]:
+            df = read_csv(path.join(RESULTS_PATH, 'analysis', f'variables_{area}_{path_end}.csv'))
+            irow = inkar[inkar['Raumeinheit'] == area]
+
+            arr = [area]
+            arr.extend(df.iloc[1][1:])
+            arr.extend([irow[i].values[0] for i in ['Kinos', 'Bevölkerung', 'Einwohnerdichte',
+                                                    'Siedlungs- und Verkehrsfläche', 'ÖV-Abfahrten',
+                                                    'ÖV-Haltestellen']])
+            rows.append(arr)
+        df = DataFrame(rows, columns=['area', 'time', 'average speed', 'average duration', 'average transit time',
+                                      'average walk time', 'average walk share', 'walk share under 40%',
+                                      'average amount of changes', 'max changes', 'time difference to car',
+                                      'transit is reasonable', 'out of', 'cinemas', 'population aggr',
+                                      'population density', 'built-up area', 'transit departures', 'transit stops'])
+        df['level'] = level
+        dfs.append(df)
+
+    filename = f'all_variables_{path_end}_valid.csv' if only_valid else f'all_variables_{path_end}.csv'
+    concat(dfs).to_csv(path.join(RESULTS_PATH, 'analysis', filename))
+
+
 if __name__ == "__main__":
     time = [15, 18, 21]
     make_big_df(time, 'analysis')
     make_big_df(time, 'starts_variables')
+    make_areas_df(True)
