@@ -1,0 +1,537 @@
+,group,average travel time,average visit time,average likely,average possible,15 travel time,15 visit time,15 mode,15 likely,15 possible,18 travel time,18 visit time,18 mode,18 likely,18 possible,21 travel time,21 visit time,21 mode,21 likely,21 possible
+0,,,,yes,yes,,,,,,,,,,,,,,,
+0,,,,,,,,transit,yes,yes,,,,,,,,,,
+0,,,,,,,,,,,,,transit,yes,yes,,,,,
+0,,,,,,,,,,,,,,,,,,transit,yes,yes
+0,women,962.6333333333332,7325.266666666666,no,yes,846.3,7092.6,transit,no,yes,1020.8,7441.6,foot,no,yes,1020.8,7441.6,foot,no,yes
+1,women,683.6333333333333,6767.266666666666,yes,yes,664.7,6729.4,transit,yes,yes,693.1,6786.2,foot,yes,yes,693.1,6786.2,foot,yes,yes
+2,women,2343.2,10086.4,no,yes,2343.2,10086.4,foot,no,yes,2343.2,10086.4,foot,no,yes,2343.2,10086.4,foot,no,yes
+3,women,788.6,6977.2,no,yes,748.2,6896.4,transit,no,yes,808.8,7017.6,foot,no,yes,808.8,7017.6,foot,no,yes
+4,women,741.8333333333334,6883.666666666667,no,yes,701.5,6803.0,transit,yes,yes,762.0,6924.0,foot,no,yes,762.0,6924.0,foot,no,yes
+5,women,1672.2,8744.4,no,yes,1672.2,8744.4,foot,no,yes,1672.2,8744.4,foot,no,yes,1672.2,8744.4,foot,no,yes
+6,women,1251.3333333333333,7902.666666666666,no,yes,1050.6,7501.2,transit,no,yes,1351.7,8103.4,foot,no,yes,1351.7,8103.4,foot,no,yes
+7,women,704.0,6808.0,yes,yes,604.8,6609.6,transit,yes,yes,753.6,6907.2,foot,no,yes,753.6,6907.2,foot,no,yes
+8,women,824.8666666666667,7049.733333333334,no,yes,788.4,6976.8,transit,no,yes,843.1,7086.2,foot,no,yes,843.1,7086.2,foot,no,yes
+9,women,679.4,6758.8,yes,yes,679.4,6758.8,foot,yes,yes,679.4,6758.8,foot,yes,yes,679.4,6758.8,foot,yes,yes
+10,women,2376.4,10152.8,no,yes,2376.4,10152.8,foot,no,yes,2376.4,10152.8,foot,no,yes,2376.4,10152.8,foot,no,yes
+11,women,646.0333333333334,6692.066666666667,yes,yes,504.7,6409.4,transit,yes,yes,716.7,6833.4,foot,yes,yes,716.7,6833.4,foot,yes,yes
+12,women,373.8,6147.6,yes,yes,373.8,6147.6,foot,yes,yes,373.8,6147.6,foot,yes,yes,373.8,6147.6,foot,yes,yes
+13,women,239.5,5879.0,yes,yes,239.5,5879.0,foot,yes,yes,239.5,5879.0,foot,yes,yes,239.5,5879.0,foot,yes,yes
+14,women,795.2000000000002,6990.400000000001,no,yes,795.2,6990.4,foot,no,yes,795.2,6990.4,foot,no,yes,795.2,6990.4,foot,no,yes
+15,women,861.1,7122.2,no,yes,761.9,6923.8,transit,no,yes,910.7,7221.4,foot,no,yes,910.7,7221.4,foot,no,yes
+16,women,987.7333333333332,7375.466666666666,no,yes,787.0,6974.0,transit,no,yes,1088.1,7576.2,foot,no,yes,1088.1,7576.2,foot,no,yes
+17,women,1143.9333333333334,7687.866666666667,no,yes,923.4,7246.8,transit,no,yes,1254.2,7908.4,foot,no,yes,1254.2,7908.4,foot,no,yes
+18,women,601.4,6602.8,yes,yes,507.4,6414.8,transit,yes,yes,648.4,6696.8,foot,yes,yes,648.4,6696.8,foot,yes,yes
+19,women,1029.8,7459.6,no,yes,1029.8,7459.6,foot,no,yes,1029.8,7459.6,foot,no,yes,1029.8,7459.6,foot,no,yes
+20,women,1200.4,7800.8,no,yes,1200.4,7800.8,foot,no,yes,1200.4,7800.8,foot,no,yes,1200.4,7800.8,foot,no,yes
+21,women,822.6,7045.2,no,yes,822.6,7045.2,foot,no,yes,822.6,7045.2,foot,no,yes,822.6,7045.2,foot,no,yes
+22,women,748.5,6897.0,no,yes,609.3,6618.6,transit,yes,yes,818.1,7036.2,foot,no,yes,818.1,7036.2,foot,no,yes
+23,women,706.7666666666668,6813.533333333334,yes,yes,583.7,6567.4,transit,yes,yes,768.3,6936.6,foot,no,yes,768.3,6936.6,foot,no,yes
+24,women,785.5666666666666,6971.133333333333,no,yes,662.5,6725.0,transit,yes,yes,847.1,7094.2,foot,no,yes,847.1,7094.2,foot,no,yes
+25,women,633.0,6666.0,yes,yes,633.0,6666.0,foot,yes,yes,633.0,6666.0,foot,yes,yes,633.0,6666.0,foot,yes,yes
+26,women,1313.1666666666667,8026.333333333334,no,yes,1276.7,7953.4,transit,no,yes,1331.4,8062.8,foot,no,yes,1331.4,8062.8,foot,no,yes
+27,women,689.1,6778.2,yes,yes,689.1,6778.2,foot,yes,yes,689.1,6778.2,foot,yes,yes,689.1,6778.2,foot,yes,yes
+28,women,2376.6,10153.2,no,yes,2376.6,10153.2,foot,no,yes,2376.6,10153.2,foot,no,yes,2376.6,10153.2,foot,no,yes
+29,women,2936.6999999999994,11273.399999999998,no,yes,2936.7,11273.4,foot,no,yes,2936.7,11273.4,foot,no,yes,2936.7,11273.4,foot,no,yes
+30,women,576.7,6553.4,yes,yes,576.7,6553.4,foot,yes,yes,576.7,6553.4,foot,yes,yes,576.7,6553.4,foot,yes,yes
+31,women,608.0,6616.0,yes,yes,608.0,6616.0,foot,yes,yes,608.0,6616.0,foot,yes,yes,608.0,6616.0,foot,yes,yes
+32,women,622.1,6644.2,yes,yes,622.1,6644.2,foot,yes,yes,622.1,6644.2,foot,yes,yes,622.1,6644.2,foot,yes,yes
+33,women,1774.7,8949.4,no,yes,1774.7,8949.4,foot,no,yes,1774.7,8949.4,foot,no,yes,1774.7,8949.4,foot,no,yes
+34,women,1014.1,7428.2,no,yes,1014.1,7428.2,foot,no,yes,1014.1,7428.2,foot,no,yes,1014.1,7428.2,foot,no,yes
+35,women,1326.7,8053.4,no,yes,1326.7,8053.4,foot,no,yes,1326.7,8053.4,foot,no,yes,1326.7,8053.4,foot,no,yes
+36,women,501.8999999999999,6403.8,yes,yes,501.9,6403.8,foot,yes,yes,501.9,6403.8,foot,yes,yes,501.9,6403.8,foot,yes,yes
+37,women,2357.0,10114.0,no,yes,2357.0,10114.0,foot,no,yes,2357.0,10114.0,foot,no,yes,2357.0,10114.0,foot,no,yes
+38,women,2927.6,11255.2,no,yes,2927.6,11255.2,foot,no,yes,2927.6,11255.2,foot,no,yes,2927.6,11255.2,foot,no,yes
+39,women,794.2000000000002,6988.400000000001,no,yes,794.2,6988.4,foot,no,yes,794.2,6988.4,foot,no,yes,794.2,6988.4,foot,no,yes
+40,women,756.5,6913.0,no,yes,756.5,6913.0,foot,no,yes,756.5,6913.0,foot,no,yes,756.5,6913.0,foot,no,yes
+41,women,804.7000000000002,7009.400000000001,no,yes,804.7,7009.4,foot,no,yes,804.7,7009.4,foot,no,yes,804.7,7009.4,foot,no,yes
+42,women,724.9666666666667,6849.933333333333,no,yes,601.9,6603.8,transit,yes,yes,786.5,6973.0,foot,no,yes,786.5,6973.0,foot,no,yes
+43,women,813.0,7026.0,no,yes,813.0,7026.0,foot,no,yes,813.0,7026.0,foot,no,yes,813.0,7026.0,foot,no,yes
+44,women,564.3,6528.6,yes,yes,564.3,6528.6,foot,yes,yes,564.3,6528.6,foot,yes,yes,564.3,6528.6,foot,yes,yes
+45,women,1854.4000000000003,9108.800000000001,no,yes,1854.4,9108.8,foot,no,yes,1854.4,9108.8,foot,no,yes,1854.4,9108.8,foot,no,yes
+46,women,560.1,6520.2,yes,yes,560.1,6520.2,foot,yes,yes,560.1,6520.2,foot,yes,yes,560.1,6520.2,foot,yes,yes
+47,women,852.6333333333333,7105.266666666666,no,yes,654.9,6709.8,transit,yes,yes,951.5,7303.0,foot,no,yes,951.5,7303.0,foot,no,yes
+48,women,107.40000000000002,5614.8,yes,yes,107.4,5614.8,foot,yes,yes,107.4,5614.8,foot,yes,yes,107.4,5614.8,foot,yes,yes
+49,women,3218.1999999999994,11836.399999999998,no,yes,3218.2,11836.4,foot,no,yes,3218.2,11836.4,foot,no,yes,3218.2,11836.4,foot,no,yes
+50,women,1011.4666666666666,7422.933333333333,no,yes,870.8,7141.6,transit,no,yes,1081.8,7563.6,foot,no,yes,1081.8,7563.6,foot,no,yes
+51,women,852.6333333333333,7105.266666666666,no,yes,654.9,6709.8,transit,yes,yes,951.5,7303.0,foot,no,yes,951.5,7303.0,foot,no,yes
+52,women,1010.3666666666668,7420.733333333334,no,yes,935.3,7270.6,transit,no,yes,1047.9,7495.8,foot,no,yes,1047.9,7495.8,foot,no,yes
+53,women,850.5333333333334,7101.066666666667,no,yes,789.2,6978.4,transit,no,yes,881.2,7162.4,foot,no,yes,881.2,7162.4,foot,no,yes
+54,women,712.6,6825.2,yes,yes,712.6,6825.2,foot,yes,yes,712.6,6825.2,foot,yes,yes,712.6,6825.2,foot,yes,yes
+55,women,776.0,6952.0,no,yes,776.0,6952.0,foot,no,yes,776.0,6952.0,foot,no,yes,776.0,6952.0,foot,no,yes
+56,women,332.4,6064.8,yes,yes,332.4,6064.8,foot,yes,yes,332.4,6064.8,foot,yes,yes,332.4,6064.8,foot,yes,yes
+57,women,677.0,6754.0,yes,yes,677.0,6754.0,foot,yes,yes,677.0,6754.0,foot,yes,yes,677.0,6754.0,foot,yes,yes
+58,women,874.4,7148.8,no,yes,874.4,7148.8,foot,no,yes,874.4,7148.8,foot,no,yes,874.4,7148.8,foot,no,yes
+59,women,1039.1333333333332,7478.266666666666,no,yes,961.8,7323.6,transit,no,yes,1077.8,7555.6,foot,no,yes,1077.8,7555.6,foot,no,yes
+60,women,1733.2666666666667,8866.533333333333,no,yes,1709.2,8818.4,transit,no,yes,1745.3,8890.6,foot,no,yes,1745.3,8890.6,foot,no,yes
+61,women,646.0333333333334,6692.066666666667,yes,yes,504.7,6409.4,transit,yes,yes,716.7,6833.4,foot,yes,yes,716.7,6833.4,foot,yes,yes
+62,women,2949.3000000000006,11298.600000000002,no,yes,2949.3,11298.6,foot,no,yes,2949.3,11298.6,foot,no,yes,2949.3,11298.6,foot,no,yes
+63,women,467.8,6335.6,yes,yes,467.8,6335.6,foot,yes,yes,467.8,6335.6,foot,yes,yes,467.8,6335.6,foot,yes,yes
+64,women,843.1,7086.2,no,yes,843.1,7086.2,foot,no,yes,843.1,7086.2,foot,no,yes,843.1,7086.2,foot,no,yes
+65,women,683.5333333333333,6767.066666666667,yes,yes,616.4,6632.8,transit,yes,yes,717.1,6834.2,foot,yes,yes,717.1,6834.2,foot,yes,yes
+66,women,756.5,6913.0,no,yes,756.5,6913.0,foot,no,yes,756.5,6913.0,foot,no,yes,756.5,6913.0,foot,no,yes
+67,women,148.8,5697.6,yes,yes,148.8,5697.6,foot,yes,yes,148.8,5697.6,foot,yes,yes,148.8,5697.6,foot,yes,yes
+68,women,790.7999999999998,6981.599999999999,no,yes,790.8,6981.6,foot,no,yes,790.8,6981.6,foot,no,yes,790.8,6981.6,foot,no,yes
+69,women,2125.6,9651.2,no,yes,2125.6,9651.2,foot,no,yes,2125.6,9651.2,foot,no,yes,2125.6,9651.2,foot,no,yes
+70,women,749.1,6898.2,no,yes,749.1,6898.2,foot,no,yes,749.1,6898.2,foot,no,yes,749.1,6898.2,foot,no,yes
+71,women,1814.8,9029.6,no,yes,1814.8,9029.6,foot,no,yes,1814.8,9029.6,foot,no,yes,1814.8,9029.6,foot,no,yes
+72,women,148.8,5697.6,yes,yes,148.8,5697.6,foot,yes,yes,148.8,5697.6,foot,yes,yes,148.8,5697.6,foot,yes,yes
+73,women,1060.7,7521.4,no,yes,1060.7,7521.4,foot,no,yes,1060.7,7521.4,foot,no,yes,1060.7,7521.4,foot,no,yes
+74,women,713.2999999999998,6826.599999999999,yes,yes,713.3,6826.6,foot,yes,yes,713.3,6826.6,foot,yes,yes,713.3,6826.6,foot,yes,yes
+75,women,744.2999999999998,6888.599999999999,no,yes,744.3,6888.6,foot,no,yes,744.3,6888.6,foot,no,yes,744.3,6888.6,foot,no,yes
+76,women,738.5333333333333,6877.066666666667,no,yes,601.4,6602.8,transit,yes,yes,807.1,7014.2,foot,no,yes,807.1,7014.2,foot,no,yes
+77,women,909.2999999999998,7218.599999999999,no,yes,909.3,7218.6,foot,no,yes,909.3,7218.6,foot,no,yes,909.3,7218.6,foot,no,yes
+78,women,2311.1,10022.2,no,yes,2311.1,10022.2,foot,no,yes,2311.1,10022.2,foot,no,yes,2311.1,10022.2,foot,no,yes
+79,women,945.6,7291.2,no,yes,848.2,7096.4,transit,no,yes,994.3,7388.6,foot,no,yes,994.3,7388.6,foot,no,yes
+80,women,1029.8,7459.6,no,yes,1029.8,7459.6,foot,no,yes,1029.8,7459.6,foot,no,yes,1029.8,7459.6,foot,no,yes
+81,women,789.5,6979.0,no,yes,789.5,6979.0,foot,no,yes,789.5,6979.0,foot,no,yes,789.5,6979.0,foot,no,yes
+82,women,1798.2,8996.4,no,yes,1798.2,8996.4,foot,no,yes,1798.2,8996.4,foot,no,yes,1798.2,8996.4,foot,no,yes
+83,women,712.9,6825.8,yes,yes,712.9,6825.8,foot,yes,yes,712.9,6825.8,foot,yes,yes,712.9,6825.8,foot,yes,yes
+84,women,1238.1,7876.2,no,yes,1238.1,7876.2,foot,no,yes,1238.1,7876.2,foot,no,yes,1238.1,7876.2,foot,no,yes
+85,women,2411.6,10223.2,no,yes,2411.6,10223.2,foot,no,yes,2411.6,10223.2,foot,no,yes,2411.6,10223.2,foot,no,yes
+86,women,713.6666666666666,6827.333333333333,yes,yes,590.6,6581.2,transit,yes,yes,775.2,6950.4,foot,no,yes,775.2,6950.4,foot,no,yes
+87,women,686.5,6773.0,yes,yes,554.5,6509.0,transit,yes,yes,752.5,6905.0,foot,no,yes,752.5,6905.0,foot,no,yes
+88,women,750.6999999999999,6901.4,no,yes,710.3,6820.6,transit,yes,yes,770.9,6941.8,foot,no,yes,770.9,6941.8,foot,no,yes
+89,women,1019.0,7438.0,no,yes,1019.0,7438.0,foot,no,yes,1019.0,7438.0,foot,no,yes,1019.0,7438.0,foot,no,yes
+90,women,842.3333333333334,7084.666666666667,no,yes,743.2,6886.4,transit,no,yes,891.9,7183.8,foot,no,yes,891.9,7183.8,foot,no,yes
+91,women,604.9,6609.8,yes,yes,604.9,6609.8,foot,yes,yes,604.9,6609.8,foot,yes,yes,604.9,6609.8,foot,yes,yes
+92,women,700.2999999999998,6800.599999999999,yes,yes,700.3,6800.6,foot,yes,yes,700.3,6800.6,foot,yes,yes,700.3,6800.6,foot,yes,yes
+93,women,143.8,5687.6,yes,yes,143.8,5687.6,foot,yes,yes,143.8,5687.6,foot,yes,yes,143.8,5687.6,foot,yes,yes
+94,women,2675.4,10750.8,no,yes,2675.4,10750.8,foot,no,yes,2675.4,10750.8,foot,no,yes,2675.4,10750.8,foot,no,yes
+95,women,706.8333333333334,6813.666666666667,yes,yes,607.7,6615.4,transit,yes,yes,756.4,6912.8,foot,no,yes,756.4,6912.8,foot,no,yes
+96,women,650.6,6701.2,yes,yes,650.6,6701.2,foot,yes,yes,650.6,6701.2,foot,yes,yes,650.6,6701.2,foot,yes,yes
+97,women,1661.8666666666668,8723.733333333334,no,yes,1637.8,8675.6,transit,no,yes,1673.9,8747.8,foot,no,yes,1673.9,8747.8,foot,no,yes
+98,women,2317.6,10035.2,no,yes,2317.6,10035.2,foot,no,yes,2317.6,10035.2,foot,no,yes,2317.6,10035.2,foot,no,yes
+99,women,687.2000000000002,6774.400000000001,yes,yes,687.2,6774.4,foot,yes,yes,687.2,6774.4,foot,yes,yes,687.2,6774.4,foot,yes,yes
+100,women,1652.8,8705.6,no,yes,1652.8,8705.6,foot,no,yes,1652.8,8705.6,foot,no,yes,1652.8,8705.6,foot,no,yes
+101,women,858.0,7116.0,no,yes,858.0,7116.0,foot,no,yes,858.0,7116.0,foot,no,yes,858.0,7116.0,foot,no,yes
+102,women,2949.3000000000006,11298.600000000002,no,yes,2949.3,11298.6,foot,no,yes,2949.3,11298.6,foot,no,yes,2949.3,11298.6,foot,no,yes
+103,women,3648.8000000000006,12697.600000000002,no,yes,3648.8,12697.6,foot,no,yes,3648.8,12697.6,foot,no,yes,3648.8,12697.6,foot,no,yes
+0,,,,,,,,transit,yes,yes,,,,,,,,,,
+0,,,,,,,,,,,,,transit,yes,yes,,,,,
+0,,,,,,,,,,,,,,,,,,transit,yes,yes
+0,men,962.6333333333332,7325.266666666666,no,yes,846.3,7092.6,transit,no,yes,1020.8,7441.6,foot,no,yes,1020.8,7441.6,foot,no,yes
+1,men,683.6333333333333,6767.266666666666,no,yes,664.7,6729.4,transit,no,yes,693.1,6786.2,foot,no,yes,693.1,6786.2,foot,no,yes
+2,men,2343.2,10086.4,no,yes,2343.2,10086.4,foot,no,yes,2343.2,10086.4,foot,no,yes,2343.2,10086.4,foot,no,yes
+3,men,788.6,6977.2,no,yes,748.2,6896.4,transit,no,yes,808.8,7017.6,foot,no,yes,808.8,7017.6,foot,no,yes
+4,men,741.8333333333334,6883.666666666667,no,yes,701.5,6803.0,transit,no,yes,762.0,6924.0,foot,no,yes,762.0,6924.0,foot,no,yes
+5,men,1672.2,8744.4,no,yes,1672.2,8744.4,foot,no,yes,1672.2,8744.4,foot,no,yes,1672.2,8744.4,foot,no,yes
+6,men,1251.3333333333333,7902.666666666666,no,yes,1050.6,7501.2,transit,no,yes,1351.7,8103.4,foot,no,yes,1351.7,8103.4,foot,no,yes
+7,men,704.0,6808.0,no,yes,604.8,6609.6,transit,no,yes,753.6,6907.2,foot,no,yes,753.6,6907.2,foot,no,yes
+8,men,824.8666666666667,7049.733333333334,no,yes,788.4,6976.8,transit,no,yes,843.1,7086.2,foot,no,yes,843.1,7086.2,foot,no,yes
+9,men,679.4,6758.8,no,yes,679.4,6758.8,foot,no,yes,679.4,6758.8,foot,no,yes,679.4,6758.8,foot,no,yes
+10,men,2376.4,10152.8,no,yes,2376.4,10152.8,foot,no,yes,2376.4,10152.8,foot,no,yes,2376.4,10152.8,foot,no,yes
+11,men,646.0333333333334,6692.066666666667,no,yes,504.7,6409.4,transit,no,yes,716.7,6833.4,foot,no,yes,716.7,6833.4,foot,no,yes
+12,men,373.8,6147.6,yes,yes,373.8,6147.6,foot,yes,yes,373.8,6147.6,foot,yes,yes,373.8,6147.6,foot,yes,yes
+13,men,239.5,5879.0,yes,yes,239.5,5879.0,foot,yes,yes,239.5,5879.0,foot,yes,yes,239.5,5879.0,foot,yes,yes
+14,men,795.2000000000002,6990.400000000001,no,yes,795.2,6990.4,foot,no,yes,795.2,6990.4,foot,no,yes,795.2,6990.4,foot,no,yes
+15,men,861.1,7122.2,no,yes,761.9,6923.8,transit,no,yes,910.7,7221.4,foot,no,yes,910.7,7221.4,foot,no,yes
+16,men,987.7333333333332,7375.466666666666,no,yes,787.0,6974.0,transit,no,yes,1088.1,7576.2,foot,no,yes,1088.1,7576.2,foot,no,yes
+17,men,1143.9333333333334,7687.866666666667,no,yes,923.4,7246.8,transit,no,yes,1254.2,7908.4,foot,no,yes,1254.2,7908.4,foot,no,yes
+18,men,601.4,6602.8,no,yes,507.4,6414.8,transit,no,yes,648.4,6696.8,foot,no,yes,648.4,6696.8,foot,no,yes
+19,men,1029.8,7459.6,no,yes,1029.8,7459.6,foot,no,yes,1029.8,7459.6,foot,no,yes,1029.8,7459.6,foot,no,yes
+20,men,1200.4,7800.8,no,yes,1200.4,7800.8,foot,no,yes,1200.4,7800.8,foot,no,yes,1200.4,7800.8,foot,no,yes
+21,men,822.6,7045.2,no,yes,822.6,7045.2,foot,no,yes,822.6,7045.2,foot,no,yes,822.6,7045.2,foot,no,yes
+22,men,748.5,6897.0,no,yes,609.3,6618.6,transit,no,yes,818.1,7036.2,foot,no,yes,818.1,7036.2,foot,no,yes
+23,men,706.7666666666668,6813.533333333334,no,yes,583.7,6567.4,transit,no,yes,768.3,6936.6,foot,no,yes,768.3,6936.6,foot,no,yes
+24,men,785.5666666666666,6971.133333333333,no,yes,662.5,6725.0,transit,no,yes,847.1,7094.2,foot,no,yes,847.1,7094.2,foot,no,yes
+25,men,633.0,6666.0,no,yes,633.0,6666.0,foot,no,yes,633.0,6666.0,foot,no,yes,633.0,6666.0,foot,no,yes
+26,men,1313.1666666666667,8026.333333333334,no,yes,1276.7,7953.4,transit,no,yes,1331.4,8062.8,foot,no,yes,1331.4,8062.8,foot,no,yes
+27,men,689.1,6778.2,no,yes,689.1,6778.2,foot,no,yes,689.1,6778.2,foot,no,yes,689.1,6778.2,foot,no,yes
+28,men,2376.6,10153.2,no,yes,2376.6,10153.2,foot,no,yes,2376.6,10153.2,foot,no,yes,2376.6,10153.2,foot,no,yes
+29,men,2936.6999999999994,11273.399999999998,no,yes,2936.7,11273.4,foot,no,yes,2936.7,11273.4,foot,no,yes,2936.7,11273.4,foot,no,yes
+30,men,576.7,6553.4,no,yes,576.7,6553.4,foot,no,yes,576.7,6553.4,foot,no,yes,576.7,6553.4,foot,no,yes
+31,men,608.0,6616.0,no,yes,608.0,6616.0,foot,no,yes,608.0,6616.0,foot,no,yes,608.0,6616.0,foot,no,yes
+32,men,622.1,6644.2,no,yes,622.1,6644.2,foot,no,yes,622.1,6644.2,foot,no,yes,622.1,6644.2,foot,no,yes
+33,men,1774.7,8949.4,no,yes,1774.7,8949.4,foot,no,yes,1774.7,8949.4,foot,no,yes,1774.7,8949.4,foot,no,yes
+34,men,1014.1,7428.2,no,yes,1014.1,7428.2,foot,no,yes,1014.1,7428.2,foot,no,yes,1014.1,7428.2,foot,no,yes
+35,men,1326.7,8053.4,no,yes,1326.7,8053.4,foot,no,yes,1326.7,8053.4,foot,no,yes,1326.7,8053.4,foot,no,yes
+36,men,501.8999999999999,6403.8,no,yes,501.9,6403.8,foot,no,yes,501.9,6403.8,foot,no,yes,501.9,6403.8,foot,no,yes
+37,men,2357.0,10114.0,no,yes,2357.0,10114.0,foot,no,yes,2357.0,10114.0,foot,no,yes,2357.0,10114.0,foot,no,yes
+38,men,2927.6,11255.2,no,yes,2927.6,11255.2,foot,no,yes,2927.6,11255.2,foot,no,yes,2927.6,11255.2,foot,no,yes
+39,men,794.2000000000002,6988.400000000001,no,yes,794.2,6988.4,foot,no,yes,794.2,6988.4,foot,no,yes,794.2,6988.4,foot,no,yes
+40,men,756.5,6913.0,no,yes,756.5,6913.0,foot,no,yes,756.5,6913.0,foot,no,yes,756.5,6913.0,foot,no,yes
+41,men,804.7000000000002,7009.400000000001,no,yes,804.7,7009.4,foot,no,yes,804.7,7009.4,foot,no,yes,804.7,7009.4,foot,no,yes
+42,men,724.9666666666667,6849.933333333333,no,yes,601.9,6603.8,transit,no,yes,786.5,6973.0,foot,no,yes,786.5,6973.0,foot,no,yes
+43,men,813.0,7026.0,no,yes,813.0,7026.0,foot,no,yes,813.0,7026.0,foot,no,yes,813.0,7026.0,foot,no,yes
+44,men,564.3,6528.6,no,yes,564.3,6528.6,foot,no,yes,564.3,6528.6,foot,no,yes,564.3,6528.6,foot,no,yes
+45,men,1854.4000000000003,9108.800000000001,no,yes,1854.4,9108.8,foot,no,yes,1854.4,9108.8,foot,no,yes,1854.4,9108.8,foot,no,yes
+46,men,560.1,6520.2,no,yes,560.1,6520.2,foot,no,yes,560.1,6520.2,foot,no,yes,560.1,6520.2,foot,no,yes
+47,men,852.6333333333333,7105.266666666666,no,yes,654.9,6709.8,transit,no,yes,951.5,7303.0,foot,no,yes,951.5,7303.0,foot,no,yes
+48,men,107.40000000000002,5614.8,yes,yes,107.4,5614.8,foot,yes,yes,107.4,5614.8,foot,yes,yes,107.4,5614.8,foot,yes,yes
+49,men,3218.1999999999994,11836.399999999998,no,yes,3218.2,11836.4,foot,no,yes,3218.2,11836.4,foot,no,yes,3218.2,11836.4,foot,no,yes
+50,men,1011.4666666666666,7422.933333333333,no,yes,870.8,7141.6,transit,no,yes,1081.8,7563.6,foot,no,yes,1081.8,7563.6,foot,no,yes
+51,men,852.6333333333333,7105.266666666666,no,yes,654.9,6709.8,transit,no,yes,951.5,7303.0,foot,no,yes,951.5,7303.0,foot,no,yes
+52,men,1010.3666666666668,7420.733333333334,no,yes,935.3,7270.6,transit,no,yes,1047.9,7495.8,foot,no,yes,1047.9,7495.8,foot,no,yes
+53,men,850.5333333333334,7101.066666666667,no,yes,789.2,6978.4,transit,no,yes,881.2,7162.4,foot,no,yes,881.2,7162.4,foot,no,yes
+54,men,712.6,6825.2,no,yes,712.6,6825.2,foot,no,yes,712.6,6825.2,foot,no,yes,712.6,6825.2,foot,no,yes
+55,men,776.0,6952.0,no,yes,776.0,6952.0,foot,no,yes,776.0,6952.0,foot,no,yes,776.0,6952.0,foot,no,yes
+56,men,332.4,6064.8,yes,yes,332.4,6064.8,foot,yes,yes,332.4,6064.8,foot,yes,yes,332.4,6064.8,foot,yes,yes
+57,men,677.0,6754.0,no,yes,677.0,6754.0,foot,no,yes,677.0,6754.0,foot,no,yes,677.0,6754.0,foot,no,yes
+58,men,874.4,7148.8,no,yes,874.4,7148.8,foot,no,yes,874.4,7148.8,foot,no,yes,874.4,7148.8,foot,no,yes
+59,men,1039.1333333333332,7478.266666666666,no,yes,961.8,7323.6,transit,no,yes,1077.8,7555.6,foot,no,yes,1077.8,7555.6,foot,no,yes
+60,men,1733.2666666666667,8866.533333333333,no,yes,1709.2,8818.4,transit,no,yes,1745.3,8890.6,foot,no,yes,1745.3,8890.6,foot,no,yes
+61,men,646.0333333333334,6692.066666666667,no,yes,504.7,6409.4,transit,no,yes,716.7,6833.4,foot,no,yes,716.7,6833.4,foot,no,yes
+62,men,2949.3000000000006,11298.600000000002,no,yes,2949.3,11298.6,foot,no,yes,2949.3,11298.6,foot,no,yes,2949.3,11298.6,foot,no,yes
+63,men,467.8,6335.6,no,yes,467.8,6335.6,foot,no,yes,467.8,6335.6,foot,no,yes,467.8,6335.6,foot,no,yes
+64,men,843.1,7086.2,no,yes,843.1,7086.2,foot,no,yes,843.1,7086.2,foot,no,yes,843.1,7086.2,foot,no,yes
+65,men,683.5333333333333,6767.066666666667,no,yes,616.4,6632.8,transit,no,yes,717.1,6834.2,foot,no,yes,717.1,6834.2,foot,no,yes
+66,men,756.5,6913.0,no,yes,756.5,6913.0,foot,no,yes,756.5,6913.0,foot,no,yes,756.5,6913.0,foot,no,yes
+67,men,148.8,5697.6,yes,yes,148.8,5697.6,foot,yes,yes,148.8,5697.6,foot,yes,yes,148.8,5697.6,foot,yes,yes
+68,men,790.7999999999998,6981.599999999999,no,yes,790.8,6981.6,foot,no,yes,790.8,6981.6,foot,no,yes,790.8,6981.6,foot,no,yes
+69,men,2125.6,9651.2,no,yes,2125.6,9651.2,foot,no,yes,2125.6,9651.2,foot,no,yes,2125.6,9651.2,foot,no,yes
+70,men,749.1,6898.2,no,yes,749.1,6898.2,foot,no,yes,749.1,6898.2,foot,no,yes,749.1,6898.2,foot,no,yes
+71,men,1814.8,9029.6,no,yes,1814.8,9029.6,foot,no,yes,1814.8,9029.6,foot,no,yes,1814.8,9029.6,foot,no,yes
+72,men,148.8,5697.6,yes,yes,148.8,5697.6,foot,yes,yes,148.8,5697.6,foot,yes,yes,148.8,5697.6,foot,yes,yes
+73,men,1060.7,7521.4,no,yes,1060.7,7521.4,foot,no,yes,1060.7,7521.4,foot,no,yes,1060.7,7521.4,foot,no,yes
+74,men,713.2999999999998,6826.599999999999,no,yes,713.3,6826.6,foot,no,yes,713.3,6826.6,foot,no,yes,713.3,6826.6,foot,no,yes
+75,men,744.2999999999998,6888.599999999999,no,yes,744.3,6888.6,foot,no,yes,744.3,6888.6,foot,no,yes,744.3,6888.6,foot,no,yes
+76,men,738.5333333333333,6877.066666666667,no,yes,601.4,6602.8,transit,no,yes,807.1,7014.2,foot,no,yes,807.1,7014.2,foot,no,yes
+77,men,909.2999999999998,7218.599999999999,no,yes,909.3,7218.6,foot,no,yes,909.3,7218.6,foot,no,yes,909.3,7218.6,foot,no,yes
+78,men,2311.1,10022.2,no,yes,2311.1,10022.2,foot,no,yes,2311.1,10022.2,foot,no,yes,2311.1,10022.2,foot,no,yes
+79,men,945.6,7291.2,no,yes,848.2,7096.4,transit,no,yes,994.3,7388.6,foot,no,yes,994.3,7388.6,foot,no,yes
+80,men,1029.8,7459.6,no,yes,1029.8,7459.6,foot,no,yes,1029.8,7459.6,foot,no,yes,1029.8,7459.6,foot,no,yes
+81,men,789.5,6979.0,no,yes,789.5,6979.0,foot,no,yes,789.5,6979.0,foot,no,yes,789.5,6979.0,foot,no,yes
+82,men,1798.2,8996.4,no,yes,1798.2,8996.4,foot,no,yes,1798.2,8996.4,foot,no,yes,1798.2,8996.4,foot,no,yes
+83,men,712.9,6825.8,no,yes,712.9,6825.8,foot,no,yes,712.9,6825.8,foot,no,yes,712.9,6825.8,foot,no,yes
+84,men,1238.1,7876.2,no,yes,1238.1,7876.2,foot,no,yes,1238.1,7876.2,foot,no,yes,1238.1,7876.2,foot,no,yes
+85,men,2411.6,10223.2,no,yes,2411.6,10223.2,foot,no,yes,2411.6,10223.2,foot,no,yes,2411.6,10223.2,foot,no,yes
+86,men,713.6666666666666,6827.333333333333,no,yes,590.6,6581.2,transit,no,yes,775.2,6950.4,foot,no,yes,775.2,6950.4,foot,no,yes
+87,men,686.5,6773.0,no,yes,554.5,6509.0,transit,no,yes,752.5,6905.0,foot,no,yes,752.5,6905.0,foot,no,yes
+88,men,750.6999999999999,6901.4,no,yes,710.3,6820.6,transit,no,yes,770.9,6941.8,foot,no,yes,770.9,6941.8,foot,no,yes
+89,men,1019.0,7438.0,no,yes,1019.0,7438.0,foot,no,yes,1019.0,7438.0,foot,no,yes,1019.0,7438.0,foot,no,yes
+90,men,842.3333333333334,7084.666666666667,no,yes,743.2,6886.4,transit,no,yes,891.9,7183.8,foot,no,yes,891.9,7183.8,foot,no,yes
+91,men,604.9,6609.8,no,yes,604.9,6609.8,foot,no,yes,604.9,6609.8,foot,no,yes,604.9,6609.8,foot,no,yes
+92,men,700.2999999999998,6800.599999999999,no,yes,700.3,6800.6,foot,no,yes,700.3,6800.6,foot,no,yes,700.3,6800.6,foot,no,yes
+93,men,143.8,5687.6,yes,yes,143.8,5687.6,foot,yes,yes,143.8,5687.6,foot,yes,yes,143.8,5687.6,foot,yes,yes
+94,men,2675.4,10750.8,no,yes,2675.4,10750.8,foot,no,yes,2675.4,10750.8,foot,no,yes,2675.4,10750.8,foot,no,yes
+95,men,706.8333333333334,6813.666666666667,no,yes,607.7,6615.4,transit,no,yes,756.4,6912.8,foot,no,yes,756.4,6912.8,foot,no,yes
+96,men,650.6,6701.2,no,yes,650.6,6701.2,foot,no,yes,650.6,6701.2,foot,no,yes,650.6,6701.2,foot,no,yes
+97,men,1661.8666666666668,8723.733333333334,no,yes,1637.8,8675.6,transit,no,yes,1673.9,8747.8,foot,no,yes,1673.9,8747.8,foot,no,yes
+98,men,2317.6,10035.2,no,yes,2317.6,10035.2,foot,no,yes,2317.6,10035.2,foot,no,yes,2317.6,10035.2,foot,no,yes
+99,men,687.2000000000002,6774.400000000001,no,yes,687.2,6774.4,foot,no,yes,687.2,6774.4,foot,no,yes,687.2,6774.4,foot,no,yes
+100,men,1652.8,8705.6,no,yes,1652.8,8705.6,foot,no,yes,1652.8,8705.6,foot,no,yes,1652.8,8705.6,foot,no,yes
+101,men,858.0,7116.0,no,yes,858.0,7116.0,foot,no,yes,858.0,7116.0,foot,no,yes,858.0,7116.0,foot,no,yes
+102,men,2949.3000000000006,11298.600000000002,no,yes,2949.3,11298.6,foot,no,yes,2949.3,11298.6,foot,no,yes,2949.3,11298.6,foot,no,yes
+103,men,3648.8000000000006,12697.600000000002,no,yes,3648.8,12697.6,foot,no,yes,3648.8,12697.6,foot,no,yes,3648.8,12697.6,foot,no,yes
+0,,,,,,,,transit,yes,yes,,,,,,,,,,
+0,,,,,,,,,,,,,transit,yes,yes,,,,,
+0,,,,,,,,,,,,,,,,,,transit,yes,yes
+0,children 10-17,962.6333333333332,7325.266666666666,yes,yes,846.3,7092.6,transit,yes,yes,1020.8,7441.6,foot,yes,yes,1020.8,7441.6,foot,yes,yes
+1,children 10-17,683.6333333333333,6767.266666666666,yes,yes,664.7,6729.4,transit,yes,yes,693.1,6786.2,foot,yes,yes,693.1,6786.2,foot,yes,yes
+2,children 10-17,2343.2,10086.4,no,yes,2343.2,10086.4,foot,no,yes,2343.2,10086.4,foot,no,yes,2343.2,10086.4,foot,no,yes
+3,children 10-17,788.6,6977.2,yes,yes,748.2,6896.4,transit,yes,yes,808.8,7017.6,foot,yes,yes,808.8,7017.6,foot,yes,yes
+4,children 10-17,741.8333333333334,6883.666666666667,yes,yes,701.5,6803.0,transit,yes,yes,762.0,6924.0,foot,yes,yes,762.0,6924.0,foot,yes,yes
+5,children 10-17,1672.2,8744.4,no,yes,1672.2,8744.4,foot,no,yes,1672.2,8744.4,foot,no,yes,1672.2,8744.4,foot,no,yes
+6,children 10-17,1251.3333333333333,7902.666666666666,yes,yes,1050.6,7501.2,transit,yes,yes,1351.7,8103.4,foot,no,yes,1351.7,8103.4,foot,no,yes
+7,children 10-17,704.0,6808.0,yes,yes,604.8,6609.6,transit,yes,yes,753.6,6907.2,foot,yes,yes,753.6,6907.2,foot,yes,yes
+8,children 10-17,824.8666666666667,7049.733333333334,yes,yes,788.4,6976.8,transit,yes,yes,843.1,7086.2,foot,yes,yes,843.1,7086.2,foot,yes,yes
+9,children 10-17,679.4,6758.8,yes,yes,679.4,6758.8,foot,yes,yes,679.4,6758.8,foot,yes,yes,679.4,6758.8,foot,yes,yes
+10,children 10-17,2376.4,10152.8,no,yes,2376.4,10152.8,foot,no,yes,2376.4,10152.8,foot,no,yes,2376.4,10152.8,foot,no,yes
+11,children 10-17,646.0333333333334,6692.066666666667,yes,yes,504.7,6409.4,transit,yes,yes,716.7,6833.4,foot,yes,yes,716.7,6833.4,foot,yes,yes
+12,children 10-17,373.8,6147.6,yes,yes,373.8,6147.6,foot,yes,yes,373.8,6147.6,foot,yes,yes,373.8,6147.6,foot,yes,yes
+13,children 10-17,239.5,5879.0,yes,yes,239.5,5879.0,foot,yes,yes,239.5,5879.0,foot,yes,yes,239.5,5879.0,foot,yes,yes
+14,children 10-17,795.2000000000002,6990.400000000001,yes,yes,795.2,6990.4,foot,yes,yes,795.2,6990.4,foot,yes,yes,795.2,6990.4,foot,yes,yes
+15,children 10-17,861.1,7122.2,yes,yes,761.9,6923.8,transit,yes,yes,910.7,7221.4,foot,yes,yes,910.7,7221.4,foot,yes,yes
+16,children 10-17,987.7333333333332,7375.466666666666,yes,yes,787.0,6974.0,transit,yes,yes,1088.1,7576.2,foot,yes,yes,1088.1,7576.2,foot,yes,yes
+17,children 10-17,1143.9333333333334,7687.866666666667,yes,yes,923.4,7246.8,transit,yes,yes,1254.2,7908.4,foot,yes,yes,1254.2,7908.4,foot,yes,yes
+18,children 10-17,601.4,6602.8,yes,yes,507.4,6414.8,transit,yes,yes,648.4,6696.8,foot,yes,yes,648.4,6696.8,foot,yes,yes
+19,children 10-17,1029.8,7459.6,yes,yes,1029.8,7459.6,foot,yes,yes,1029.8,7459.6,foot,yes,yes,1029.8,7459.6,foot,yes,yes
+20,children 10-17,1200.4,7800.8,yes,yes,1200.4,7800.8,foot,yes,yes,1200.4,7800.8,foot,yes,yes,1200.4,7800.8,foot,yes,yes
+21,children 10-17,822.6,7045.2,yes,yes,822.6,7045.2,foot,yes,yes,822.6,7045.2,foot,yes,yes,822.6,7045.2,foot,yes,yes
+22,children 10-17,748.5,6897.0,yes,yes,609.3,6618.6,transit,yes,yes,818.1,7036.2,foot,yes,yes,818.1,7036.2,foot,yes,yes
+23,children 10-17,706.7666666666668,6813.533333333334,yes,yes,583.7,6567.4,transit,yes,yes,768.3,6936.6,foot,yes,yes,768.3,6936.6,foot,yes,yes
+24,children 10-17,785.5666666666666,6971.133333333333,yes,yes,662.5,6725.0,transit,yes,yes,847.1,7094.2,foot,yes,yes,847.1,7094.2,foot,yes,yes
+25,children 10-17,633.0,6666.0,yes,yes,633.0,6666.0,foot,yes,yes,633.0,6666.0,foot,yes,yes,633.0,6666.0,foot,yes,yes
+26,children 10-17,1313.1666666666667,8026.333333333334,no,yes,1276.7,7953.4,transit,yes,yes,1331.4,8062.8,foot,no,yes,1331.4,8062.8,foot,no,yes
+27,children 10-17,689.1,6778.2,yes,yes,689.1,6778.2,foot,yes,yes,689.1,6778.2,foot,yes,yes,689.1,6778.2,foot,yes,yes
+28,children 10-17,2376.6,10153.2,no,yes,2376.6,10153.2,foot,no,yes,2376.6,10153.2,foot,no,yes,2376.6,10153.2,foot,no,yes
+29,children 10-17,2936.6999999999994,11273.399999999998,no,yes,2936.7,11273.4,foot,no,yes,2936.7,11273.4,foot,no,yes,2936.7,11273.4,foot,no,yes
+30,children 10-17,576.7,6553.4,yes,yes,576.7,6553.4,foot,yes,yes,576.7,6553.4,foot,yes,yes,576.7,6553.4,foot,yes,yes
+31,children 10-17,608.0,6616.0,yes,yes,608.0,6616.0,foot,yes,yes,608.0,6616.0,foot,yes,yes,608.0,6616.0,foot,yes,yes
+32,children 10-17,622.1,6644.2,yes,yes,622.1,6644.2,foot,yes,yes,622.1,6644.2,foot,yes,yes,622.1,6644.2,foot,yes,yes
+33,children 10-17,1774.7,8949.4,no,yes,1774.7,8949.4,foot,no,yes,1774.7,8949.4,foot,no,yes,1774.7,8949.4,foot,no,yes
+34,children 10-17,1014.1,7428.2,yes,yes,1014.1,7428.2,foot,yes,yes,1014.1,7428.2,foot,yes,yes,1014.1,7428.2,foot,yes,yes
+35,children 10-17,1326.7,8053.4,no,yes,1326.7,8053.4,foot,no,yes,1326.7,8053.4,foot,no,yes,1326.7,8053.4,foot,no,yes
+36,children 10-17,501.8999999999999,6403.8,yes,yes,501.9,6403.8,foot,yes,yes,501.9,6403.8,foot,yes,yes,501.9,6403.8,foot,yes,yes
+37,children 10-17,2357.0,10114.0,no,yes,2357.0,10114.0,foot,no,yes,2357.0,10114.0,foot,no,yes,2357.0,10114.0,foot,no,yes
+38,children 10-17,2927.6,11255.2,no,yes,2927.6,11255.2,foot,no,yes,2927.6,11255.2,foot,no,yes,2927.6,11255.2,foot,no,yes
+39,children 10-17,794.2000000000002,6988.400000000001,yes,yes,794.2,6988.4,foot,yes,yes,794.2,6988.4,foot,yes,yes,794.2,6988.4,foot,yes,yes
+40,children 10-17,756.5,6913.0,yes,yes,756.5,6913.0,foot,yes,yes,756.5,6913.0,foot,yes,yes,756.5,6913.0,foot,yes,yes
+41,children 10-17,804.7000000000002,7009.400000000001,yes,yes,804.7,7009.4,foot,yes,yes,804.7,7009.4,foot,yes,yes,804.7,7009.4,foot,yes,yes
+42,children 10-17,724.9666666666667,6849.933333333333,yes,yes,601.9,6603.8,transit,yes,yes,786.5,6973.0,foot,yes,yes,786.5,6973.0,foot,yes,yes
+43,children 10-17,813.0,7026.0,yes,yes,813.0,7026.0,foot,yes,yes,813.0,7026.0,foot,yes,yes,813.0,7026.0,foot,yes,yes
+44,children 10-17,564.3,6528.6,yes,yes,564.3,6528.6,foot,yes,yes,564.3,6528.6,foot,yes,yes,564.3,6528.6,foot,yes,yes
+45,children 10-17,1854.4000000000003,9108.800000000001,no,yes,1854.4,9108.8,foot,no,yes,1854.4,9108.8,foot,no,yes,1854.4,9108.8,foot,no,yes
+46,children 10-17,560.1,6520.2,yes,yes,560.1,6520.2,foot,yes,yes,560.1,6520.2,foot,yes,yes,560.1,6520.2,foot,yes,yes
+47,children 10-17,852.6333333333333,7105.266666666666,yes,yes,654.9,6709.8,transit,yes,yes,951.5,7303.0,foot,yes,yes,951.5,7303.0,foot,yes,yes
+48,children 10-17,107.40000000000002,5614.8,yes,yes,107.4,5614.8,foot,yes,yes,107.4,5614.8,foot,yes,yes,107.4,5614.8,foot,yes,yes
+49,children 10-17,3218.1999999999994,11836.399999999998,no,yes,3218.2,11836.4,foot,no,yes,3218.2,11836.4,foot,no,yes,3218.2,11836.4,foot,no,yes
+50,children 10-17,1011.4666666666666,7422.933333333333,yes,yes,870.8,7141.6,transit,yes,yes,1081.8,7563.6,foot,yes,yes,1081.8,7563.6,foot,yes,yes
+51,children 10-17,852.6333333333333,7105.266666666666,yes,yes,654.9,6709.8,transit,yes,yes,951.5,7303.0,foot,yes,yes,951.5,7303.0,foot,yes,yes
+52,children 10-17,1010.3666666666668,7420.733333333334,yes,yes,935.3,7270.6,transit,yes,yes,1047.9,7495.8,foot,yes,yes,1047.9,7495.8,foot,yes,yes
+53,children 10-17,850.5333333333334,7101.066666666667,yes,yes,789.2,6978.4,transit,yes,yes,881.2,7162.4,foot,yes,yes,881.2,7162.4,foot,yes,yes
+54,children 10-17,712.6,6825.2,yes,yes,712.6,6825.2,foot,yes,yes,712.6,6825.2,foot,yes,yes,712.6,6825.2,foot,yes,yes
+55,children 10-17,776.0,6952.0,yes,yes,776.0,6952.0,foot,yes,yes,776.0,6952.0,foot,yes,yes,776.0,6952.0,foot,yes,yes
+56,children 10-17,332.4,6064.8,yes,yes,332.4,6064.8,foot,yes,yes,332.4,6064.8,foot,yes,yes,332.4,6064.8,foot,yes,yes
+57,children 10-17,677.0,6754.0,yes,yes,677.0,6754.0,foot,yes,yes,677.0,6754.0,foot,yes,yes,677.0,6754.0,foot,yes,yes
+58,children 10-17,874.4,7148.8,yes,yes,874.4,7148.8,foot,yes,yes,874.4,7148.8,foot,yes,yes,874.4,7148.8,foot,yes,yes
+59,children 10-17,1039.1333333333332,7478.266666666666,yes,yes,961.8,7323.6,transit,yes,yes,1077.8,7555.6,foot,yes,yes,1077.8,7555.6,foot,yes,yes
+60,children 10-17,1733.2666666666667,8866.533333333333,no,yes,1709.2,8818.4,transit,no,yes,1745.3,8890.6,foot,no,yes,1745.3,8890.6,foot,no,yes
+61,children 10-17,646.0333333333334,6692.066666666667,yes,yes,504.7,6409.4,transit,yes,yes,716.7,6833.4,foot,yes,yes,716.7,6833.4,foot,yes,yes
+62,children 10-17,2949.3000000000006,11298.600000000002,no,yes,2949.3,11298.6,foot,no,yes,2949.3,11298.6,foot,no,yes,2949.3,11298.6,foot,no,yes
+63,children 10-17,467.8,6335.6,yes,yes,467.8,6335.6,foot,yes,yes,467.8,6335.6,foot,yes,yes,467.8,6335.6,foot,yes,yes
+64,children 10-17,843.1,7086.2,yes,yes,843.1,7086.2,foot,yes,yes,843.1,7086.2,foot,yes,yes,843.1,7086.2,foot,yes,yes
+65,children 10-17,683.5333333333333,6767.066666666667,yes,yes,616.4,6632.8,transit,yes,yes,717.1,6834.2,foot,yes,yes,717.1,6834.2,foot,yes,yes
+66,children 10-17,756.5,6913.0,yes,yes,756.5,6913.0,foot,yes,yes,756.5,6913.0,foot,yes,yes,756.5,6913.0,foot,yes,yes
+67,children 10-17,148.8,5697.6,yes,yes,148.8,5697.6,foot,yes,yes,148.8,5697.6,foot,yes,yes,148.8,5697.6,foot,yes,yes
+68,children 10-17,790.7999999999998,6981.599999999999,yes,yes,790.8,6981.6,foot,yes,yes,790.8,6981.6,foot,yes,yes,790.8,6981.6,foot,yes,yes
+69,children 10-17,2125.6,9651.2,no,yes,2125.6,9651.2,foot,no,yes,2125.6,9651.2,foot,no,yes,2125.6,9651.2,foot,no,yes
+70,children 10-17,749.1,6898.2,yes,yes,749.1,6898.2,foot,yes,yes,749.1,6898.2,foot,yes,yes,749.1,6898.2,foot,yes,yes
+71,children 10-17,1814.8,9029.6,no,yes,1814.8,9029.6,foot,no,yes,1814.8,9029.6,foot,no,yes,1814.8,9029.6,foot,no,yes
+72,children 10-17,148.8,5697.6,yes,yes,148.8,5697.6,foot,yes,yes,148.8,5697.6,foot,yes,yes,148.8,5697.6,foot,yes,yes
+73,children 10-17,1060.7,7521.4,yes,yes,1060.7,7521.4,foot,yes,yes,1060.7,7521.4,foot,yes,yes,1060.7,7521.4,foot,yes,yes
+74,children 10-17,713.2999999999998,6826.599999999999,yes,yes,713.3,6826.6,foot,yes,yes,713.3,6826.6,foot,yes,yes,713.3,6826.6,foot,yes,yes
+75,children 10-17,744.2999999999998,6888.599999999999,yes,yes,744.3,6888.6,foot,yes,yes,744.3,6888.6,foot,yes,yes,744.3,6888.6,foot,yes,yes
+76,children 10-17,738.5333333333333,6877.066666666667,yes,yes,601.4,6602.8,transit,yes,yes,807.1,7014.2,foot,yes,yes,807.1,7014.2,foot,yes,yes
+77,children 10-17,909.2999999999998,7218.599999999999,yes,yes,909.3,7218.6,foot,yes,yes,909.3,7218.6,foot,yes,yes,909.3,7218.6,foot,yes,yes
+78,children 10-17,2311.1,10022.2,no,yes,2311.1,10022.2,foot,no,yes,2311.1,10022.2,foot,no,yes,2311.1,10022.2,foot,no,yes
+79,children 10-17,945.6,7291.2,yes,yes,848.2,7096.4,transit,yes,yes,994.3,7388.6,foot,yes,yes,994.3,7388.6,foot,yes,yes
+80,children 10-17,1029.8,7459.6,yes,yes,1029.8,7459.6,foot,yes,yes,1029.8,7459.6,foot,yes,yes,1029.8,7459.6,foot,yes,yes
+81,children 10-17,789.5,6979.0,yes,yes,789.5,6979.0,foot,yes,yes,789.5,6979.0,foot,yes,yes,789.5,6979.0,foot,yes,yes
+82,children 10-17,1798.2,8996.4,no,yes,1798.2,8996.4,foot,no,yes,1798.2,8996.4,foot,no,yes,1798.2,8996.4,foot,no,yes
+83,children 10-17,712.9,6825.8,yes,yes,712.9,6825.8,foot,yes,yes,712.9,6825.8,foot,yes,yes,712.9,6825.8,foot,yes,yes
+84,children 10-17,1238.1,7876.2,yes,yes,1238.1,7876.2,foot,yes,yes,1238.1,7876.2,foot,yes,yes,1238.1,7876.2,foot,yes,yes
+85,children 10-17,2411.6,10223.2,no,yes,2411.6,10223.2,foot,no,yes,2411.6,10223.2,foot,no,yes,2411.6,10223.2,foot,no,yes
+86,children 10-17,713.6666666666666,6827.333333333333,yes,yes,590.6,6581.2,transit,yes,yes,775.2,6950.4,foot,yes,yes,775.2,6950.4,foot,yes,yes
+87,children 10-17,686.5,6773.0,yes,yes,554.5,6509.0,transit,yes,yes,752.5,6905.0,foot,yes,yes,752.5,6905.0,foot,yes,yes
+88,children 10-17,750.6999999999999,6901.4,yes,yes,710.3,6820.6,transit,yes,yes,770.9,6941.8,foot,yes,yes,770.9,6941.8,foot,yes,yes
+89,children 10-17,1019.0,7438.0,yes,yes,1019.0,7438.0,foot,yes,yes,1019.0,7438.0,foot,yes,yes,1019.0,7438.0,foot,yes,yes
+90,children 10-17,842.3333333333334,7084.666666666667,yes,yes,743.2,6886.4,transit,yes,yes,891.9,7183.8,foot,yes,yes,891.9,7183.8,foot,yes,yes
+91,children 10-17,604.9,6609.8,yes,yes,604.9,6609.8,foot,yes,yes,604.9,6609.8,foot,yes,yes,604.9,6609.8,foot,yes,yes
+92,children 10-17,700.2999999999998,6800.599999999999,yes,yes,700.3,6800.6,foot,yes,yes,700.3,6800.6,foot,yes,yes,700.3,6800.6,foot,yes,yes
+93,children 10-17,143.8,5687.6,yes,yes,143.8,5687.6,foot,yes,yes,143.8,5687.6,foot,yes,yes,143.8,5687.6,foot,yes,yes
+94,children 10-17,2675.4,10750.8,no,yes,2675.4,10750.8,foot,no,yes,2675.4,10750.8,foot,no,yes,2675.4,10750.8,foot,no,yes
+95,children 10-17,706.8333333333334,6813.666666666667,yes,yes,607.7,6615.4,transit,yes,yes,756.4,6912.8,foot,yes,yes,756.4,6912.8,foot,yes,yes
+96,children 10-17,650.6,6701.2,yes,yes,650.6,6701.2,foot,yes,yes,650.6,6701.2,foot,yes,yes,650.6,6701.2,foot,yes,yes
+97,children 10-17,1661.8666666666668,8723.733333333334,no,yes,1637.8,8675.6,transit,no,yes,1673.9,8747.8,foot,no,yes,1673.9,8747.8,foot,no,yes
+98,children 10-17,2317.6,10035.2,no,yes,2317.6,10035.2,foot,no,yes,2317.6,10035.2,foot,no,yes,2317.6,10035.2,foot,no,yes
+99,children 10-17,687.2000000000002,6774.400000000001,yes,yes,687.2,6774.4,foot,yes,yes,687.2,6774.4,foot,yes,yes,687.2,6774.4,foot,yes,yes
+100,children 10-17,1652.8,8705.6,no,yes,1652.8,8705.6,foot,no,yes,1652.8,8705.6,foot,no,yes,1652.8,8705.6,foot,no,yes
+101,children 10-17,858.0,7116.0,yes,yes,858.0,7116.0,foot,yes,yes,858.0,7116.0,foot,yes,yes,858.0,7116.0,foot,yes,yes
+102,children 10-17,2949.3000000000006,11298.600000000002,no,yes,2949.3,11298.6,foot,no,yes,2949.3,11298.6,foot,no,yes,2949.3,11298.6,foot,no,yes
+103,children 10-17,3648.8000000000006,12697.600000000002,no,yes,3648.8,12697.6,foot,no,yes,3648.8,12697.6,foot,no,yes,3648.8,12697.6,foot,no,yes
+0,,,,,,,,transit,yes,yes,,,,,,,,,,
+0,,,,,,,,,,,,,transit,yes,yes,,,,,
+0,,,,,,,,,,,,,,,,,,transit,yes,yes
+0,45-64,962.6333333333332,7325.266666666666,no,yes,846.3,7092.6,transit,no,yes,1020.8,7441.6,foot,no,yes,1020.8,7441.6,foot,no,yes
+1,45-64,683.6333333333333,6767.266666666666,no,yes,664.7,6729.4,transit,no,yes,693.1,6786.2,foot,no,yes,693.1,6786.2,foot,no,yes
+2,45-64,2343.2,10086.4,no,yes,2343.2,10086.4,foot,no,yes,2343.2,10086.4,foot,no,yes,2343.2,10086.4,foot,no,yes
+3,45-64,788.6,6977.2,no,yes,748.2,6896.4,transit,no,yes,808.8,7017.6,foot,no,yes,808.8,7017.6,foot,no,yes
+4,45-64,741.8333333333334,6883.666666666667,no,yes,701.5,6803.0,transit,no,yes,762.0,6924.0,foot,no,yes,762.0,6924.0,foot,no,yes
+5,45-64,1672.2,8744.4,no,yes,1672.2,8744.4,foot,no,yes,1672.2,8744.4,foot,no,yes,1672.2,8744.4,foot,no,yes
+6,45-64,1251.3333333333333,7902.666666666666,no,yes,1050.6,7501.2,transit,no,yes,1351.7,8103.4,foot,no,yes,1351.7,8103.4,foot,no,yes
+7,45-64,704.0,6808.0,no,yes,604.8,6609.6,transit,no,yes,753.6,6907.2,foot,no,yes,753.6,6907.2,foot,no,yes
+8,45-64,824.8666666666667,7049.733333333334,no,yes,788.4,6976.8,transit,no,yes,843.1,7086.2,foot,no,yes,843.1,7086.2,foot,no,yes
+9,45-64,679.4,6758.8,no,yes,679.4,6758.8,foot,no,yes,679.4,6758.8,foot,no,yes,679.4,6758.8,foot,no,yes
+10,45-64,2376.4,10152.8,no,yes,2376.4,10152.8,foot,no,yes,2376.4,10152.8,foot,no,yes,2376.4,10152.8,foot,no,yes
+11,45-64,646.0333333333334,6692.066666666667,no,yes,504.7,6409.4,transit,no,yes,716.7,6833.4,foot,no,yes,716.7,6833.4,foot,no,yes
+12,45-64,373.8,6147.6,no,yes,373.8,6147.6,foot,no,yes,373.8,6147.6,foot,no,yes,373.8,6147.6,foot,no,yes
+13,45-64,239.5,5879.0,yes,yes,239.5,5879.0,foot,yes,yes,239.5,5879.0,foot,yes,yes,239.5,5879.0,foot,yes,yes
+14,45-64,795.2000000000002,6990.400000000001,no,yes,795.2,6990.4,foot,no,yes,795.2,6990.4,foot,no,yes,795.2,6990.4,foot,no,yes
+15,45-64,861.1,7122.2,no,yes,761.9,6923.8,transit,no,yes,910.7,7221.4,foot,no,yes,910.7,7221.4,foot,no,yes
+16,45-64,987.7333333333332,7375.466666666666,no,yes,787.0,6974.0,transit,no,yes,1088.1,7576.2,foot,no,yes,1088.1,7576.2,foot,no,yes
+17,45-64,1143.9333333333334,7687.866666666667,no,yes,923.4,7246.8,transit,no,yes,1254.2,7908.4,foot,no,yes,1254.2,7908.4,foot,no,yes
+18,45-64,601.4,6602.8,no,yes,507.4,6414.8,transit,no,yes,648.4,6696.8,foot,no,yes,648.4,6696.8,foot,no,yes
+19,45-64,1029.8,7459.6,no,yes,1029.8,7459.6,foot,no,yes,1029.8,7459.6,foot,no,yes,1029.8,7459.6,foot,no,yes
+20,45-64,1200.4,7800.8,no,yes,1200.4,7800.8,foot,no,yes,1200.4,7800.8,foot,no,yes,1200.4,7800.8,foot,no,yes
+21,45-64,822.6,7045.2,no,yes,822.6,7045.2,foot,no,yes,822.6,7045.2,foot,no,yes,822.6,7045.2,foot,no,yes
+22,45-64,748.5,6897.0,no,yes,609.3,6618.6,transit,no,yes,818.1,7036.2,foot,no,yes,818.1,7036.2,foot,no,yes
+23,45-64,706.7666666666668,6813.533333333334,no,yes,583.7,6567.4,transit,no,yes,768.3,6936.6,foot,no,yes,768.3,6936.6,foot,no,yes
+24,45-64,785.5666666666666,6971.133333333333,no,yes,662.5,6725.0,transit,no,yes,847.1,7094.2,foot,no,yes,847.1,7094.2,foot,no,yes
+25,45-64,633.0,6666.0,no,yes,633.0,6666.0,foot,no,yes,633.0,6666.0,foot,no,yes,633.0,6666.0,foot,no,yes
+26,45-64,1313.1666666666667,8026.333333333334,no,yes,1276.7,7953.4,transit,no,yes,1331.4,8062.8,foot,no,yes,1331.4,8062.8,foot,no,yes
+27,45-64,689.1,6778.2,no,yes,689.1,6778.2,foot,no,yes,689.1,6778.2,foot,no,yes,689.1,6778.2,foot,no,yes
+28,45-64,2376.6,10153.2,no,yes,2376.6,10153.2,foot,no,yes,2376.6,10153.2,foot,no,yes,2376.6,10153.2,foot,no,yes
+29,45-64,2936.6999999999994,11273.399999999998,no,yes,2936.7,11273.4,foot,no,yes,2936.7,11273.4,foot,no,yes,2936.7,11273.4,foot,no,yes
+30,45-64,576.7,6553.4,no,yes,576.7,6553.4,foot,no,yes,576.7,6553.4,foot,no,yes,576.7,6553.4,foot,no,yes
+31,45-64,608.0,6616.0,no,yes,608.0,6616.0,foot,no,yes,608.0,6616.0,foot,no,yes,608.0,6616.0,foot,no,yes
+32,45-64,622.1,6644.2,no,yes,622.1,6644.2,foot,no,yes,622.1,6644.2,foot,no,yes,622.1,6644.2,foot,no,yes
+33,45-64,1774.7,8949.4,no,yes,1774.7,8949.4,foot,no,yes,1774.7,8949.4,foot,no,yes,1774.7,8949.4,foot,no,yes
+34,45-64,1014.1,7428.2,no,yes,1014.1,7428.2,foot,no,yes,1014.1,7428.2,foot,no,yes,1014.1,7428.2,foot,no,yes
+35,45-64,1326.7,8053.4,no,yes,1326.7,8053.4,foot,no,yes,1326.7,8053.4,foot,no,yes,1326.7,8053.4,foot,no,yes
+36,45-64,501.8999999999999,6403.8,no,yes,501.9,6403.8,foot,no,yes,501.9,6403.8,foot,no,yes,501.9,6403.8,foot,no,yes
+37,45-64,2357.0,10114.0,no,yes,2357.0,10114.0,foot,no,yes,2357.0,10114.0,foot,no,yes,2357.0,10114.0,foot,no,yes
+38,45-64,2927.6,11255.2,no,yes,2927.6,11255.2,foot,no,yes,2927.6,11255.2,foot,no,yes,2927.6,11255.2,foot,no,yes
+39,45-64,794.2000000000002,6988.400000000001,no,yes,794.2,6988.4,foot,no,yes,794.2,6988.4,foot,no,yes,794.2,6988.4,foot,no,yes
+40,45-64,756.5,6913.0,no,yes,756.5,6913.0,foot,no,yes,756.5,6913.0,foot,no,yes,756.5,6913.0,foot,no,yes
+41,45-64,804.7000000000002,7009.400000000001,no,yes,804.7,7009.4,foot,no,yes,804.7,7009.4,foot,no,yes,804.7,7009.4,foot,no,yes
+42,45-64,724.9666666666667,6849.933333333333,no,yes,601.9,6603.8,transit,no,yes,786.5,6973.0,foot,no,yes,786.5,6973.0,foot,no,yes
+43,45-64,813.0,7026.0,no,yes,813.0,7026.0,foot,no,yes,813.0,7026.0,foot,no,yes,813.0,7026.0,foot,no,yes
+44,45-64,564.3,6528.6,no,yes,564.3,6528.6,foot,no,yes,564.3,6528.6,foot,no,yes,564.3,6528.6,foot,no,yes
+45,45-64,1854.4000000000003,9108.800000000001,no,yes,1854.4,9108.8,foot,no,yes,1854.4,9108.8,foot,no,yes,1854.4,9108.8,foot,no,yes
+46,45-64,560.1,6520.2,no,yes,560.1,6520.2,foot,no,yes,560.1,6520.2,foot,no,yes,560.1,6520.2,foot,no,yes
+47,45-64,852.6333333333333,7105.266666666666,no,yes,654.9,6709.8,transit,no,yes,951.5,7303.0,foot,no,yes,951.5,7303.0,foot,no,yes
+48,45-64,107.40000000000002,5614.8,yes,yes,107.4,5614.8,foot,yes,yes,107.4,5614.8,foot,yes,yes,107.4,5614.8,foot,yes,yes
+49,45-64,3218.1999999999994,11836.399999999998,no,yes,3218.2,11836.4,foot,no,yes,3218.2,11836.4,foot,no,yes,3218.2,11836.4,foot,no,yes
+50,45-64,1011.4666666666666,7422.933333333333,no,yes,870.8,7141.6,transit,no,yes,1081.8,7563.6,foot,no,yes,1081.8,7563.6,foot,no,yes
+51,45-64,852.6333333333333,7105.266666666666,no,yes,654.9,6709.8,transit,no,yes,951.5,7303.0,foot,no,yes,951.5,7303.0,foot,no,yes
+52,45-64,1010.3666666666668,7420.733333333334,no,yes,935.3,7270.6,transit,no,yes,1047.9,7495.8,foot,no,yes,1047.9,7495.8,foot,no,yes
+53,45-64,850.5333333333334,7101.066666666667,no,yes,789.2,6978.4,transit,no,yes,881.2,7162.4,foot,no,yes,881.2,7162.4,foot,no,yes
+54,45-64,712.6,6825.2,no,yes,712.6,6825.2,foot,no,yes,712.6,6825.2,foot,no,yes,712.6,6825.2,foot,no,yes
+55,45-64,776.0,6952.0,no,yes,776.0,6952.0,foot,no,yes,776.0,6952.0,foot,no,yes,776.0,6952.0,foot,no,yes
+56,45-64,332.4,6064.8,no,yes,332.4,6064.8,foot,no,yes,332.4,6064.8,foot,no,yes,332.4,6064.8,foot,no,yes
+57,45-64,677.0,6754.0,no,yes,677.0,6754.0,foot,no,yes,677.0,6754.0,foot,no,yes,677.0,6754.0,foot,no,yes
+58,45-64,874.4,7148.8,no,yes,874.4,7148.8,foot,no,yes,874.4,7148.8,foot,no,yes,874.4,7148.8,foot,no,yes
+59,45-64,1039.1333333333332,7478.266666666666,no,yes,961.8,7323.6,transit,no,yes,1077.8,7555.6,foot,no,yes,1077.8,7555.6,foot,no,yes
+60,45-64,1733.2666666666667,8866.533333333333,no,yes,1709.2,8818.4,transit,no,yes,1745.3,8890.6,foot,no,yes,1745.3,8890.6,foot,no,yes
+61,45-64,646.0333333333334,6692.066666666667,no,yes,504.7,6409.4,transit,no,yes,716.7,6833.4,foot,no,yes,716.7,6833.4,foot,no,yes
+62,45-64,2949.3000000000006,11298.600000000002,no,yes,2949.3,11298.6,foot,no,yes,2949.3,11298.6,foot,no,yes,2949.3,11298.6,foot,no,yes
+63,45-64,467.8,6335.6,no,yes,467.8,6335.6,foot,no,yes,467.8,6335.6,foot,no,yes,467.8,6335.6,foot,no,yes
+64,45-64,843.1,7086.2,no,yes,843.1,7086.2,foot,no,yes,843.1,7086.2,foot,no,yes,843.1,7086.2,foot,no,yes
+65,45-64,683.5333333333333,6767.066666666667,no,yes,616.4,6632.8,transit,no,yes,717.1,6834.2,foot,no,yes,717.1,6834.2,foot,no,yes
+66,45-64,756.5,6913.0,no,yes,756.5,6913.0,foot,no,yes,756.5,6913.0,foot,no,yes,756.5,6913.0,foot,no,yes
+67,45-64,148.8,5697.6,yes,yes,148.8,5697.6,foot,yes,yes,148.8,5697.6,foot,yes,yes,148.8,5697.6,foot,yes,yes
+68,45-64,790.7999999999998,6981.599999999999,no,yes,790.8,6981.6,foot,no,yes,790.8,6981.6,foot,no,yes,790.8,6981.6,foot,no,yes
+69,45-64,2125.6,9651.2,no,yes,2125.6,9651.2,foot,no,yes,2125.6,9651.2,foot,no,yes,2125.6,9651.2,foot,no,yes
+70,45-64,749.1,6898.2,no,yes,749.1,6898.2,foot,no,yes,749.1,6898.2,foot,no,yes,749.1,6898.2,foot,no,yes
+71,45-64,1814.8,9029.6,no,yes,1814.8,9029.6,foot,no,yes,1814.8,9029.6,foot,no,yes,1814.8,9029.6,foot,no,yes
+72,45-64,148.8,5697.6,yes,yes,148.8,5697.6,foot,yes,yes,148.8,5697.6,foot,yes,yes,148.8,5697.6,foot,yes,yes
+73,45-64,1060.7,7521.4,no,yes,1060.7,7521.4,foot,no,yes,1060.7,7521.4,foot,no,yes,1060.7,7521.4,foot,no,yes
+74,45-64,713.2999999999998,6826.599999999999,no,yes,713.3,6826.6,foot,no,yes,713.3,6826.6,foot,no,yes,713.3,6826.6,foot,no,yes
+75,45-64,744.2999999999998,6888.599999999999,no,yes,744.3,6888.6,foot,no,yes,744.3,6888.6,foot,no,yes,744.3,6888.6,foot,no,yes
+76,45-64,738.5333333333333,6877.066666666667,no,yes,601.4,6602.8,transit,no,yes,807.1,7014.2,foot,no,yes,807.1,7014.2,foot,no,yes
+77,45-64,909.2999999999998,7218.599999999999,no,yes,909.3,7218.6,foot,no,yes,909.3,7218.6,foot,no,yes,909.3,7218.6,foot,no,yes
+78,45-64,2311.1,10022.2,no,yes,2311.1,10022.2,foot,no,yes,2311.1,10022.2,foot,no,yes,2311.1,10022.2,foot,no,yes
+79,45-64,945.6,7291.2,no,yes,848.2,7096.4,transit,no,yes,994.3,7388.6,foot,no,yes,994.3,7388.6,foot,no,yes
+80,45-64,1029.8,7459.6,no,yes,1029.8,7459.6,foot,no,yes,1029.8,7459.6,foot,no,yes,1029.8,7459.6,foot,no,yes
+81,45-64,789.5,6979.0,no,yes,789.5,6979.0,foot,no,yes,789.5,6979.0,foot,no,yes,789.5,6979.0,foot,no,yes
+82,45-64,1798.2,8996.4,no,yes,1798.2,8996.4,foot,no,yes,1798.2,8996.4,foot,no,yes,1798.2,8996.4,foot,no,yes
+83,45-64,712.9,6825.8,no,yes,712.9,6825.8,foot,no,yes,712.9,6825.8,foot,no,yes,712.9,6825.8,foot,no,yes
+84,45-64,1238.1,7876.2,no,yes,1238.1,7876.2,foot,no,yes,1238.1,7876.2,foot,no,yes,1238.1,7876.2,foot,no,yes
+85,45-64,2411.6,10223.2,no,yes,2411.6,10223.2,foot,no,yes,2411.6,10223.2,foot,no,yes,2411.6,10223.2,foot,no,yes
+86,45-64,713.6666666666666,6827.333333333333,no,yes,590.6,6581.2,transit,no,yes,775.2,6950.4,foot,no,yes,775.2,6950.4,foot,no,yes
+87,45-64,686.5,6773.0,no,yes,554.5,6509.0,transit,no,yes,752.5,6905.0,foot,no,yes,752.5,6905.0,foot,no,yes
+88,45-64,750.6999999999999,6901.4,no,yes,710.3,6820.6,transit,no,yes,770.9,6941.8,foot,no,yes,770.9,6941.8,foot,no,yes
+89,45-64,1019.0,7438.0,no,yes,1019.0,7438.0,foot,no,yes,1019.0,7438.0,foot,no,yes,1019.0,7438.0,foot,no,yes
+90,45-64,842.3333333333334,7084.666666666667,no,yes,743.2,6886.4,transit,no,yes,891.9,7183.8,foot,no,yes,891.9,7183.8,foot,no,yes
+91,45-64,604.9,6609.8,no,yes,604.9,6609.8,foot,no,yes,604.9,6609.8,foot,no,yes,604.9,6609.8,foot,no,yes
+92,45-64,700.2999999999998,6800.599999999999,no,yes,700.3,6800.6,foot,no,yes,700.3,6800.6,foot,no,yes,700.3,6800.6,foot,no,yes
+93,45-64,143.8,5687.6,yes,yes,143.8,5687.6,foot,yes,yes,143.8,5687.6,foot,yes,yes,143.8,5687.6,foot,yes,yes
+94,45-64,2675.4,10750.8,no,yes,2675.4,10750.8,foot,no,yes,2675.4,10750.8,foot,no,yes,2675.4,10750.8,foot,no,yes
+95,45-64,706.8333333333334,6813.666666666667,no,yes,607.7,6615.4,transit,no,yes,756.4,6912.8,foot,no,yes,756.4,6912.8,foot,no,yes
+96,45-64,650.6,6701.2,no,yes,650.6,6701.2,foot,no,yes,650.6,6701.2,foot,no,yes,650.6,6701.2,foot,no,yes
+97,45-64,1661.8666666666668,8723.733333333334,no,yes,1637.8,8675.6,transit,no,yes,1673.9,8747.8,foot,no,yes,1673.9,8747.8,foot,no,yes
+98,45-64,2317.6,10035.2,no,yes,2317.6,10035.2,foot,no,yes,2317.6,10035.2,foot,no,yes,2317.6,10035.2,foot,no,yes
+99,45-64,687.2000000000002,6774.400000000001,no,yes,687.2,6774.4,foot,no,yes,687.2,6774.4,foot,no,yes,687.2,6774.4,foot,no,yes
+100,45-64,1652.8,8705.6,no,yes,1652.8,8705.6,foot,no,yes,1652.8,8705.6,foot,no,yes,1652.8,8705.6,foot,no,yes
+101,45-64,858.0,7116.0,no,yes,858.0,7116.0,foot,no,yes,858.0,7116.0,foot,no,yes,858.0,7116.0,foot,no,yes
+102,45-64,2949.3000000000006,11298.600000000002,no,yes,2949.3,11298.6,foot,no,yes,2949.3,11298.6,foot,no,yes,2949.3,11298.6,foot,no,yes
+103,45-64,3648.8000000000006,12697.600000000002,no,yes,3648.8,12697.6,foot,no,yes,3648.8,12697.6,foot,no,yes,3648.8,12697.6,foot,no,yes
+0,,,,,,,,transit,yes,yes,,,,,,,,,,
+0,,,,,,,,,,,,,transit,yes,yes,,,,,
+0,,,,,,,,,,,,,,,,,,transit,yes,yes
+0,65 and over,962.6333333333332,7325.266666666666,no,yes,846.3,7092.6,transit,no,yes,1020.8,7441.6,foot,no,yes,1020.8,7441.6,foot,no,yes
+1,65 and over,683.6333333333333,6767.266666666666,no,yes,664.7,6729.4,transit,no,yes,693.1,6786.2,foot,no,yes,693.1,6786.2,foot,no,yes
+2,65 and over,2343.2,10086.4,no,yes,2343.2,10086.4,foot,no,yes,2343.2,10086.4,foot,no,yes,2343.2,10086.4,foot,no,yes
+3,65 and over,788.6,6977.2,no,yes,748.2,6896.4,transit,no,yes,808.8,7017.6,foot,no,yes,808.8,7017.6,foot,no,yes
+4,65 and over,741.8333333333334,6883.666666666667,no,yes,701.5,6803.0,transit,no,yes,762.0,6924.0,foot,no,yes,762.0,6924.0,foot,no,yes
+5,65 and over,1672.2,8744.4,no,yes,1672.2,8744.4,foot,no,yes,1672.2,8744.4,foot,no,yes,1672.2,8744.4,foot,no,yes
+6,65 and over,1251.3333333333333,7902.666666666666,no,yes,1050.6,7501.2,transit,no,yes,1351.7,8103.4,foot,no,yes,1351.7,8103.4,foot,no,yes
+7,65 and over,704.0,6808.0,no,yes,604.8,6609.6,transit,no,yes,753.6,6907.2,foot,no,yes,753.6,6907.2,foot,no,yes
+8,65 and over,824.8666666666667,7049.733333333334,no,yes,788.4,6976.8,transit,no,yes,843.1,7086.2,foot,no,yes,843.1,7086.2,foot,no,yes
+9,65 and over,679.4,6758.8,no,yes,679.4,6758.8,foot,no,yes,679.4,6758.8,foot,no,yes,679.4,6758.8,foot,no,yes
+10,65 and over,2376.4,10152.8,no,yes,2376.4,10152.8,foot,no,yes,2376.4,10152.8,foot,no,yes,2376.4,10152.8,foot,no,yes
+11,65 and over,646.0333333333334,6692.066666666667,no,yes,504.7,6409.4,transit,yes,yes,716.7,6833.4,foot,no,yes,716.7,6833.4,foot,no,yes
+12,65 and over,373.8,6147.6,yes,yes,373.8,6147.6,foot,yes,yes,373.8,6147.6,foot,yes,yes,373.8,6147.6,foot,yes,yes
+13,65 and over,239.5,5879.0,yes,yes,239.5,5879.0,foot,yes,yes,239.5,5879.0,foot,yes,yes,239.5,5879.0,foot,yes,yes
+14,65 and over,795.2000000000002,6990.400000000001,no,yes,795.2,6990.4,foot,no,yes,795.2,6990.4,foot,no,yes,795.2,6990.4,foot,no,yes
+15,65 and over,861.1,7122.2,no,yes,761.9,6923.8,transit,no,yes,910.7,7221.4,foot,no,yes,910.7,7221.4,foot,no,yes
+16,65 and over,987.7333333333332,7375.466666666666,no,yes,787.0,6974.0,transit,no,yes,1088.1,7576.2,foot,no,yes,1088.1,7576.2,foot,no,yes
+17,65 and over,1143.9333333333334,7687.866666666667,no,yes,923.4,7246.8,transit,no,yes,1254.2,7908.4,foot,no,yes,1254.2,7908.4,foot,no,yes
+18,65 and over,601.4,6602.8,no,yes,507.4,6414.8,transit,yes,yes,648.4,6696.8,foot,no,yes,648.4,6696.8,foot,no,yes
+19,65 and over,1029.8,7459.6,no,yes,1029.8,7459.6,foot,no,yes,1029.8,7459.6,foot,no,yes,1029.8,7459.6,foot,no,yes
+20,65 and over,1200.4,7800.8,no,yes,1200.4,7800.8,foot,no,yes,1200.4,7800.8,foot,no,yes,1200.4,7800.8,foot,no,yes
+21,65 and over,822.6,7045.2,no,yes,822.6,7045.2,foot,no,yes,822.6,7045.2,foot,no,yes,822.6,7045.2,foot,no,yes
+22,65 and over,748.5,6897.0,no,yes,609.3,6618.6,transit,no,yes,818.1,7036.2,foot,no,yes,818.1,7036.2,foot,no,yes
+23,65 and over,706.7666666666668,6813.533333333334,no,yes,583.7,6567.4,transit,no,yes,768.3,6936.6,foot,no,yes,768.3,6936.6,foot,no,yes
+24,65 and over,785.5666666666666,6971.133333333333,no,yes,662.5,6725.0,transit,no,yes,847.1,7094.2,foot,no,yes,847.1,7094.2,foot,no,yes
+25,65 and over,633.0,6666.0,no,yes,633.0,6666.0,foot,no,yes,633.0,6666.0,foot,no,yes,633.0,6666.0,foot,no,yes
+26,65 and over,1313.1666666666667,8026.333333333334,no,yes,1276.7,7953.4,transit,no,yes,1331.4,8062.8,foot,no,yes,1331.4,8062.8,foot,no,yes
+27,65 and over,689.1,6778.2,no,yes,689.1,6778.2,foot,no,yes,689.1,6778.2,foot,no,yes,689.1,6778.2,foot,no,yes
+28,65 and over,2376.6,10153.2,no,yes,2376.6,10153.2,foot,no,yes,2376.6,10153.2,foot,no,yes,2376.6,10153.2,foot,no,yes
+29,65 and over,2936.6999999999994,11273.399999999998,no,yes,2936.7,11273.4,foot,no,yes,2936.7,11273.4,foot,no,yes,2936.7,11273.4,foot,no,yes
+30,65 and over,576.7,6553.4,no,yes,576.7,6553.4,foot,no,yes,576.7,6553.4,foot,no,yes,576.7,6553.4,foot,no,yes
+31,65 and over,608.0,6616.0,no,yes,608.0,6616.0,foot,no,yes,608.0,6616.0,foot,no,yes,608.0,6616.0,foot,no,yes
+32,65 and over,622.1,6644.2,no,yes,622.1,6644.2,foot,no,yes,622.1,6644.2,foot,no,yes,622.1,6644.2,foot,no,yes
+33,65 and over,1774.7,8949.4,no,yes,1774.7,8949.4,foot,no,yes,1774.7,8949.4,foot,no,yes,1774.7,8949.4,foot,no,yes
+34,65 and over,1014.1,7428.2,no,yes,1014.1,7428.2,foot,no,yes,1014.1,7428.2,foot,no,yes,1014.1,7428.2,foot,no,yes
+35,65 and over,1326.7,8053.4,no,yes,1326.7,8053.4,foot,no,yes,1326.7,8053.4,foot,no,yes,1326.7,8053.4,foot,no,yes
+36,65 and over,501.8999999999999,6403.8,yes,yes,501.9,6403.8,foot,yes,yes,501.9,6403.8,foot,yes,yes,501.9,6403.8,foot,yes,yes
+37,65 and over,2357.0,10114.0,no,yes,2357.0,10114.0,foot,no,yes,2357.0,10114.0,foot,no,yes,2357.0,10114.0,foot,no,yes
+38,65 and over,2927.6,11255.2,no,yes,2927.6,11255.2,foot,no,yes,2927.6,11255.2,foot,no,yes,2927.6,11255.2,foot,no,yes
+39,65 and over,794.2000000000002,6988.400000000001,no,yes,794.2,6988.4,foot,no,yes,794.2,6988.4,foot,no,yes,794.2,6988.4,foot,no,yes
+40,65 and over,756.5,6913.0,no,yes,756.5,6913.0,foot,no,yes,756.5,6913.0,foot,no,yes,756.5,6913.0,foot,no,yes
+41,65 and over,804.7000000000002,7009.400000000001,no,yes,804.7,7009.4,foot,no,yes,804.7,7009.4,foot,no,yes,804.7,7009.4,foot,no,yes
+42,65 and over,724.9666666666667,6849.933333333333,no,yes,601.9,6603.8,transit,no,yes,786.5,6973.0,foot,no,yes,786.5,6973.0,foot,no,yes
+43,65 and over,813.0,7026.0,no,yes,813.0,7026.0,foot,no,yes,813.0,7026.0,foot,no,yes,813.0,7026.0,foot,no,yes
+44,65 and over,564.3,6528.6,no,yes,564.3,6528.6,foot,no,yes,564.3,6528.6,foot,no,yes,564.3,6528.6,foot,no,yes
+45,65 and over,1854.4000000000003,9108.800000000001,no,yes,1854.4,9108.8,foot,no,yes,1854.4,9108.8,foot,no,yes,1854.4,9108.8,foot,no,yes
+46,65 and over,560.1,6520.2,no,yes,560.1,6520.2,foot,no,yes,560.1,6520.2,foot,no,yes,560.1,6520.2,foot,no,yes
+47,65 and over,852.6333333333333,7105.266666666666,no,yes,654.9,6709.8,transit,no,yes,951.5,7303.0,foot,no,yes,951.5,7303.0,foot,no,yes
+48,65 and over,107.40000000000002,5614.8,yes,yes,107.4,5614.8,foot,yes,yes,107.4,5614.8,foot,yes,yes,107.4,5614.8,foot,yes,yes
+49,65 and over,3218.1999999999994,11836.399999999998,no,yes,3218.2,11836.4,foot,no,yes,3218.2,11836.4,foot,no,yes,3218.2,11836.4,foot,no,yes
+50,65 and over,1011.4666666666666,7422.933333333333,no,yes,870.8,7141.6,transit,no,yes,1081.8,7563.6,foot,no,yes,1081.8,7563.6,foot,no,yes
+51,65 and over,852.6333333333333,7105.266666666666,no,yes,654.9,6709.8,transit,no,yes,951.5,7303.0,foot,no,yes,951.5,7303.0,foot,no,yes
+52,65 and over,1010.3666666666668,7420.733333333334,no,yes,935.3,7270.6,transit,no,yes,1047.9,7495.8,foot,no,yes,1047.9,7495.8,foot,no,yes
+53,65 and over,850.5333333333334,7101.066666666667,no,yes,789.2,6978.4,transit,no,yes,881.2,7162.4,foot,no,yes,881.2,7162.4,foot,no,yes
+54,65 and over,712.6,6825.2,no,yes,712.6,6825.2,foot,no,yes,712.6,6825.2,foot,no,yes,712.6,6825.2,foot,no,yes
+55,65 and over,776.0,6952.0,no,yes,776.0,6952.0,foot,no,yes,776.0,6952.0,foot,no,yes,776.0,6952.0,foot,no,yes
+56,65 and over,332.4,6064.8,yes,yes,332.4,6064.8,foot,yes,yes,332.4,6064.8,foot,yes,yes,332.4,6064.8,foot,yes,yes
+57,65 and over,677.0,6754.0,no,yes,677.0,6754.0,foot,no,yes,677.0,6754.0,foot,no,yes,677.0,6754.0,foot,no,yes
+58,65 and over,874.4,7148.8,no,yes,874.4,7148.8,foot,no,yes,874.4,7148.8,foot,no,yes,874.4,7148.8,foot,no,yes
+59,65 and over,1039.1333333333332,7478.266666666666,no,yes,961.8,7323.6,transit,no,yes,1077.8,7555.6,foot,no,yes,1077.8,7555.6,foot,no,yes
+60,65 and over,1733.2666666666667,8866.533333333333,no,yes,1709.2,8818.4,transit,no,yes,1745.3,8890.6,foot,no,yes,1745.3,8890.6,foot,no,yes
+61,65 and over,646.0333333333334,6692.066666666667,no,yes,504.7,6409.4,transit,yes,yes,716.7,6833.4,foot,no,yes,716.7,6833.4,foot,no,yes
+62,65 and over,2949.3000000000006,11298.600000000002,no,yes,2949.3,11298.6,foot,no,yes,2949.3,11298.6,foot,no,yes,2949.3,11298.6,foot,no,yes
+63,65 and over,467.8,6335.6,yes,yes,467.8,6335.6,foot,yes,yes,467.8,6335.6,foot,yes,yes,467.8,6335.6,foot,yes,yes
+64,65 and over,843.1,7086.2,no,yes,843.1,7086.2,foot,no,yes,843.1,7086.2,foot,no,yes,843.1,7086.2,foot,no,yes
+65,65 and over,683.5333333333333,6767.066666666667,no,yes,616.4,6632.8,transit,no,yes,717.1,6834.2,foot,no,yes,717.1,6834.2,foot,no,yes
+66,65 and over,756.5,6913.0,no,yes,756.5,6913.0,foot,no,yes,756.5,6913.0,foot,no,yes,756.5,6913.0,foot,no,yes
+67,65 and over,148.8,5697.6,yes,yes,148.8,5697.6,foot,yes,yes,148.8,5697.6,foot,yes,yes,148.8,5697.6,foot,yes,yes
+68,65 and over,790.7999999999998,6981.599999999999,no,yes,790.8,6981.6,foot,no,yes,790.8,6981.6,foot,no,yes,790.8,6981.6,foot,no,yes
+69,65 and over,2125.6,9651.2,no,yes,2125.6,9651.2,foot,no,yes,2125.6,9651.2,foot,no,yes,2125.6,9651.2,foot,no,yes
+70,65 and over,749.1,6898.2,no,yes,749.1,6898.2,foot,no,yes,749.1,6898.2,foot,no,yes,749.1,6898.2,foot,no,yes
+71,65 and over,1814.8,9029.6,no,yes,1814.8,9029.6,foot,no,yes,1814.8,9029.6,foot,no,yes,1814.8,9029.6,foot,no,yes
+72,65 and over,148.8,5697.6,yes,yes,148.8,5697.6,foot,yes,yes,148.8,5697.6,foot,yes,yes,148.8,5697.6,foot,yes,yes
+73,65 and over,1060.7,7521.4,no,yes,1060.7,7521.4,foot,no,yes,1060.7,7521.4,foot,no,yes,1060.7,7521.4,foot,no,yes
+74,65 and over,713.2999999999998,6826.599999999999,no,yes,713.3,6826.6,foot,no,yes,713.3,6826.6,foot,no,yes,713.3,6826.6,foot,no,yes
+75,65 and over,744.2999999999998,6888.599999999999,no,yes,744.3,6888.6,foot,no,yes,744.3,6888.6,foot,no,yes,744.3,6888.6,foot,no,yes
+76,65 and over,738.5333333333333,6877.066666666667,no,yes,601.4,6602.8,transit,no,yes,807.1,7014.2,foot,no,yes,807.1,7014.2,foot,no,yes
+77,65 and over,909.2999999999998,7218.599999999999,no,yes,909.3,7218.6,foot,no,yes,909.3,7218.6,foot,no,yes,909.3,7218.6,foot,no,yes
+78,65 and over,2311.1,10022.2,no,yes,2311.1,10022.2,foot,no,yes,2311.1,10022.2,foot,no,yes,2311.1,10022.2,foot,no,yes
+79,65 and over,945.6,7291.2,no,yes,848.2,7096.4,transit,no,yes,994.3,7388.6,foot,no,yes,994.3,7388.6,foot,no,yes
+80,65 and over,1029.8,7459.6,no,yes,1029.8,7459.6,foot,no,yes,1029.8,7459.6,foot,no,yes,1029.8,7459.6,foot,no,yes
+81,65 and over,789.5,6979.0,no,yes,789.5,6979.0,foot,no,yes,789.5,6979.0,foot,no,yes,789.5,6979.0,foot,no,yes
+82,65 and over,1798.2,8996.4,no,yes,1798.2,8996.4,foot,no,yes,1798.2,8996.4,foot,no,yes,1798.2,8996.4,foot,no,yes
+83,65 and over,712.9,6825.8,no,yes,712.9,6825.8,foot,no,yes,712.9,6825.8,foot,no,yes,712.9,6825.8,foot,no,yes
+84,65 and over,1238.1,7876.2,no,yes,1238.1,7876.2,foot,no,yes,1238.1,7876.2,foot,no,yes,1238.1,7876.2,foot,no,yes
+85,65 and over,2411.6,10223.2,no,yes,2411.6,10223.2,foot,no,yes,2411.6,10223.2,foot,no,yes,2411.6,10223.2,foot,no,yes
+86,65 and over,713.6666666666666,6827.333333333333,no,yes,590.6,6581.2,transit,no,yes,775.2,6950.4,foot,no,yes,775.2,6950.4,foot,no,yes
+87,65 and over,686.5,6773.0,no,yes,554.5,6509.0,transit,no,yes,752.5,6905.0,foot,no,yes,752.5,6905.0,foot,no,yes
+88,65 and over,750.6999999999999,6901.4,no,yes,710.3,6820.6,transit,no,yes,770.9,6941.8,foot,no,yes,770.9,6941.8,foot,no,yes
+89,65 and over,1019.0,7438.0,no,yes,1019.0,7438.0,foot,no,yes,1019.0,7438.0,foot,no,yes,1019.0,7438.0,foot,no,yes
+90,65 and over,842.3333333333334,7084.666666666667,no,yes,743.2,6886.4,transit,no,yes,891.9,7183.8,foot,no,yes,891.9,7183.8,foot,no,yes
+91,65 and over,604.9,6609.8,no,yes,604.9,6609.8,foot,no,yes,604.9,6609.8,foot,no,yes,604.9,6609.8,foot,no,yes
+92,65 and over,700.2999999999998,6800.599999999999,no,yes,700.3,6800.6,foot,no,yes,700.3,6800.6,foot,no,yes,700.3,6800.6,foot,no,yes
+93,65 and over,143.8,5687.6,yes,yes,143.8,5687.6,foot,yes,yes,143.8,5687.6,foot,yes,yes,143.8,5687.6,foot,yes,yes
+94,65 and over,2675.4,10750.8,no,yes,2675.4,10750.8,foot,no,yes,2675.4,10750.8,foot,no,yes,2675.4,10750.8,foot,no,yes
+95,65 and over,706.8333333333334,6813.666666666667,no,yes,607.7,6615.4,transit,no,yes,756.4,6912.8,foot,no,yes,756.4,6912.8,foot,no,yes
+96,65 and over,650.6,6701.2,no,yes,650.6,6701.2,foot,no,yes,650.6,6701.2,foot,no,yes,650.6,6701.2,foot,no,yes
+97,65 and over,1661.8666666666668,8723.733333333334,no,yes,1637.8,8675.6,transit,no,yes,1673.9,8747.8,foot,no,yes,1673.9,8747.8,foot,no,yes
+98,65 and over,2317.6,10035.2,no,yes,2317.6,10035.2,foot,no,yes,2317.6,10035.2,foot,no,yes,2317.6,10035.2,foot,no,yes
+99,65 and over,687.2000000000002,6774.400000000001,no,yes,687.2,6774.4,foot,no,yes,687.2,6774.4,foot,no,yes,687.2,6774.4,foot,no,yes
+100,65 and over,1652.8,8705.6,no,yes,1652.8,8705.6,foot,no,yes,1652.8,8705.6,foot,no,yes,1652.8,8705.6,foot,no,yes
+101,65 and over,858.0,7116.0,no,yes,858.0,7116.0,foot,no,yes,858.0,7116.0,foot,no,yes,858.0,7116.0,foot,no,yes
+102,65 and over,2949.3000000000006,11298.600000000002,no,yes,2949.3,11298.6,foot,no,yes,2949.3,11298.6,foot,no,yes,2949.3,11298.6,foot,no,yes
+103,65 and over,3648.8000000000006,12697.600000000002,no,yes,3648.8,12697.6,foot,no,yes,3648.8,12697.6,foot,no,yes,3648.8,12697.6,foot,no,yes

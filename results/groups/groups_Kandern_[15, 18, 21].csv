@@ -1,0 +1,537 @@
+,group,average travel time,average visit time,average likely,average possible,15 travel time,15 visit time,15 mode,15 likely,15 possible,18 travel time,18 visit time,18 mode,18 likely,18 possible,21 travel time,21 visit time,21 mode,21 likely,21 possible
+0,,,,yes,yes,,,,,,,,,,,,,,,
+0,,,,,,,,transit,yes,yes,,,,,,,,,,
+0,,,,,,,,,,,,,transit,yes,yes,,,,,
+0,,,,,,,,,,,,,,,,,,transit,yes,yes
+0,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+1,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+2,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+3,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+4,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+5,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+6,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+7,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+8,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+9,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+10,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+11,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+12,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+13,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+14,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+15,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+16,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+17,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+18,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+19,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+20,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+21,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+22,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+23,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+24,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+25,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+26,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+27,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+28,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+29,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+30,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+31,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+32,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+33,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+34,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+35,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+36,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+37,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+38,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+39,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+40,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+41,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+42,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+43,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+44,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+45,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+46,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+47,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+48,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+49,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+50,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+51,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+52,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+53,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+54,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+55,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+56,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+57,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+58,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+59,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+60,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+61,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+62,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+63,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+64,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+65,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+66,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+67,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+68,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+69,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+70,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+71,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+72,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+73,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+74,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+75,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+76,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+77,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+78,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+79,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+80,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+81,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+82,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+83,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+84,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+85,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+86,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+87,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+88,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+89,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+90,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+91,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+92,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+93,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+94,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+95,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+96,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+97,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+98,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+99,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+100,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+101,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+102,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+103,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+0,,,,,,,,transit,yes,yes,,,,,,,,,,
+0,,,,,,,,,,,,,transit,yes,yes,,,,,
+0,,,,,,,,,,,,,,,,,,transit,yes,yes
+0,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+1,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+2,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+3,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+4,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+5,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+6,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+7,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+8,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+9,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+10,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+11,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+12,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+13,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+14,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+15,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+16,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+17,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+18,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+19,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+20,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+21,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+22,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+23,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+24,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+25,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+26,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+27,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+28,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+29,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+30,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+31,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+32,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+33,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+34,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+35,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+36,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+37,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+38,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+39,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+40,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+41,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+42,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+43,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+44,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+45,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+46,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+47,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+48,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+49,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+50,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+51,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+52,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+53,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+54,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+55,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+56,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+57,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+58,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+59,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+60,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+61,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+62,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+63,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+64,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+65,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+66,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+67,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+68,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+69,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+70,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+71,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+72,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+73,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+74,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+75,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+76,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+77,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+78,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+79,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+80,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+81,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+82,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+83,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+84,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+85,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+86,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+87,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+88,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+89,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+90,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+91,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+92,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+93,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+94,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+95,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+96,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+97,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+98,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+99,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+100,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+101,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+102,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+103,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+0,,,,,,,,transit,yes,yes,,,,,,,,,,
+0,,,,,,,,,,,,,transit,yes,yes,,,,,
+0,,,,,,,,,,,,,,,,,,transit,yes,yes
+0,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+1,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+2,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+3,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+4,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+5,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+6,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+7,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+8,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+9,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+10,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+11,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+12,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+13,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+14,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+15,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+16,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+17,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+18,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+19,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+20,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+21,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+22,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+23,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+24,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+25,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+26,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+27,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+28,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+29,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+30,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+31,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+32,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+33,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+34,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+35,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+36,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+37,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+38,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+39,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+40,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+41,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+42,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+43,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+44,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+45,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+46,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+47,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+48,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+49,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+50,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+51,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+52,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+53,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+54,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+55,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+56,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+57,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+58,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+59,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+60,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+61,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+62,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+63,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+64,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+65,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+66,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+67,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+68,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+69,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+70,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+71,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+72,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+73,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+74,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+75,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+76,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+77,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+78,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+79,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+80,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+81,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+82,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+83,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+84,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+85,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+86,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+87,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+88,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+89,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+90,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+91,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+92,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+93,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+94,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+95,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+96,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+97,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+98,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+99,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+100,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+101,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+102,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+103,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+0,,,,,,,,transit,yes,yes,,,,,,,,,,
+0,,,,,,,,,,,,,transit,yes,yes,,,,,
+0,,,,,,,,,,,,,,,,,,transit,yes,yes
+0,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+1,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+2,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+3,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+4,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+5,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+6,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+7,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+8,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+9,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+10,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+11,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+12,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+13,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+14,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+15,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+16,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+17,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+18,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+19,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+20,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+21,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+22,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+23,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+24,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+25,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+26,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+27,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+28,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+29,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+30,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+31,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+32,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+33,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+34,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+35,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+36,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+37,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+38,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+39,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+40,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+41,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+42,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+43,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+44,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+45,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+46,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+47,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+48,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+49,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+50,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+51,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+52,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+53,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+54,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+55,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+56,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+57,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+58,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+59,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+60,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+61,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+62,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+63,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+64,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+65,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+66,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+67,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+68,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+69,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+70,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+71,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+72,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+73,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+74,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+75,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+76,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+77,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+78,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+79,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+80,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+81,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+82,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+83,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+84,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+85,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+86,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+87,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+88,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+89,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+90,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+91,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+92,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+93,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+94,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+95,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+96,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+97,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+98,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+99,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+100,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+101,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+102,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+103,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+0,,,,,,,,transit,yes,yes,,,,,,,,,,
+0,,,,,,,,,,,,,transit,yes,yes,,,,,
+0,,,,,,,,,,,,,,,,,,transit,yes,yes
+0,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+1,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+2,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+3,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+4,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+5,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+6,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+7,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+8,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+9,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+10,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+11,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+12,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+13,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+14,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+15,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+16,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+17,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+18,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+19,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+20,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+21,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+22,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+23,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+24,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+25,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+26,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+27,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+28,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+29,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+30,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+31,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+32,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+33,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+34,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+35,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+36,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+37,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+38,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+39,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+40,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+41,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+42,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+43,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+44,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+45,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+46,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+47,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+48,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+49,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+50,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+51,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+52,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+53,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+54,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+55,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+56,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+57,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+58,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+59,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+60,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+61,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+62,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+63,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+64,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+65,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+66,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+67,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+68,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+69,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+70,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+71,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+72,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+73,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+74,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+75,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+76,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+77,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+78,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+79,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+80,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+81,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+82,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+83,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+84,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+85,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+86,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+87,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+88,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+89,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+90,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+91,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+92,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+93,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+94,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+95,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+96,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+97,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+98,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+99,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+100,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+101,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+102,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
+103,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
