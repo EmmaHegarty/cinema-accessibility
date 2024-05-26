@@ -1,0 +1,31 @@
+,variable,dependent,correlation,p_value
+0,average speed,average duration,-0.221542099147455,0.566732236627843
+1,average transit time,average duration,0.854516929269007,0.0033442560954007
+2,average amount of changes,average duration,0.26779708586553,0.48600878493914
+3,max changes,average duration,-0.0974504113522182,0.803040031541654
+4,transit is reasonable,average duration,-0.269869233855684,0.482509308555007
+5,population aggr,average duration,-0.226180537827381,0.558422657288529
+6,population density,average duration,-0.44299216018176,0.232404671884262
+7,built-up area,average duration,-0.274034462430773,0.475506946088528
+8,transit departures,average duration,-0.208724285928984,0.589926486972369
+9,transit stops,average duration,-0.16787824033595,0.665931887865822
+10,average duration,average speed,-0.221542099147455,0.566732236627843
+11,average transit time,average speed,0.164251279060753,0.672821731930237
+12,average amount of changes,average speed,0.73539972297584,0.0239476880225365
+13,max changes,average speed,0.822690712857203,0.00646782292853805
+14,transit is reasonable,average speed,0.932817319189726,0.00024222805127353
+15,population aggr,average speed,0.93059801789557,0.000270810078487686
+16,population density,average speed,0.761571813073428,0.0171034106127366
+17,built-up area,average speed,0.736442500800063,0.0236454273783977
+18,transit departures,average speed,0.927672636479534,0.000312000422989686
+19,transit stops,average speed,0.89887811013764,0.00097950615774952
+20,average speed,transit is reasonable,0.932817319189726,0.00024222805127353
+21,average duration,transit is reasonable,-0.269869233855684,0.482509308555007
+22,average transit time,transit is reasonable,0.0118338866422982,0.97589501731461
+23,average amount of changes,transit is reasonable,0.642967146343769,0.0617763508760397
+24,max changes,transit is reasonable,0.764515017271907,0.0164270381220429
+25,population aggr,transit is reasonable,0.880904466172934,0.00170523250217748
+26,population density,transit is reasonable,0.632293261503475,0.0676755156185238
+27,built-up area,transit is reasonable,0.697789783435233,0.0366122849297587
+28,transit departures,transit is reasonable,0.8729193687862,0.00212275932574837
+29,transit stops,transit is reasonable,0.836555753903247,0.0049342832383876

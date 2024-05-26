@@ -1,0 +1,112 @@
+,variable,dependent,correlation,p_value
+0,15_total_duration,average duration,0.9554559233811029,7.209496221826012e-56
+1,15_total_changes,average duration,0.6319487188903616,6.297643473432972e-13
+2,18_total_duration,average duration,0.9668760494064009,2.6350528045875068e-62
+3,18_total_changes,average duration,0.6307984361233265,7.135614936455988e-13
+4,21_total_duration,average duration,0.920128983856753,2.533225487084743e-43
+5,21_total_changes,average duration,0.670568805259538,6.8745494917070884e-15
+6,car_duration,average duration,0.7231331891387806,4.3823082378133e-18
+7,foot_duration,average duration,0.7309348922152209,1.2710780215978755e-18
+8,distance_start_centroid,average duration,0.7358241105794449,5.723691695358608e-19
+9,distance_start_cinema,average duration,0.7428370993394809,1.7663360105060377e-19
+10,15_speed,average duration,0.04884804763831645,0.6224170748690284
+11,18_speed,average duration,-0.0024482919489424645,0.9803213393642775
+12,21_speed,average duration,-0.15209395267472842,0.12324495738257288
+13,average speed,average duration,-0.02719467088680142,0.7840607240521876
+14,average duration difference to car,average duration,0.9945539871801095,5.383299680511722e-102
+15,15_trip_duration,average duration,0.9565254334268033,2.1441261890874948e-56
+16,15_transit_dur,average duration,0.7601994522988882,8.103325351074609e-21
+17,15_walk_share,average duration,-0.26909227073078085,0.005741508467751362
+18,18_trip_duration,average duration,0.9500253116088726,2.221765055834304e-53
+19,18_transit_dur,average duration,0.7715788851114241,9.296823150496553e-22
+20,18_walk_share,average duration,-0.26179586554723444,0.007263252854510254
+21,21_trip_duration,average duration,0.9030758219124135,3.163814198072032e-39
+22,21_transit_dur,average duration,0.7636639943450639,4.245901228204894e-21
+23,21_walk_share,average duration,-0.37883194650631014,7.32397514643023e-05
+24,average transit duration,average duration,0.8222520772555485,1.0248361223573734e-26
+25,population,average duration,0.2971822452798055,0.14038503753327908
+26,population aggr,average duration,,
+27,population density,average duration,,
+28,built-up area,average duration,,
+29,transit departures,average duration,,
+30,transit stops,average duration,,
+31,15 transit is reasonable,average duration,-0.08421346566105477,0.3953564420284557
+32,18 transit is reasonable,average duration,-0.09915813117168965,0.31660091046074046
+33,21 transit is reasonable,average duration,-0.22537263130271995,0.02143358107540217
+34,average changes,average duration,0.7089095704438131,3.767391317331131e-17
+35,area average changes,average duration,,
+36,level_dummy,average duration,,
+37,15_total_duration,average speed,-0.047491886939915955,0.6321230702786964
+38,15_total_changes,average speed,0.12756142680088853,0.19690054295919146
+39,18_total_duration,average speed,-0.042519149095175915,0.6682397367145173
+40,18_total_changes,average speed,0.10410323787931491,0.2929472096556385
+41,21_total_duration,average speed,0.011136839676634279,0.9106610918868783
+42,21_total_changes,average speed,0.09386037676508344,0.34327342743903305
+43,car_duration,average speed,0.5192844113813885,1.6232880954131236e-08
+44,foot_duration,average speed,0.6070879349843098,8.385373171920935e-12
+45,distance_start_centroid,average speed,0.5734947706855006,1.9777573504510796e-10
+46,distance_start_cinema,average speed,0.6009586172145692,1.534366366933043e-11
+47,average duration,average speed,-0.02719467088680142,0.7840607240521876
+48,15_speed,average speed,0.9829055890327819,8.747468738786556e-77
+49,18_speed,average speed,0.9859036989713091,5.044890341463919e-81
+50,21_speed,average speed,0.9304505588033768,2.836649734790092e-46
+51,average duration difference to car,average speed,-0.10797617647423909,0.27525969336673645
+52,15_trip_duration,average speed,0.0930077268206148,0.34769468841937756
+53,15_transit_dur,average speed,0.44169030121542063,2.6838183854348995e-06
+54,15_walk_share,average speed,-0.7871931332539785,3.8546112493554657e-23
+55,18_trip_duration,average speed,0.07433196113108957,0.4533048793415692
+56,18_transit_dur,average speed,0.42083578190924276,8.658748472397275e-06
+57,18_walk_share,average speed,-0.7987051884704262,3.0922223777005902e-24
+58,21_trip_duration,average speed,0.08926327006503942,0.36753055873048396
+59,21_transit_dur,average speed,0.24472946374368776,0.01228696795861438
+60,21_walk_share,average speed,-0.7050422563279422,6.614149243693245e-17
+61,average transit duration,average speed,0.36699667321325635,0.0001270943579929793
+62,population,average speed,-0.01403596965569287,0.9457434891296362
+63,population aggr,average speed,,
+64,population density,average speed,,
+65,built-up area,average speed,,
+66,transit departures,average speed,,
+67,transit stops,average speed,,
+68,15 transit is reasonable,average speed,0.6010092938179075,1.5268006420534347e-11
+69,18 transit is reasonable,average speed,0.6187349771093192,2.5651655233063965e-12
+70,21 transit is reasonable,average speed,0.5404867715096798,3.1764937168460196e-09
+71,average changes,average speed,0.1160898259145853,0.24057429939474298
+72,area average changes,average speed,,
+73,level_dummy,average speed,,
+74,15_total_duration,15 transit is reasonable,-0.14819166729097324,0.13327762343835534
+75,15_total_changes,15 transit is reasonable,0.19355581958324006,0.04898843769806769
+76,18_total_duration,15 transit is reasonable,-0.13720195618195147,0.16487607695522646
+77,18_total_changes,15 transit is reasonable,0.15777280636275692,0.10969572305172894
+78,21_total_duration,15 transit is reasonable,-0.004794219224111128,0.961476364689403
+79,21_total_changes,15 transit is reasonable,0.15383242641845005,0.1189669876401881
+80,car_duration,15 transit is reasonable,0.3209766652456913,0.0008933240002808926
+81,foot_duration,15 transit is reasonable,0.3553972672607209,0.00021375761103020524
+82,distance_start_centroid,15 transit is reasonable,0.3684683948040879,0.00011881175318096199
+83,distance_start_cinema,15 transit is reasonable,0.34809332056993125,0.00029358892445193656
+84,average duration,15 transit is reasonable,-0.08421346566105477,0.3953564420284557
+85,15_speed,15 transit is reasonable,0.6199389057410811,2.2632194021134345e-12
+86,18_speed,15 transit is reasonable,0.6241434233768447,1.4552773562153306e-12
+87,21_speed,15 transit is reasonable,0.5123562938443268,2.7011930152634978e-08
+88,average speed,15 transit is reasonable,0.6010092938179075,1.5268006420534347e-11
+89,average duration difference to car,15 transit is reasonable,-0.14029294046656676,0.15547482445852812
+90,15_trip_duration,15 transit is reasonable,0.05411675249602534,0.5853308681269234
+91,15_transit_dur,15 transit is reasonable,0.2334124562754284,0.01709687864342867
+92,15_walk_share,15 transit is reasonable,-0.4795333741584555,2.60096402391867e-07
+93,18_trip_duration,15 transit is reasonable,0.07494562161177279,0.4495741501995687
+94,18_transit_dur,15 transit is reasonable,0.2131860308910535,0.02979185023946317
+95,18_walk_share,15 transit is reasonable,-0.48621764793168404,1.671461470636138e-07
+96,21_trip_duration,15 transit is reasonable,0.1278745116034577,0.19579466004869064
+97,21_transit_dur,15 transit is reasonable,0.18606874510348395,0.058603964403922564
+98,21_walk_share,15 transit is reasonable,-0.5115966189930156,2.854351638980938e-08
+99,average transit duration,15 transit is reasonable,0.2281516725352344,0.019838407868724477
+100,population,15 transit is reasonable,0.09224698298930693,0.6540134558452846
+101,population aggr,15 transit is reasonable,,
+102,population density,15 transit is reasonable,,
+103,built-up area,15 transit is reasonable,,
+104,transit departures,15 transit is reasonable,,
+105,transit stops,15 transit is reasonable,,
+106,18 transit is reasonable,15 transit is reasonable,0.9704035766753725,9.223170267961887e-65
+107,21 transit is reasonable,15 transit is reasonable,0.7065867436653831,5.2884616868472185e-17
+108,average changes,15 transit is reasonable,0.18149514808443556,0.06520214301841562
+109,area average changes,15 transit is reasonable,,
+110,level_dummy,15 transit is reasonable,,
