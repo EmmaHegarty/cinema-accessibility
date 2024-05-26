@@ -18,3 +18,5 @@ LEISURE_TIME = {'typical': {'women': 6840, 'men': 6300,
                             'children 10-17': 7980, '45-64': 5940, '65 and over': 6480},
                 'available': {'women': 20640, 'men': 22380,
                               'children 10-17': 24480, '45-64': 20340, '65 and over': 25680}}
+
+LVL_DUMMY = {'top': 3, 'mid': 2, 'base': 1}
