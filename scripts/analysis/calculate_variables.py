@@ -93,7 +93,7 @@ def get_variables_per_time(df, times, filename):
 
 
 # calculate averages for all the routes from each start point
-# {args} area: df/str, times: [int], filename: str
+# {args} times: [int], filename: str
 # {returns} None, writes new file
 def get_variables_per_start(times, filename):
     df = read_csv(path.join(RESULTS_PATH, 'analysis', f'analysis_{filename}.csv'))
@@ -266,6 +266,33 @@ def get_all_variables(timesdate, count, level):
         print(f'{area} done!')
 
 
+# move results for different departure times from columns into adjoining rows
+# {args} area: str, times: [int], path_end: str
+# {returns} None, writes new file
+def get_analysis_per_time(area, times=[15, 18, 21], path_end='15-18-21_Sat_104'):
+    df = read_csv(path.join(RESULTS_PATH, 'analysis', f'analysis_{area}_{path_end}.csv'))
+
+    dfs = []
+    for t in times:
+        df[f'{t}_fastest_mode'] = df.apply(lambda row: 'transit' if row['foot_duration'] > row[f'{t}_total_duration'] else 'foot', axis=1)
+        new_df = DataFrame({
+            'total duration': df[f'{t}_total_duration'],
+            'total changes': df[f'{t}_total_changes'],
+            'speed': df[f'{t}_speed'],
+            'fastest mode': df[f'{t}_fastest_mode'],
+            'fastest overall mode': df[f'{t}_fastest_overall_mode'],
+            'walk share': df[f'{t}_walk_share'],
+            'population': df['population']
+        })
+        new_df['departure time'] = t
+        dfs.append(new_df)
+
+    concat(dfs).to_csv(path.join(RESULTS_PATH, 'analysis', f'time_analysis_{area}_{path_end}.csv'))
+
+
 if __name__ == "__main__":
     for centrality in ['top', 'mid', 'base']:
         get_all_variables('15-18-21_Sat', 104, centrality)
+
+        for name in SELECTED['top']:
+            get_analysis_per_time(name)
