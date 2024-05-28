@@ -28,8 +28,8 @@ def write_new_columns(df, times, filename=None):
         df[f'{t}_transit_dur'] = get_transit_time(df, t)
         df[f'{t}_walk_share'] = get_walk_percent(df, t, 'column')
     df['average transit duration'] = df.apply(lambda row: sum([row[f'{t2}_transit_dur'] for t2 in times]), axis=1)
-    df['average walk share'] = df.apply(lambda row: sum([row[f'{t2}_walk_share'] for t2 in times]), axis=1)
-    df['average changes'] = [get_avg_changes(df, t) for t in times]
+    df['average walk share'] = df.apply(lambda row: sum([row[f'{t2}_walk_share'] / 3 for t2 in times]), axis=1)
+    df['average changes'] = get_avg_changes(df, times)
 
     if filename is not None:
         df.loc[:, 'cinema_name'::].to_csv(path.join(RESULTS_PATH, 'analysis', f'analysis_{filename}.csv'))
@@ -152,14 +152,15 @@ def within_time_limit(area, time, prefix='analysis', path_end='15-18-21_Sat_104'
 
     first_row = DataFrame({'group': None, 'average travel time': None, 'average visit time': None,
                            'average likely': 'yes', 'average possible': 'yes'}, index=[0])
-    dfs = []
+    for t in time:
+        new_cols = DataFrame({f'{t} travel time': None, f'{t} visit time': None,
+                              f'{t} mode': 'transit', f'{t} likely': 'yes', f'{t} possible': 'yes'}, index=[0])
+        first_row = concat([first_row, new_cols], axis=1)
+
+    dfs = [first_row]
     for group in LEISURE_TIME['typical']:
         data = {'group': group}
         for t in time:
-            new_cols = DataFrame({f'{t} travel time': None, f'{t} visit time': None,
-                                  f'{t} mode': 'transit', f'{t} likely': 'yes', f'{t} possible': 'yes'}, index=[0])
-            first_row = concat([first_row, new_cols], axis=1)
-
             # add times for trip there, 90 minutes film and trip back
             df[f'{t}_visit_time'] = df.apply(
                 lambda row: row[f'{t}_chosen_route'] * 2 + 5400, axis=1)
@@ -175,8 +176,6 @@ def within_time_limit(area, time, prefix='analysis', path_end='15-18-21_Sat_104'
             data.update({f'{t} travel time': df[f'{t}_chosen_route'], f'{t} visit time': df[f'{t}_visit_time'],
                          f'{t} mode': df[f'{t}_fastest_mode'], f'{t} likely': df[f'{t}_likely_{group}'],
                          f'{t} possible': df[f'{t}_possible_{group}']})
-
-        dfs.append(first_row)
 
         # also calculate average of all departure times for each route if more than one time given
         if isinstance(time, list):
@@ -203,7 +202,7 @@ def within_time_limit(area, time, prefix='analysis', path_end='15-18-21_Sat_104'
 # {args} area: str, times: [int], time: str or int, prefix: str, path_end: str,
 # {returns} None, writes new file
 def time_limit_ratio(area, times, time='average', prefix='analysis', path_end='15-18-21_Sat_104'):
-    df = read_csv(path.join(RESULTS_PATH, 'analysis', f'{prefix}_{area}_{path_end}_groups.csv'))
+    df = read_csv(path.join(RESULTS_PATH, 'groups', f'{prefix}_{area}_{path_end}_groups.csv'))
     starts = df['start_location'].unique()
     cinemas = unique(df['cinema_name'])
 
@@ -275,6 +274,13 @@ def get_analysis_per_time(area, times=[15, 18, 21], path_end='15-18-21_Sat_104')
     dfs = []
     for t in times:
         df[f'{t}_fastest_mode'] = df.apply(lambda row: 'transit' if row['foot_duration'] > row[f'{t}_total_duration'] else 'foot', axis=1)
+
+        if 'population' not in df.columns.values:
+            print('join with pop file')
+            gdf = read_file(path.join(RESULTS_PATH, 'geo_data', 'manually_edited', f'analysis_{area}_{path_end}_pop.gpkg'))
+            df = df[df.columns.values]
+            df['population'] = gdf['population']
+
         new_df = DataFrame({
             'total duration': df[f'{t}_total_duration'],
             'total changes': df[f'{t}_total_changes'],
@@ -294,5 +300,5 @@ if __name__ == "__main__":
     for centrality in ['top', 'mid', 'base']:
         get_all_variables('15-18-21_Sat', 104, centrality)
 
-        for name in SELECTED['top']:
+        for name in SELECTED[centrality]:
             get_analysis_per_time(name)

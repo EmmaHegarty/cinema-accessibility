@@ -11,7 +11,7 @@ from scripts.constants import RESULTS_PATH, SELECTED, SELECTED_VALID, LVL_DUMMY
 def make_big_df(times, prefix='analysis', path_end='15-18-21_Sat_104'):
     dfs = []
     for level in ['top', 'mid', 'base']:
-        inkar = read_csv(path.join('data', 'INKAR-files', f'cinema-population_{level}.csv'))
+        inkar = read_csv(path.join('data', 'inkar', f'cinema-population_{level}.csv'))
         for area in SELECTED[level]:
             df = read_csv(path.join(RESULTS_PATH, 'analysis', f'{prefix}_{area}_{path_end}.csv'))
             if 'cinema_name' in df.columns.values and 'osm_cinemas' not in df.columns.values:
@@ -29,11 +29,11 @@ def make_big_df(times, prefix='analysis', path_end='15-18-21_Sat_104'):
                 df['level'] = level
                 df['level_dummy'] = LVL_DUMMY[level]
 
-            if 'population' not in df.columns.values:
-                print('join with population file')
-                gdf = read_file(path.join(RESULTS_PATH, 'geo_data', 'analysis', f'{prefix}_{area}_{path_end}_pop.gpkg'))
+            if 'Kinos' not in df.columns.values:
+                print('join with pop file')
+                gdf = read_file(
+                    path.join(RESULTS_PATH, 'geo_data', 'manually_edited', f'analysis_{area}_{path_end}_pop.gpkg'))
                 df = df[df.columns.values]
-                df['population'] = gdf['population']
 
                 irow = inkar[inkar['Raumeinheit'] == area]
                 variables = [irow[i].values[0] for i in ['Kinos', 'Bevölkerung', 'Einwohnerdichte',
@@ -51,7 +51,7 @@ def make_big_df(times, prefix='analysis', path_end='15-18-21_Sat_104'):
             # in case columns were added, save updated dataframe to file
             df.iloc[:, 1::].to_csv(path.join(RESULTS_PATH, 'analysis', f'{prefix}_{area}_{path_end}.csv'))
 
-            dfs.append(df.iloc[:, 1::].iloc[:100 * df['osm_cinemas'][0], :])
+            dfs.append(df.iloc[:, 1::])
 
     concat(dfs).to_csv(path.join(RESULTS_PATH, 'analysis', f'all_{prefix}_{path_end}.csv'))
 
@@ -64,7 +64,7 @@ def make_areas_df(only_valid=False, path_end='15-18-21_Sat_104'):
     dfs = []
     for level in ['top', 'mid', 'base']:
         rows = []
-        inkar = read_csv(path.join('data', 'INKAR-files', f'cinema-population_{level}.csv'))
+        inkar = read_csv(path.join('data', 'inkar', f'cinema-population_{level}.csv'))
         for area in selected[level]:
             df = read_csv(path.join(RESULTS_PATH, 'analysis', f'variables_{area}_{path_end}.csv'))
             irow = inkar[inkar['Raumeinheit'] == area]

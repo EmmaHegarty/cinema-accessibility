@@ -1,8 +1,5 @@
 ,group,average travel time,average visit time,average likely,average possible,15 travel time,15 visit time,15 mode,15 likely,15 possible,18 travel time,18 visit time,18 mode,18 likely,18 possible,21 travel time,21 visit time,21 mode,21 likely,21 possible
-0,,,,yes,yes,,,,,,,,,,,,,,,
-0,,,,,,,,transit,yes,yes,,,,,,,,,,
-0,,,,,,,,,,,,,transit,yes,yes,,,,,
-0,,,,,,,,,,,,,,,,,,transit,yes,yes
+0,,,,yes,yes,,,transit,yes,yes,,,transit,yes,yes,,,transit,yes,yes
 0,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
 1,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
 2,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
@@ -107,9 +104,6 @@
 101,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
 102,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
 103,women,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
-0,,,,,,,,transit,yes,yes,,,,,,,,,,
-0,,,,,,,,,,,,,transit,yes,yes,,,,,
-0,,,,,,,,,,,,,,,,,,transit,yes,yes
 0,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
 1,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
 2,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
@@ -214,9 +208,6 @@
 101,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
 102,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
 103,men,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
-0,,,,,,,,transit,yes,yes,,,,,,,,,,
-0,,,,,,,,,,,,,transit,yes,yes,,,,,
-0,,,,,,,,,,,,,,,,,,transit,yes,yes
 0,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
 1,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
 2,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
@@ -321,9 +312,6 @@
 101,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
 102,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
 103,children 10-17,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
-0,,,,,,,,transit,yes,yes,,,,,,,,,,
-0,,,,,,,,,,,,,transit,yes,yes,,,,,
-0,,,,,,,,,,,,,,,,,,transit,yes,yes
 0,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
 1,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
 2,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
@@ -428,9 +416,6 @@
 101,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
 102,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
 103,45-64,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
-0,,,,,,,,transit,yes,yes,,,,,,,,,,
-0,,,,,,,,,,,,,transit,yes,yes,,,,,
-0,,,,,,,,,,,,,,,,,,transit,yes,yes
 0,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
 1,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no
 2,65 and over,,,no,no,,,foot,no,no,,,foot,no,no,,,foot,no,no

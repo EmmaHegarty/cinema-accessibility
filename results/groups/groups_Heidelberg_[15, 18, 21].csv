@@ -1,8 +1,5 @@
 ,group,average travel time,average visit time,average likely,average possible,15 travel time,15 visit time,15 mode,15 likely,15 possible,18 travel time,18 visit time,18 mode,18 likely,18 possible,21 travel time,21 visit time,21 mode,21 likely,21 possible
-0,,,,yes,yes,,,,,,,,,,,,,,,
-0,,,,,,,,transit,yes,yes,,,,,,,,,,
-0,,,,,,,,,,,,,transit,yes,yes,,,,,
-0,,,,,,,,,,,,,,,,,,transit,yes,yes
+0,,,,yes,yes,,,transit,yes,yes,,,transit,yes,yes,,,transit,yes,yes
 0,women,598.8333333333334,6597.666666666667,yes,yes,614.5,6629.0,transit,yes,yes,614.5,6629.0,transit,yes,yes,567.5,6535.0,transit,yes,yes
 1,women,1236.8,7873.6,no,yes,1193.9,7787.8,transit,no,yes,1193.9,7787.8,transit,no,yes,1322.6,8045.2,transit,no,yes
 2,women,783.5,6967.0,no,yes,783.5,6967.0,transit,no,yes,783.5,6967.0,transit,no,yes,783.5,6967.0,transit,no,yes
@@ -419,9 +416,6 @@
 413,women,3680.6,12761.2,no,yes,2680.6,10761.2,transit,no,yes,2680.6,10761.2,transit,no,yes,5680.6,16761.2,transit,no,yes
 414,women,5623.433333333333,16646.86666666667,no,yes,6527.7,18455.4,foot,no,yes,3814.9,13029.8,transit,no,yes,6527.7,18455.4,foot,no,yes
 415,women,2819.066666666667,11038.133333333335,no,yes,1824.3,9048.6,transit,no,yes,1824.3,9048.6,transit,no,yes,4808.6,15017.2,foot,no,yes
-0,,,,,,,,transit,yes,yes,,,,,,,,,,
-0,,,,,,,,,,,,,transit,yes,yes,,,,,
-0,,,,,,,,,,,,,,,,,,transit,yes,yes
 0,men,598.8333333333334,6597.666666666667,no,yes,614.5,6629.0,transit,no,yes,614.5,6629.0,transit,no,yes,567.5,6535.0,transit,no,yes
 1,men,1236.8,7873.6,no,yes,1193.9,7787.8,transit,no,yes,1193.9,7787.8,transit,no,yes,1322.6,8045.2,transit,no,yes
 2,men,783.5,6967.0,no,yes,783.5,6967.0,transit,no,yes,783.5,6967.0,transit,no,yes,783.5,6967.0,transit,no,yes
@@ -838,9 +832,6 @@
 413,men,3680.6,12761.2,no,yes,2680.6,10761.2,transit,no,yes,2680.6,10761.2,transit,no,yes,5680.6,16761.2,transit,no,yes
 414,men,5623.433333333333,16646.86666666667,no,yes,6527.7,18455.4,foot,no,yes,3814.9,13029.8,transit,no,yes,6527.7,18455.4,foot,no,yes
 415,men,2819.066666666667,11038.133333333335,no,yes,1824.3,9048.6,transit,no,yes,1824.3,9048.6,transit,no,yes,4808.6,15017.2,foot,no,yes
-0,,,,,,,,transit,yes,yes,,,,,,,,,,
-0,,,,,,,,,,,,,transit,yes,yes,,,,,
-0,,,,,,,,,,,,,,,,,,transit,yes,yes
 0,children 10-17,598.8333333333334,6597.666666666667,yes,yes,614.5,6629.0,transit,yes,yes,614.5,6629.0,transit,yes,yes,567.5,6535.0,transit,yes,yes
 1,children 10-17,1236.8,7873.6,yes,yes,1193.9,7787.8,transit,yes,yes,1193.9,7787.8,transit,yes,yes,1322.6,8045.2,transit,no,yes
 2,children 10-17,783.5,6967.0,yes,yes,783.5,6967.0,transit,yes,yes,783.5,6967.0,transit,yes,yes,783.5,6967.0,transit,yes,yes
@@ -1257,9 +1248,6 @@
 413,children 10-17,3680.6,12761.2,no,yes,2680.6,10761.2,transit,no,yes,2680.6,10761.2,transit,no,yes,5680.6,16761.2,transit,no,yes
 414,children 10-17,5623.433333333333,16646.86666666667,no,yes,6527.7,18455.4,foot,no,yes,3814.9,13029.8,transit,no,yes,6527.7,18455.4,foot,no,yes
 415,children 10-17,2819.066666666667,11038.133333333335,no,yes,1824.3,9048.6,transit,no,yes,1824.3,9048.6,transit,no,yes,4808.6,15017.2,foot,no,yes
-0,,,,,,,,transit,yes,yes,,,,,,,,,,
-0,,,,,,,,,,,,,transit,yes,yes,,,,,
-0,,,,,,,,,,,,,,,,,,transit,yes,yes
 0,45-64,598.8333333333334,6597.666666666667,no,yes,614.5,6629.0,transit,no,yes,614.5,6629.0,transit,no,yes,567.5,6535.0,transit,no,yes
 1,45-64,1236.8,7873.6,no,yes,1193.9,7787.8,transit,no,yes,1193.9,7787.8,transit,no,yes,1322.6,8045.2,transit,no,yes
 2,45-64,783.5,6967.0,no,yes,783.5,6967.0,transit,no,yes,783.5,6967.0,transit,no,yes,783.5,6967.0,transit,no,yes
@@ -1676,9 +1664,6 @@
 413,45-64,3680.6,12761.2,no,yes,2680.6,10761.2,transit,no,yes,2680.6,10761.2,transit,no,yes,5680.6,16761.2,transit,no,yes
 414,45-64,5623.433333333333,16646.86666666667,no,yes,6527.7,18455.4,foot,no,yes,3814.9,13029.8,transit,no,yes,6527.7,18455.4,foot,no,yes
 415,45-64,2819.066666666667,11038.133333333335,no,yes,1824.3,9048.6,transit,no,yes,1824.3,9048.6,transit,no,yes,4808.6,15017.2,foot,no,yes
-0,,,,,,,,transit,yes,yes,,,,,,,,,,
-0,,,,,,,,,,,,,transit,yes,yes,,,,,
-0,,,,,,,,,,,,,,,,,,transit,yes,yes
 0,65 and over,598.8333333333334,6597.666666666667,no,yes,614.5,6629.0,transit,no,yes,614.5,6629.0,transit,no,yes,567.5,6535.0,transit,no,yes
 1,65 and over,1236.8,7873.6,no,yes,1193.9,7787.8,transit,no,yes,1193.9,7787.8,transit,no,yes,1322.6,8045.2,transit,no,yes
 2,65 and over,783.5,6967.0,no,yes,783.5,6967.0,transit,no,yes,783.5,6967.0,transit,no,yes,783.5,6967.0,transit,no,yes
