@@ -1,6 +1,6 @@
 from os import path
 from pandas import read_csv
-from plotly.express import histogram
+from plotly.express import histogram, box
 
 from scripts.constants import RESULTS_PATH, IMAGES_PATH, SELECTED
 
@@ -32,6 +32,21 @@ def bar_chart(column, color, x, filespec, prefix='analysis', path_end='15-18-21_
         fig.write_image(path.join(IMAGES_PATH, f'{filename}_{column}.jpeg'), height=img_height, scale=1.8)
 
 
+def all_box_chart(column, color, x, filespec, prefix='analysis', path_end='15-18-21_Sat_104', filename=None,
+                  title=None, labels=None, order=None):
+    df = read_csv(path.join(RESULTS_PATH, 'analysis', f'{prefix}_{filespec}_{path_end}.csv'))
+    if title is None:
+        title = f'{column} in {filespec}'
+    title = title.replace('_', ' ')
+
+    fig = box(df, x=x, y=column, color=color, title=title, labels=labels, category_orders=order)
+
+    if filename is None:
+        fig.show()
+    else:
+        fig.write_image(path.join(IMAGES_PATH, f'boxplot_{filename}_{column}.jpeg'), height=400, scale=1.8)
+
+
 if __name__ == "__main__":
     pe = '15-18-21_Sat_104'
 
@@ -41,6 +56,15 @@ if __name__ == "__main__":
                   'average duration': 'average duration (in s)',
                   'level': 'regional centrality'},
               order={'area': AREA_ORDER})
+
+    for var in ['average duration', 'average speed', 'distance_start_cinema']:
+        all_box_chart(var, 'level', 'area', 'analysis_filled', 'all', pe, 'all',
+                      title=f'data distribution {var}',
+                      labels={'average duration': 'average duration (in s)',
+                              'average speed': 'average speed (in m/s)',
+                              'distance_start_cinema': 'distance from start point to cinema (in m)',
+                              'level': 'regional centrality'},
+                      order={'area': AREA_ORDER})
 
     for name in SELECTED['top']:
         print(name)
