@@ -1,6 +1,6 @@
 from os import path
 from pandas import read_csv
-from plotly.express import histogram, box, scatter
+from plotly.express import histogram, bar, box, scatter
 
 from scripts.constants import RESULTS_PATH, IMAGES_PATH, SELECTED
 
@@ -30,6 +30,24 @@ def bar_chart(column, color, x, filespec, prefix='analysis', path_end='15-18-21_
         if prefix == 'all':
             img_height = 400
         fig.write_image(path.join(IMAGES_PATH, f'{filename}_{column}.jpeg'), height=img_height, scale=1.8)
+
+
+def actual_bar_chart(column, color, x, filespec, prefix='analysis', path_end='15-18-21_Sat_104', filename=None,
+                     folder='groups', assigned_color=None, title=None, labels=None, order=None,  barmode='relative'):
+    df = read_csv(path.join(RESULTS_PATH, folder, f'{prefix}_{filespec}_{path_end}.csv'))
+    sorted_df = df.sort_values(by=color)
+
+    if title is None:
+        title = f'{column.replace("_", " ")} in {filespec.replace("_", " ")}'
+
+    fig = bar(sorted_df, x=x, y=column, color=color, color_discrete_map=assigned_color, color_continuous_scale=['#636efa', '#ef553b'],
+              title=title, labels=labels, category_orders=order)
+    fig.update_layout(barmode=barmode, xaxis={'categoryorder': 'category descending'})
+
+    if filename is None:
+        fig.show()
+    else:
+        fig.write_image(path.join(IMAGES_PATH, f'bar_{filename}_{column}.jpg'), scale=1.8)
 
 
 def all_box_chart(column, color, x, filespec, prefix='analysis', path_end='15-18-21_Sat_104', filename=None,
@@ -116,3 +134,9 @@ if __name__ == "__main__":
                           'average likely': 'cinema is accessible<br>within "social life and<br>entertainment" time',
                           'average possible': 'cinema is accessible<br>within total leisure time'},
                       order={'group': GROUP_ORDER})
+
+        actual_bar_chart('osm_cinemas', 'likely count', 'group', name, 'groups_cum', 'average', f'likely_{name}',
+                         title=f'cinemas accessible within "social life and entertainment" time frame<br>in {name}',
+                         labels={'osm_cinemas': 'routes to cinemas',
+                                 'likely count': 'accessible<br>cinemas'},
+                         order={'group': GROUP_ORDER})
