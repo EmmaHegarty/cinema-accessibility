@@ -1,6 +1,6 @@
 from os import path
 from pandas import read_csv
-from plotly.express import histogram, box
+from plotly.express import histogram, box, scatter
 
 from scripts.constants import RESULTS_PATH, IMAGES_PATH, SELECTED
 
@@ -47,6 +47,20 @@ def all_box_chart(column, color, x, filespec, prefix='analysis', path_end='15-18
         fig.write_image(path.join(IMAGES_PATH, f'boxplot_{filename}_{column}.jpeg'), height=400, scale=1.8)
 
 
+def scatter_chart(dependent, independent, color=None, prefix='analysis', path_end='15-18-21_Sat_104', filename=None,
+                  title=None, labels=None):
+    df = read_csv(path.join(RESULTS_PATH, 'analysis', f'{prefix}_{path_end}.csv'))
+    if title is None:
+        title = f'{dependent.replace("_", " ")} / {independent.replace("_", " ")}'
+
+    fig = scatter(df, x=independent, y=dependent, color=color, title=title, labels=labels)
+
+    if filename:
+        fig.write_image(path.join(IMAGES_PATH, f'scatter_{filename}_{dependent}-{independent}.jpeg'), scale=1.8)
+    else:
+        fig.show()
+
+
 if __name__ == "__main__":
     pe = '15-18-21_Sat_104'
 
@@ -66,8 +80,26 @@ if __name__ == "__main__":
                               'level': 'regional centrality'},
                       order={'area': AREA_ORDER})
 
+    for var in ['distance_start_cinema', 'average walk share']:
+        scatter_chart('average duration', var, 'level', 'all_analysis', pe, 'all_duration',
+                      labels={'average duration': 'average duration (in s)',
+                              'distance_start_cinema': 'distance from start point to cinema (in m)',
+                              'average walk share': 'average walk share (in % of total route)',
+                              'level': 'regional centrality'})
+        scatter_chart('average speed', var, 'level', 'all_analysis', pe, 'all_speed',
+                      labels={'average speed': 'average speed (in m/s)',
+                              'distance_start_cinema': 'distance from start point to cinema (in m)',
+                              'average walk share': 'average walk share (in % of total route)',
+                              'level': 'regional centrality'})
+
     for name in SELECTED['top']:
         print(name)
+
+        for var in ['distance_start_cinema']:
+            scatter_chart('average duration', var, None, f'analysis_{name}', pe, name,
+                          title=f'average duration in {name}',
+                          labels={'average duration': 'average duration (in s)',
+                                  'distance_start_cinema': 'distance from start point to cinema (in m)'})
 
         # compare departure times
         for var in ['fastest mode', 'fastest overall mode']:
