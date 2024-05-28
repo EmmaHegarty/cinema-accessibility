@@ -87,7 +87,8 @@ if __name__ == "__main__":
               labels={
                   'average duration': 'average duration (in s)',
                   'level': 'regional centrality'},
-              order={'area': AREA_ORDER})
+              order={'area': AREA_ORDER,
+                     'level': ['top', 'mid', 'base']})
 
     for var in ['average duration', 'average speed', 'distance_start_cinema']:
         all_box_chart(var, 'level', 'area', 'analysis_filled', 'all', pe, 'all',
@@ -96,7 +97,8 @@ if __name__ == "__main__":
                               'average speed': 'average speed (in m/s)',
                               'distance_start_cinema': 'distance from start point to cinema (in m)',
                               'level': 'regional centrality'},
-                      order={'area': AREA_ORDER})
+                      order={'area': AREA_ORDER,
+                             'level': ['top', 'mid', 'base']})
 
     for var in ['distance_start_cinema', 'average walk share']:
         scatter_chart('average duration', var, 'level', 'all_analysis', pe, 'all_duration',
