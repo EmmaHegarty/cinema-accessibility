@@ -91,4 +91,4 @@ if __name__ == "__main__":
     time = [15, 18, 21]
     make_big_df(time, 'analysis')
     make_big_df(time, 'starts_variables')
-    make_areas_df(True)
+    make_areas_df()
