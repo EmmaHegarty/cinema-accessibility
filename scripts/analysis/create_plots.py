@@ -15,7 +15,7 @@ def bar_chart(column, color, x, filespec, prefix='analysis', path_end='15-18-21_
     sorted_df = df.sort_values(by=color)
 
     if title is None and column is not None:
-        title = f'{column.replace("_", " ")} in {filespec.replace("_", " ")}'
+        title = f'{column.replace("_", " ").capitalize()} in {filespec.replace("_", " ")}'
 
     if x == 'departure time':
         sorted_df['departure time'] = sorted_df['departure time'].astype(str)
@@ -38,7 +38,7 @@ def actual_bar_chart(column, color, x, filespec, prefix='analysis', path_end='15
     sorted_df = df.sort_values(by=color)
 
     if title is None:
-        title = f'{column.replace("_", " ")} in {filespec.replace("_", " ")}'
+        title = f'{column.replace("_", " ").capitalize()} in {filespec.replace("_", " ")}'
 
     fig = bar(sorted_df, x=x, y=column, color=color, color_discrete_map=assigned_color, color_continuous_scale=['#636efa', '#ef553b'],
               title=title, labels=labels, category_orders=order)
@@ -54,7 +54,7 @@ def all_box_chart(column, color, x, filespec, prefix='analysis', path_end='15-18
                   title=None, labels=None, order=None):
     df = read_csv(path.join(RESULTS_PATH, 'analysis', f'{prefix}_{filespec}_{path_end}.csv'))
     if title is None:
-        title = f'{column} in {filespec}'
+        title = f'{column.capitalize()} in {filespec}'
     title = title.replace('_', ' ')
 
     fig = box(df, x=x, y=column, color=color, title=title, labels=labels, category_orders=order)
@@ -69,7 +69,7 @@ def scatter_chart(dependent, independent, color=None, prefix='analysis', path_en
                   title=None, labels=None):
     df = read_csv(path.join(RESULTS_PATH, 'analysis', f'{prefix}_{path_end}.csv'))
     if title is None:
-        title = f'{dependent.replace("_", " ")} / {independent.replace("_", " ")}'
+        title = f'{dependent.replace("_", " ").capitalize()} / {independent.replace("_", " ")}'
 
     fig = scatter(df, x=independent, y=dependent, color=color, title=title, labels=labels)
 
@@ -83,7 +83,7 @@ if __name__ == "__main__":
     pe = '15-18-21_Sat_104'
 
     bar_chart('average duration', 'level', 'area', 'starts_variables_filled', 'all', pe, 'all_overview',
-              title='average duration per start point',
+              title='Average duration per start point',
               labels={
                   'average duration': 'average duration (in s)',
                   'level': 'regional centrality'},
@@ -92,7 +92,7 @@ if __name__ == "__main__":
 
     for var in ['average duration', 'average speed', 'distance_start_cinema']:
         all_box_chart(var, 'level', 'area', 'analysis_filled', 'all', pe, 'all',
-                      title=f'data distribution {var}',
+                      title=f'Data distribution {var}',
                       labels={'average duration': 'average duration (in s)',
                               'average speed': 'average speed (in m/s)',
                               'distance_start_cinema': 'distance from start point to cinema (in m)',
@@ -117,7 +117,7 @@ if __name__ == "__main__":
 
         for var in ['distance_start_cinema']:
             scatter_chart('average duration', var, None, f'analysis_{name}', pe, name,
-                          title=f'average duration in {name}',
+                          title=f'Average duration in {name}',
                           labels={'average duration': 'average duration (in s)',
                                   'distance_start_cinema': 'distance from start point to cinema (in m)'})
 
@@ -138,7 +138,7 @@ if __name__ == "__main__":
                       order={'group': GROUP_ORDER})
 
         actual_bar_chart('osm_cinemas', 'likely count', 'group', name, 'groups_cum', 'average', f'likely_{name}',
-                         title=f'cinemas accessible within "social life and entertainment" time frame<br>in {name}',
+                         title=f'Cinemas accessible within "social life and entertainment" time frame<br>in {name}',
                          labels={'osm_cinemas': 'routes to cinemas',
                                  'likely count': 'accessible<br>cinemas'},
                          order={'group': GROUP_ORDER})
